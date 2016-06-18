@@ -1,15 +1,16 @@
 ---
 layout: post
 title: "Welcome to Jekyll"
-date: 2015-08-04 03:21:35
+date: 2016-05-08 20:34:26
 image: '/assets/img/'
 description: 'Put your description here.'
+main-class: 'jekyll'
+color: '#B31917'
 tags:
 - jekyll
-- web
 categories:
-- Jekyll is awesome
 twitter_text: 'Put your twitter description here.'
+introduction: 'Put your description here.'
 ---
 
 You'll find this post in your `_posts` directory - edit this post and re-build (or run with the `-w` switch) to see your changes!

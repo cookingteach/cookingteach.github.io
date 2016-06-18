@@ -1,21 +1,19 @@
-/**
- * smooth-scroll v5.3.3
- * Animate scrolling to anchor links, by Chris Ferdinandi.
+/*!
+ * smooth-scroll v7.1.1: Animate scrolling to anchor links
+ * (c) 2015 Chris Ferdinandi
+ * MIT License
  * http://github.com/cferdinandi/smooth-scroll
- *
- * Free to use under the MIT License.
- * http://gomakethings.com/mit/
  */
 
 (function (root, factory) {
     if ( typeof define === 'function' && define.amd ) {
-        define('smoothScroll', factory(root));
+        define([], factory(root));
     } else if ( typeof exports === 'object' ) {
         module.exports = factory(root);
     } else {
         root.smoothScroll = factory(root);
     }
-})(window || this, function (root) {
+})(typeof global !== 'undefined' ? global : this.window || this.global, function (root) {
 
     'use strict';
 
@@ -24,17 +22,18 @@
     //
 
     var smoothScroll = {}; // Object for public APIs
-    var supports = !!document.querySelector && !!root.addEventListener; // Feature test
-    var settings, eventTimeout, fixedHeader;
+    var supports = 'querySelector' in document && 'addEventListener' in root; // Feature test
+    var settings, eventTimeout, fixedHeader, headerHeight;
 
     // Default settings
     var defaults = {
+        selector: '[data-scroll]',
+        selectorHeader: '[data-scroll-header]',
         speed: 500,
         easing: 'easeInOutCubic',
         offset: 0,
         updateURL: true,
-        callbackBefore: function () {},
-        callbackAfter: function () {}
+        callback: function () {}
     };
 
 
@@ -43,78 +42,130 @@
     //
 
     /**
-     * A simple forEach() implementation for Arrays, Objects and NodeLists
+     * Merge two or more objects. Returns a new object.
      * @private
-     * @param {Array|Object|NodeList} collection Collection of items to iterate
-     * @param {Function} callback Callback function for each iteration
-     * @param {Array|Object|NodeList} scope Object/NodeList/Array that forEach is iterating over (aka `this`)
+     * @param {Boolean}  deep     If true, do a deep (or recursive) merge [optional]
+     * @param {Object}   objects  The objects to merge together
+     * @returns {Object}          Merged values of defaults and options
      */
-    var forEach = function (collection, callback, scope) {
-        if (Object.prototype.toString.call(collection) === '[object Object]') {
-            for (var prop in collection) {
-                if (Object.prototype.hasOwnProperty.call(collection, prop)) {
-                    callback.call(scope, collection[prop], prop, collection);
+    var extend = function () {
+
+        // Variables
+        var extended = {};
+        var deep = false;
+        var i = 0;
+        var length = arguments.length;
+
+        // Check if a deep merge
+        if ( Object.prototype.toString.call( arguments[0] ) === '[object Boolean]' ) {
+            deep = arguments[0];
+            i++;
+        }
+
+        // Merge the object into the extended object
+        var merge = function (obj) {
+            for ( var prop in obj ) {
+                if ( Object.prototype.hasOwnProperty.call( obj, prop ) ) {
+                    // If deep merge and property is an object, merge properties
+                    if ( deep && Object.prototype.toString.call(obj[prop]) === '[object Object]' ) {
+                        extended[prop] = extend( true, extended[prop], obj[prop] );
+                    } else {
+                        extended[prop] = obj[prop];
+                    }
                 }
             }
-        } else {
-            for (var i = 0, len = collection.length; i < len; i++) {
-                callback.call(scope, collection[i], i, collection);
+        };
+
+        // Loop through each object and conduct a merge
+        for ( ; i < length; i++ ) {
+            var obj = arguments[i];
+            merge(obj);
+        }
+
+        return extended;
+
+    };
+
+    /**
+     * Get the height of an element.
+     * @private
+     * @param  {Node} elem The element to get the height of
+     * @return {Number}    The element's height in pixels
+     */
+    var getHeight = function ( elem ) {
+        return Math.max( elem.scrollHeight, elem.offsetHeight, elem.clientHeight );
+    };
+
+    /**
+     * Get the closest matching element up the DOM tree.
+     * @private
+     * @param  {Element} elem     Starting element
+     * @param  {String}  selector Selector to match against (class, ID, data attribute, or tag)
+     * @return {Boolean|Element}  Returns null if not match found
+     */
+    var getClosest = function ( elem, selector ) {
+
+        // Variables
+        var firstChar = selector.charAt(0);
+        var supports = 'classList' in document.documentElement;
+        var attribute, value;
+
+        // If selector is a data attribute, split attribute from value
+        if ( firstChar === '[' ) {
+            selector = selector.substr(1, selector.length - 2);
+            attribute = selector.split( '=' );
+
+            if ( attribute.length > 1 ) {
+                value = true;
+                attribute[1] = attribute[1].replace( /"/g, '' ).replace( /'/g, '' );
             }
         }
-    };
 
-    /**
-     * Merge defaults with user options
-     * @private
-     * @param {Object} defaults Default settings
-     * @param {Object} options User options
-     * @returns {Object} Merged values of defaults and options
-     */
-    var extend = function ( defaults, options ) {
-        var extended = {};
-        forEach(defaults, function (value, prop) {
-            extended[prop] = defaults[prop];
-        });
-        forEach(options, function (value, prop) {
-            extended[prop] = options[prop];
-        });
-        return extended;
-    };
-
-    /**
-     * Get the closest matching element up the DOM tree
-     * @param {Element} elem Starting element
-     * @param {String} selector Selector to match against (class, ID, or data attribute)
-     * @return {Boolean|Element} Returns false if not match found
-     */
-    var getClosest = function (elem, selector) {
-        var firstChar = selector.charAt(0);
+        // Get closest match
         for ( ; elem && elem !== document; elem = elem.parentNode ) {
+
+            // If selector is a class
             if ( firstChar === '.' ) {
-                if ( elem.classList.contains( selector.substr(1) ) ) {
-                    return elem;
+                if ( supports ) {
+                    if ( elem.classList.contains( selector.substr(1) ) ) {
+                        return elem;
+                    }
+                } else {
+                    if ( new RegExp('(^|\\s)' + selector.substr(1) + '(\\s|$)').test( elem.className ) ) {
+                        return elem;
+                    }
                 }
-            } else if ( firstChar === '#' ) {
+            }
+
+            // If selector is an ID
+            if ( firstChar === '#' ) {
                 if ( elem.id === selector.substr(1) ) {
                     return elem;
                 }
-            } else if ( firstChar === '[' ) {
-                if ( elem.hasAttribute( selector.substr(1, selector.length - 2) ) ) {
-                    return elem;
+            }
+
+            // If selector is a data attribute
+            if ( firstChar === '[' ) {
+                if ( elem.hasAttribute( attribute[0] ) ) {
+                    if ( value ) {
+                        if ( elem.getAttribute( attribute[0] ) === attribute[1] ) {
+                            return elem;
+                        }
+                    } else {
+                        return elem;
+                    }
                 }
             }
-        }
-        return false;
-    };
 
-    /**
-     * Get the height of an element
-     * @private
-     * @param  {Node]} elem The element
-     * @return {Number}     The element's height
-     */
-    var getHeight = function (elem) {
-        return Math.max( elem.scrollHeight, elem.offsetHeight, elem.clientHeight );
+            // If selector is a tag
+            if ( elem.tagName.toLowerCase() === selector ) {
+                return elem;
+            }
+
+        }
+
+        return null;
+
     };
 
     /**
@@ -241,9 +292,9 @@
      */
     var getDocumentHeight = function () {
         return Math.max(
-            document.body.scrollHeight, document.documentElement.scrollHeight,
-            document.body.offsetHeight, document.documentElement.offsetHeight,
-            document.body.clientHeight, document.documentElement.clientHeight
+            root.document.body.scrollHeight, root.document.documentElement.scrollHeight,
+            root.document.body.offsetHeight, root.document.documentElement.offsetHeight,
+            root.document.body.clientHeight, root.document.documentElement.clientHeight
         );
     };
 
@@ -264,9 +315,13 @@
      * @param {Boolean} url Whether or not to update the URL history
      */
     var updateUrl = function ( anchor, url ) {
-        if ( history.pushState && (url || url === 'true') ) {
-            history.pushState( null, null, [root.location.protocol, '//', root.location.host, root.location.pathname, root.location.search, anchor].join('') );
+        if ( root.history.pushState && (url || url === 'true') && root.location.protocol !== 'file:' ) {
+            root.history.pushState( null, null, [root.location.protocol, '//', root.location.host, root.location.pathname, root.location.search, anchor].join('') );
         }
+    };
+
+    var getHeaderHeight = function ( header ) {
+        return header === null ? 0 : ( getHeight( header ) + header.offsetTop );
     };
 
     /**
@@ -279,16 +334,15 @@
     smoothScroll.animateScroll = function ( toggle, anchor, options ) {
 
         // Options and overrides
-        var settings = extend( settings || defaults, options || {} );  // Merge user options with defaults
         var overrides = getDataOptions( toggle ? toggle.getAttribute('data-options') : null );
-        settings = extend( settings, overrides );
+        var settings = extend( settings || defaults, options || {}, overrides ); // Merge user options with defaults
         anchor = '#' + escapeCharacters(anchor.substr(1)); // Escape special characters and leading numbers
 
         // Selectors and variables
-        var anchorElem = anchor === '#' ? document.documentElement : document.querySelector(anchor);
+        var anchorElem = anchor === '#' ? root.document.documentElement : root.document.querySelector(anchor);
         var startLocation = root.pageYOffset; // Current location on the page
-        if ( !fixedHeader ) { fixedHeader = document.querySelector('[data-scroll-header]'); }  // Get the fixed header if not already set
-        var headerHeight = fixedHeader === null ? 0 : ( getHeight( fixedHeader ) + fixedHeader.offsetTop ); // Get the height of a fixed header if one exists
+        if ( !fixedHeader ) { fixedHeader = root.document.querySelector( settings.selectorHeader ); }  // Get the fixed header if not already set
+        if ( !headerHeight ) { headerHeight = getHeaderHeight( fixedHeader ); } // Get the height of a fixed header if one exists and not already set
         var endLocation = getEndLocation( anchorElem, headerHeight, parseInt(settings.offset, 10) ); // Scroll to location
         var animationInterval; // interval timer
         var distance = endLocation - startLocation; // distance to travel
@@ -311,7 +365,7 @@
             if ( position == endLocation || currentLocation == endLocation || ( (root.innerHeight + currentLocation) >= documentHeight ) ) {
                 clearInterval(animationInterval);
                 anchorElem.focus();
-                settings.callbackAfter( toggle, anchor ); // Run callbacks after animation complete
+                settings.callback( toggle, anchor ); // Run callbacks after animation complete
             }
         };
 
@@ -333,7 +387,6 @@
          * @private
          */
         var startAnimateScroll = function () {
-            settings.callbackBefore( toggle, anchor ); // Run callbacks before animating scroll
             animationInterval = setInterval(loopAnimateScroll, 16);
         };
 
@@ -355,7 +408,7 @@
      * @private
      */
     var eventHandler = function (event) {
-        var toggle = getClosest(event.target, '[data-scroll]');
+        var toggle = getClosest( event.target, settings.selector );
         if ( toggle && toggle.tagName.toLowerCase() === 'a' ) {
             event.preventDefault(); // Prevent default click event
             smoothScroll.animateScroll( toggle, toggle.hash, settings); // Animate scroll
@@ -372,7 +425,7 @@
         if ( !eventTimeout ) {
             eventTimeout = setTimeout(function() {
                 eventTimeout = null; // Reset timeout
-                headerHeight = fixedHeader === null ? 0 : ( getHeight( fixedHeader ) + fixedHeader.offsetTop ); // Get the height of a fixed header if one exists
+                headerHeight = getHeaderHeight( fixedHeader ); // Get the height of a fixed header if one exists
             }, 66);
         }
     };
@@ -387,13 +440,14 @@
         if ( !settings ) return;
 
         // Remove event listeners
-        document.removeEventListener( 'click', eventHandler, false );
+        root.document.removeEventListener( 'click', eventHandler, false );
         root.removeEventListener( 'resize', eventThrottler, false );
 
         // Reset varaibles
         settings = null;
         eventTimeout = null;
         fixedHeader = null;
+        headerHeight = null;
     };
 
     /**
@@ -411,10 +465,11 @@
 
         // Selectors and variables
         settings = extend( defaults, options || {} ); // Merge user options with defaults
-        fixedHeader = document.querySelector('[data-scroll-header]'); // Get the fixed header
+        fixedHeader = root.document.querySelector( settings.selectorHeader ); // Get the fixed header
+        headerHeight = getHeaderHeight( fixedHeader );
 
         // When a toggle is clicked, run the click handler
-        document.addEventListener('click', eventHandler, false );
+        root.document.addEventListener('click', eventHandler, false );
         if ( fixedHeader ) { root.addEventListener( 'resize', eventThrottler, false ); }
 
     };
