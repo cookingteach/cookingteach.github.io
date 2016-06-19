@@ -14,6 +14,11 @@ github_username:  cookingteach
 gplus_username:  cookingteach
 disqus_username: cookingteach
 
+paginate: 4
+paginate_path: /page/:num/
+infinite_scroll: true
+gems: [jekyll-paginate]
+
 # Build settings
 markdown: kramdown
 kramdown:
