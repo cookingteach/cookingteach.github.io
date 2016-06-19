@@ -5,7 +5,7 @@ baseurl: ""
 url: "http://cookingteach.com" 
 logo: '/assets/logo.png'
 # User settings
-username: ct
+username: Cooking Teach
 user_description: All New Indian,South Indian and World wide HomeMade Recipes
 user_title: Cooking Teach
 email: rupsaini93@gmail.com
@@ -19,7 +19,7 @@ markdown: kramdown
 kramdown:
   input: GFM
   syntax_highlighter: rouge
-permalink: /:categories/:title
+permalink: /:title
 
 
 # html minify
