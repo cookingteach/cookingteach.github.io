@@ -1,22 +1,25 @@
 # Site settings
-description: A blog about lorem ipsum dolor sit amet
-baseurl: "" # the subpath of your site, e.g. /blog
-url: "http://willianjusten.com.br" # the base hostname & protocol for your site e.g. http://willianjusten.com.br
-
+title: Cooking Teach
+description: All New Indian,South Indian and World wide HomeMade Recipes
+baseurl: "" 
+url: "http://cookingteach.com" 
+logo: '/assets/logo.png'
 # User settings
-username: Lorem Ipsum
-user_description: Anon Developer at Lorem Ipsum Dolor
-user_title: Anon Developer
-email: anon@anon.com
-twitter_username: lorem_ipsum
-github_username:  lorem_ipsum
-gplus_username:  lorem_ipsum
-disqus_username: lorem_ipsum
+username: ct
+user_description: All New Indian,South Indian and World wide HomeMade Recipes
+user_title: Cooking Teach
+email: rupsaini93@gmail.com
+twitter_username: cookingteach
+github_username:  cookingteach
+gplus_username:  cookingteach
+disqus_username: cookingteach
 
 # Build settings
 markdown: kramdown
-highlighter: rouge
-permalink: /:title/
+kramdown:
+  input: GFM
+  syntax_highlighter: rouge
+permalink: /:categories/:title
 
 
 # html minify
@@ -31,7 +34,7 @@ compress_html:
 links:
   - title: Home
     url: /
-  - title: Series
+  - title: Categories
     url: /series
   - title: Tags
     url: /tags
