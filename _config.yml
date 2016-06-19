@@ -16,7 +16,7 @@ disqus_username: cookingteach
 
 paginate: 4
 paginate_path: /page/:num/
-infinite_scroll: true
+infinite_scroll: false
 gems: [jekyll-paginate]
 
 # Build settings
