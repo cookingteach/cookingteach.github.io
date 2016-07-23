@@ -29,7 +29,7 @@ tags:
   - rajma
 ---
 
-[![homemade rajma sandwich recipe](http://cookingteach.com/ wp-content/uploads/2016/03/rajma-sandwich-300x200.jpg)](http://cookingteach.com/homemade-easy-rajma-sandwich-recipe/rajma-sandwich/)
+[![homemade rajma sandwich recipe](http://cookingteach.com/wp-content/uploads/2016/03/rajma-sandwich-300x200.jpg)](http://cookingteach.com/homemade-easy-rajma-sandwich-recipe/)
 
 ## <span style="text-decoration: underline; color: #800000;">Homemade Easy <a class="zem_slink" title="Rajma" href="http://en.wikipedia.org/wiki/Rajma" target="_blank" rel="wikipedia">Rajma</a>(Beans) Sandwich Recipe</span>
 

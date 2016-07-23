@@ -18,7 +18,7 @@ layout: default
               {% assign tags = html | split:" " %}
               {% for tag in tags %}
                 {% if tag contains 'src' %}
-                  <img {{ tag }} />
+                  <img {{ tag }} class="post-img"/>
                 {% endif %}
               {% endfor %}
               {% assign foundImage = 1 %}
