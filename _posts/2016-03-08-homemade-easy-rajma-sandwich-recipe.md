@@ -28,7 +28,8 @@ tags:
   - mushrooms
   - rajma
 ---
-## <a href="http://cookingteach.com/homemade-easy-rajma-sandwich-recipe/rajma-sandwich/" rel="attachment wp-att-372"><img class="aligncenter wp-image-372 size-medium" src="http://cookingteach.com/ wp-content/uploads/2016/03/rajma-sandwich-300x200.jpg" alt="homemade rajma sandwich recipe" width="300" height="200" srcset="http://cookingteach.com/wp-content/uploads/2016/03/rajma-sandwich-300x200.jpg 300w, http://cookingteach.com/wp-content/uploads/2016/03/rajma-sandwich-768x512.jpg 768w, http://cookingteach.com/wp-content/uploads/2016/03/rajma-sandwich-1024x683.jpg 1024w" sizes="(max-width: 300px) 100vw, 300px" /></a>
+
+[![homemade rajma sandwich recipe](http://cookingteach.com/ wp-content/uploads/2016/03/rajma-sandwich-300x200.jpg)](http://cookingteach.com/homemade-easy-rajma-sandwich-recipe/rajma-sandwich/)
 
 ## <span style="text-decoration: underline; color: #800000;">Homemade Easy <a class="zem_slink" title="Rajma" href="http://en.wikipedia.org/wiki/Rajma" target="_blank" rel="wikipedia">Rajma</a>(Beans) Sandwich Recipe</span>
 

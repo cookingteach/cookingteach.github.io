@@ -6,138 +6,46 @@ author: admin
 layout: post
 guid: http://cookingteach.com/veg-noodles-easy-recipe/
 permalink: /veg-noodles-easy-recipe/
-mythemes-post-layout:
-  - 
-mythemes-post-sidebar:
-  - 
-blogger_blog:
-  - cookingteach1.blogspot.com
-blogger_author:
-  - Rup Saini
-blogger_permalink:
-  - /2015/02/veg-noodles-easy-recipe.html
-blogger_internal:
-  - /feeds/7948921895358557192/posts/default/5106965911238342984
-nt_review_title:
-  - 
-nt_review_position:
-  - 
-nt_review_style:
-  - stars
-nt_review_summary:
-  - 
-nt_review_total:
-  - 
 categories:
   - FAST FOOD
 ---
-<p style="clear: both; text-align: center;">
-</p>
 
-<p style="clear: both; text-align: center;">
-  <a style="margin-left: 1em; margin-right: 1em;" href="http://2.bp.blogspot.com/-3Ztyj2GqIjs/VOtNzIc3SGI/AAAAAAAAAGU/8cdK1pitn4c/s1600/2.jpg"><img src="http://2.bp.blogspot.com/-3Ztyj2GqIjs/VOtNzIc3SGI/AAAAAAAAAGU/8cdK1pitn4c/s1600/2.jpg" alt="" width="320" height="282" border="0" /></a>
-</p>
+[![](http://2.bp.blogspot.com/-3Ztyj2GqIjs/VOtNzIc3SGI/AAAAAAAAAGU/8cdK1pitn4c/s1600/2.jpg)](http://2.bp.blogspot.com/-3Ztyj2GqIjs/VOtNzIc3SGI/AAAAAAAAAGU/8cdK1pitn4c/s1600/2.jpg)
 
-<h2 dir="ltr" style="text-align: left;">
-  <span style="color: #cc0000;">Homemade Veg Noodles easy recipe</span>
-</h2>
+## <span style="color: #cc0000;">Homemade Veg Noodles easy recipe</span>
 
-<p style="text-align: left;">
-  <b>Vegetable <a class="zem_slink" title="Noodle" href="http://en.wikipedia.org/wiki/Noodle" target="_blank" rel="wikipedia">noodles</a></b> is a famous Chinese dish.It is most <b>popular</b> in everyone mostly in kids.Water goes into our mouth when we hear a name of noodle.In this <b>spicy noodles</b> i use a many kind of <b>vegetables</b> to make it tastiest.It is very <b>easy</b> to prepare.I give you a step by step <b>procedure</b> to make a noodles.
-</p>
+**Vegetable [noodles](http://en.wikipedia.org/wiki/Noodle "Noodle")** is a famous Chinese dish.It is most **popular** in everyone mostly in kids.Water goes into our mouth when we hear a name of noodle.In this **spicy noodles** i use a many kind of **vegetables** to make it tastiest.It is very **easy** to prepare.I give you a step by step **procedure** to make a noodles.
 
-## <span style="color: #cc0000;"><u><i>Ingredients:</i></u></span>
+## <span style="color: #cc0000;"><u>_Ingredients:_</u></span>
 
-<p>
-  <ul>
-    <li>
-      1 packet <span style="color: blue;"><a class="zem_slink" title="Chinese noodles" href="http://en.wikipedia.org/wiki/Chinese_noodles" target="_blank" rel="wikipedia">Chinese noodles</a></span>
-    </li>
-    <li>
-      1 cup finely <span style="color: blue;">chopped <a class="zem_slink" title="Onion" href="http://en.wikipedia.org/wiki/Onion" target="_blank" rel="wikipedia">onion</a></span>
-    </li>
-    <li>
-      1 cup finely <span style="color: blue;">chopped capsicum</span>
-    </li>
-    <li>
-      1 cup finely <span style="color: blue;">chopped cabbage</span>
-    </li>
-    <li>
-      1 cup finely <span style="color: blue;">chopped carrot</span>
-    </li>
-    <li>
-      2 tbsp finely <span style="color: blue;">chopped green chilli</span>
-    </li>
-    <li>
-      2 tbsp <span style="color: blue;"><a class="zem_slink" title="Soy sauce" href="http://en.wikipedia.org/wiki/Soy_sauce" target="_blank" rel="wikipedia">soya sauce</a></span>
-    </li>
-    <li>
-      2 tbsp <span style="color: blue;"><a class="zem_slink" title="Hot sauce" href="http://en.wikipedia.org/wiki/Hot_sauce" target="_blank" rel="wikipedia">chili sauce</a></span>
-    </li>
-    <li>
-      3 tbsp <span style="color: blue;"><a class="zem_slink" title="Tomato sauce" href="http://en.wikipedia.org/wiki/Tomato_sauce" target="_blank" rel="wikipedia">tomato sauce</a></span>
-    </li>
-    <li>
-      1 tbsp <span style="color: blue;"><a class="zem_slink" title="Garam masala" href="http://en.wikipedia.org/wiki/Garam_masala" target="_blank" rel="wikipedia">garam masala</a></span>
-    </li>
-    <li>
-      1 tbsp <span style="color: blue;"><a class="zem_slink" title="Black pepper" href="http://en.wikipedia.org/wiki/Black_pepper" target="_blank" rel="wikipedia">black pepper</a></span>
-    </li>
-    <li>
-      <span style="color: blue;">salt</span> to taste
-    </li>
-    <li>
-      4 tbsp<span style="color: blue;"> oil</span>
-    </li>
-    <li>
-      2 tbsp finely <span style="color: blue;">chopped <a class="zem_slink" title="Coriander" href="http://en.wikipedia.org/wiki/Coriander" target="_blank" rel="wikipedia">coriander</a></span>
-    </li>
-  </ul>
-</p>
+*   1 packet <span style="color: blue;">[Chinese noodles](http://en.wikipedia.org/wiki/Chinese_noodles "Chinese noodles")</span>
+*   1 cup finely <span style="color: blue;">chopped [onion](http://en.wikipedia.org/wiki/Onion "Onion")</span>
+*   1 cup finely <span style="color: blue;">chopped capsicum</span>
+*   1 cup finely <span style="color: blue;">chopped cabbage</span>
+*   1 cup finely <span style="color: blue;">chopped carrot</span>
+*   2 tbsp finely <span style="color: blue;">chopped green chilli</span>
+*   2 tbsp <span style="color: blue;">[soya sauce](http://en.wikipedia.org/wiki/Soy_sauce "Soy sauce")</span>
+*   2 tbsp <span style="color: blue;">[chili sauce](http://en.wikipedia.org/wiki/Hot_sauce "Hot sauce")</span>
+*   3 tbsp <span style="color: blue;">[tomato sauce](http://en.wikipedia.org/wiki/Tomato_sauce "Tomato sauce")</span>
+*   1 tbsp <span style="color: blue;">[garam masala](http://en.wikipedia.org/wiki/Garam_masala "Garam masala")</span>
+*   1 tbsp <span style="color: blue;">[black pepper](http://en.wikipedia.org/wiki/Black_pepper "Black pepper")</span>
+*   <span style="color: blue;">salt</span> to taste
+*   4 tbsp<span style="color: blue;"> oil</span>
+*   2 tbsp finely <span style="color: blue;">chopped [coriander](http://en.wikipedia.org/wiki/Coriander "Coriander")</span>
 
 ## _<u><span style="color: #cc0000;">Method:</span></u>_
 
-<p>
-  <ul>
-    <li>
-      Boil <b>noodles</b> with 1 tbsp <b>oil</b> and after boiling <b>wash</b> it with cold water.
-    </li>
-    <li>
-      Now take a<b> pan</b> ,add 3 tbsp <b>oil</b> and add <b>onion</b> in a pan.
-    </li>
-    <li>
-      When onion became light brown then add <b>capsicum</b>, <b>cabbage</b>, <b>carrot</b> and <b>green chilli</b> in it.
-    </li>
-    <li>
-      <b><a class="zem_slink" title="Fry (Futurama)" href="http://en.wikipedia.org/wiki/Fry_%28Futurama%29" target="_blank" rel="wikipedia">Fry</a></b> them for 3-5 minutes.
-    </li>
-    <li>
-      After fry them,add <b>soya sauce</b>, <b>chilli sauce</b>, <b>tomato sauce</b>, <b>garam masala</b>, <b>black pepper</b> and <b>salt</b>.
-    </li>
-    <li>
-      <b>Mix</b> them properly.
-    </li>
-    <li>
-      After this add a boiled <b>noodles</b> into this. .
-    </li>
-    <li>
-      <b>Cook</b> this at least<b> 3 min</b> on the <b>simmer heat</b>.
-    </li>
-    <li>
-      Let<b> off</b> the <b>gas</b> it now.
-    </li>
-    <li>
-      <b>Serve</b> it hot.
-    </li>
-  </ul>
-</p>
+*   Boil **noodles** with 1 tbsp **oil** and after boiling **wash** it with cold water.
+*   Now take a **pan** ,add 3 tbsp **oil** and add **onion** in a pan.
+*   When onion became light brown then add **capsicum**, **cabbage**, **carrot** and **green chilli** in it.
+*   **[Fry](http://en.wikipedia.org/wiki/Fry_%28Futurama%29 "Fry (Futurama)")** them for 3-5 minutes.
+*   After fry them,add **soya sauce**, **chilli sauce**, **tomato sauce**, **garam masala**, **black pepper** and **salt**.
+*   **Mix** them properly.
+*   After this add a boiled **noodles** into this. .
+*   **Cook** this at least **3 min** on the **simmer heat**.
+*   Let **off** the **gas** it now.
+*   **Serve** it hot.
 
 ## _<u><span style="color: #cc0000;">Method To Serve:</span></u>_
 
-<p>
-  <ul>
-    <li>
-      Add a noodles into a bowl or serving plate and garnish it with finely chopped <b>coriander</b> and serve with a tomato <b>sauce</b>.
-    </li>
-  </ul>
-</p>
+*   Add a noodles into a bowl or serving plate and garnish it with finely chopped **coriander** and serve with a tomato **sauce**.

@@ -6,227 +6,74 @@ author: admin
 layout: post
 guid: http://cookingteach.com/maize-flour-idli/
 permalink: /maize-flour-idli/
-mythemes-post-layout:
-  - 
-mythemes-post-sidebar:
-  - 
-blogger_blog:
-  - cookingteach1.blogspot.com
-blogger_author:
-  - Rup Saini
-blogger_permalink:
-  - /2015/02/maize-flour-idli.html
-blogger_internal:
-  - /feeds/7948921895358557192/posts/default/7201357578569388098
-nt_review_title:
-  - 
-nt_review_position:
-  - 
-nt_review_style:
-  - stars
-nt_review_summary:
-  - 
-nt_review_total:
-  - 
 categories:
   - HEALTHY FOOD
 ---
-<p style="clear: both; text-align: center;">
-</p>
 
-<p style="clear: both; text-align: center;">
-  <a style="margin-left: 1em; margin-right: 1em;" href="http://4.bp.blogspot.com/-TwaQAZtM5HM/VOyqnYGkphI/AAAAAAAAAGs/PQeEZb_TnJQ/s1600/11.jpg"><img src="http://4.bp.blogspot.com/-TwaQAZtM5HM/VOyqnYGkphI/AAAAAAAAAGs/PQeEZb_TnJQ/s1600/11.jpg" alt="" border="0" /></a>
-</p>
+[![](http://4.bp.blogspot.com/-TwaQAZtM5HM/VOyqnYGkphI/AAAAAAAAAGs/PQeEZb_TnJQ/s1600/11.jpg)](http://4.bp.blogspot.com/-TwaQAZtM5HM/VOyqnYGkphI/AAAAAAAAAGs/PQeEZb_TnJQ/s1600/11.jpg)
 
-<p style="clear: both; text-align: center;">
-</p>
+# Homemade Easy Maize [flour](http://en.wikipedia.org/wiki/Flour "Flour") [idli](http://en.wikipedia.org/wiki/Idli "Idli")
 
-<h1 style="clear: both;">
-  Homemade Easy Maize <a class="zem_slink" title="Flour" href="http://en.wikipedia.org/wiki/Flour" target="_blank" rel="wikipedia">flour</a> <a class="zem_slink" title="Idli" href="http://en.wikipedia.org/wiki/Idli" target="_blank" rel="wikipedia">idli</a>
-</h1>
+_Maize flour idli  _is tasty and full of nutrients.It is a special dish in a winters when we get bored from **prantha** **roti** etc. This **[maize](http://en.wikipedia.org/wiki/Maize "Maize") flour idli** is full of fiber.It completely satisfy your **appetite**.So serve it with **[peanut sauce](http://en.wikipedia.org/wiki/Peanut_sauce "Peanut sauce")** or **coconut sauce** and enjoy it.
 
-<p style="text-align: left;">
-  <i style="font-weight: bold;">Maize flour idli  </i>is tasty and full of nutrients.It is a special dish in a winters when we get bored from <b>prantha</b> <b>roti</b> etc. This<b> <a class="zem_slink" title="Maize" href="http://en.wikipedia.org/wiki/Maize" target="_blank" rel="wikipedia">maize</a> flour idli</b> is full of fiber.It completely satisfy your <b>appetite</b>.So serve it with <b><a class="zem_slink" title="Peanut sauce" href="http://en.wikipedia.org/wiki/Peanut_sauce" target="_blank" rel="wikipedia">peanut sauce</a></b> or <b>coconut sauce</b> and enjoy it.
-</p>
+## <span style="color: red;">_<u>Ingredients:</u>_</span>
 
-<h2 style="text-align: left;">
-  <span style="color: red;"><i><u>Ingredients:</u></i></span>
-</h2>
+*   1 cup <span style="color: blue;">maize flour</span>
+*   1 cup <span style="color: blue;">curd</span>
+*   2 tbsp <span style="color: blue;">oil</span>
+*   2 tbsp finely chopped <span style="color: blue;">green</span> <span style="color: blue;">[coriander](http://en.wikipedia.org/wiki/Coriander "Coriander")</span>
+*   10-12 <span style="color: blue;">[curry leaves](http://en.wikipedia.org/wiki/Curry_Tree "Curry Tree")</span>
+*   1/2 tbsp <span style="color: blue;">mustard</span>
+*   1 tbsp <span style="color: blue;">[urad dal](http://en.wikipedia.org/wiki/Vigna_mungo "Vigna mungo")</span>
+*   1 tbsp <span style="color: blue;">[chana dal](http://en.wikipedia.org/wiki/Dal "Dal")</span>
+*   1-2 <span style="color: blue;">green chilli</span> finely chopped
+*   1 tbsp <span style="color: blue;">ginger</span>(grated)
+*   <span style="color: blue;">salt</span> to taste
+*   3/4 <span style="color: blue;">eno [fruit](http://en.wikipedia.org/wiki/Fruit "Fruit") salt</span>
+*   <span style="color: blue;">water</span>
 
-<p>
-  <ul style="text-align: left;">
-    <ul style="text-align: left;">
-      <li>
-        1 cup <span style="color: blue;">maize flour</span>
-      </li>
-      <li>
-        1 cup <span style="color: blue;">curd</span>
-      </li>
-      <li>
-        2 tbsp <span style="color: blue;">oil</span>
-      </li>
-      <li>
-        2 tbsp finely chopped <span style="color: blue;">green</span> <span style="color: blue;"><a class="zem_slink" title="Coriander" href="http://en.wikipedia.org/wiki/Coriander" target="_blank" rel="wikipedia">coriander</a></span>
-      </li>
-      <li>
-        10-12 <span style="color: blue;"><a class="zem_slink" title="Curry Tree" href="http://en.wikipedia.org/wiki/Curry_Tree" target="_blank" rel="wikipedia">curry leaves</a></span>
-      </li>
-      <li>
-        1/2 tbsp <span style="color: blue;">mustard</span>
-      </li>
-      <li>
-        1 tbsp<span style="color: blue;"> <a class="zem_slink" title="Vigna mungo" href="http://en.wikipedia.org/wiki/Vigna_mungo" target="_blank" rel="wikipedia">urad dal</a></span>
-      </li>
-      <li>
-        1 tbsp <span style="color: blue;"><a class="zem_slink" title="Dal" href="http://en.wikipedia.org/wiki/Dal" target="_blank" rel="wikipedia">chana dal</a></span>
-      </li>
-      <li>
-        1-2 <span style="color: blue;">green chilli</span> finely chopped
-      </li>
-      <li>
-        1 tbsp <span style="color: blue;">ginger</span>(grated)
-      </li>
-      <li>
-        <span style="color: blue;">salt</span> to taste
-      </li>
-      <li>
-        3/4 <span style="color: blue;">eno <a class="zem_slink" title="Fruit" href="http://en.wikipedia.org/wiki/Fruit" target="_blank" rel="wikipedia">fruit</a> salt</span>
-      </li>
-      <li>
-        <span style="color: blue;">water</span>
-      </li>
-    </ul>
-  </ul>
-  
-  <h2 style="text-align: left;">
-    <span style="color: red;"><i><u>Method to prepare:</u></i></span>
-  </h2>
-</p>
+## <span style="color: red;">_<u>Method to prepare:</u>_</span>
 
-<p>
-  <ul style="text-align: left;">
-    <ul style="text-align: left;">
-      <li>
-        Take a<b> pan</b>, add 2 tbsp <b>oil</b> after this add <b>mustard</b> and <b>roasted</b> it.
-      </li>
-      <li>
-        Now, add <b>chana dal </b>and <b>urad dal</b> in this and  <b>cook</b> it until it brown.
-      </li>
-      <li>
-        Then add<b> ginger</b>, <b>green chilli</b>, <b>curry leaves</b> into it and <b>cook</b> 2-3 minutes.
-      </li>
-      <li>
-        Now, add <b>maize flour </b>in this and <b>cook</b> it for 3 minutes.
-      </li>
-      <li>
-        Put the mixture into a<b> bowl</b>.
-      </li>
-      <li>
-        Now, add a <b>curd</b>, <b>salt</b>, <b>coriander</b> and <b>water</b> in this and mix it properly and get dilute it so cooked well.
-      </li>
-      <li>
-        Keep it aside for 10 min.
-      </li>
-      <li>
-        After 10 min mixture<b> set</b> properly.
-      </li>
-      <li>
-        Take a<b> cooker</b> and add a water in it and place it on <b>flame</b> to boil.
-      </li>
-      <li>
-        Take a <b>idli stand</b> and get smoother it with oil.
-      </li>
-      <li>
-        Now, add a <b>eno fruit salt</b> into the mixture and mix it.
-      </li>
-      <li>
-        <b>Fill</b> idli stand with this <b>mixture.</b>
-      </li>
-      <li>
-        <b>Place</b> a <b>stand</b> in <b>cooker</b> and close it with lid but <b>without whistle</b>.
-      </li>
-      <li>
-        <b>Cook</b> it for 10-12 minutes.
-      </li>
-      <li>
-        Keep a flame to the point so that<b> constant boiling</b> of water.
-      </li>
-      <li>
-        After 12 minutes open the cooker and refer to <b>put the knife</b> in idli.
-      </li>
-      <li>
-        If the mixture<b> not stickes </b>with knife, means<b> idli ready</b>.
-      </li>
-      <li>
-        <b>Take out</b> idli stand from cooker.
-      </li>
-      <li>
-        Keep it <b>cool</b>.
-      </li>
-      <li>
-        And then <b>serve</b> it.
-      </li>
-      <p>
-        <!-- post --></ul> </ul> 
-        
-        <p>
-          <ins style="display: block;" data-ad-client="ca-pub-8391089480493038" data-ad-slot="4079886109" data-ad-format="auto"></ins><i><u><span style="color: red;">Method to serve:</span></u></i></p> 
-          
-          <p>
-            <i><u><span style="color: red;"> </span></u></i>
-          </p>
-          
-          <p>
-            <ul style="text-align: left;">
-              <li>
-                Serve this tasty idli with <b>peanut sauce</b> or <b>coconut sauce </b>and <b>green coriander</b> sauce and enjoy it.
-              </li>
-            </ul>
-          </p>
-          
-          <h2 style="text-align: left;">
-            <i><u><span style="color: red;">Tip:</span></u></i>
-          </h2>
-          
-          <p>
-            <ul style="text-align: left;">
-              <li>
-                Add <b>eno fruit salt</b> after all preparation.
-              </li>
-              <li>
-                You can also use a <b>consumable soda</b> in place of eno fruit salt.
-              </li>
-              <li>
-                You can also use a finely chopped <b>vegetables</b> in a mixture.
-              </li>
-            </ul>
-            
-            <h2 style="text-align: left;">
-              <span style="color: red;"><i><u>Another method to prepare it:</u></i></span>
-            </h2>
-          </p>
-          
-          <p>
-            <ul style="text-align: left;">
-              <li>
-                You can also prepare idli in <b>microwave</b>.
-              </li>
-              <li>
-                The <b>procedure</b> is same .
-              </li>
-              <li>
-                Keep the <b>idli stand </b>in microwave bowl and place it in microwave.
-              </li>
-              <li>
-                Cook it for 7 min.
-              </li>
-            </ul>
-          </p>
-          
-          <p>
-            <i><u><span style="color: red;"> </span></u></i>
-          </p>
-          
-          <p style="text-align: left;">
-            <span style="color: red;"><i><u> </u></i></span>
-          </p>
+*   Take a **pan**, add 2 tbsp **oil** after this add **mustard** and **roasted** it.
+*   Now, add **chana dal** and **urad dal** in this and  **cook** it until it brown.
+*   Then add **ginger**, **green chilli**, **curry leaves** into it and **cook** 2-3 minutes.
+*   Now, add **maize flour** in this and **cook** it for 3 minutes.
+*   Put the mixture into a **bowl**.
+*   Now, add a **curd**, **salt**, **coriander** and **water** in this and mix it properly and get dilute it so cooked well.
+*   Keep it aside for 10 min.
+*   After 10 min mixture **set** properly.
+*   Take a **cooker** and add a water in it and place it on **flame** to boil.
+*   Take a **idli stand** and get smoother it with oil.
+*   Now, add a **eno fruit salt** into the mixture and mix it.
+*   **Fill** idli stand with this **mixture.**
+*   **Place** a **stand** in **cooker** and close it with lid but **without whistle**.
+*   **Cook** it for 10-12 minutes.
+*   Keep a flame to the point so that **constant boiling** of water.
+*   After 12 minutes open the cooker and refer to **put the knife** in idli.
+*   If the mixture **not stickes** with knife, means **idli ready**.
+*   **Take out** idli stand from cooker.
+*   Keep it **cool**.
+*   And then **serve** it.
+
+_<u><span style="color: red;">Method to serve:</span></u>_
+
+_<u><span style="color: red;"> </span></u>_
+
+*   Serve this tasty idli with **peanut sauce** or **coconut sauce** and **green coriander** sauce and enjoy it.
+
+## _<u><span style="color: red;">Tip:</span></u>_
+
+*   Add **eno fruit salt** after all preparation.
+*   You can also use a **consumable soda** in place of eno fruit salt.
+*   You can also use a finely chopped **vegetables** in a mixture.
+
+## <span style="color: red;">_<u>Another method to prepare it:</u>_</span>
+
+*   You can also prepare idli in **microwave**.
+*   The **procedure** is same .
+*   Keep the **idli stand** in microwave bowl and place it in microwave.
+*   Cook it for 7 min.
+
+_<u><span style="color: red;"> </span></u>_
+
+<span style="color: red;"></span>

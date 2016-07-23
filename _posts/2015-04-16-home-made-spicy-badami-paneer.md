@@ -6,227 +6,74 @@ author: admin
 layout: post
 guid: http://cookingteach.com/home-made-spicy-badami-paneer/
 permalink: /home-made-spicy-badami-paneer/
-mythemes-post-layout:
-  - 
-mythemes-post-sidebar:
-  - 
-blogger_blog:
-  - cookingteach1.blogspot.com
-blogger_author:
-  - Rup Saini
-blogger_permalink:
-  - /2015/04/spicy-badami-paneer.html
-blogger_internal:
-  - /feeds/7948921895358557192/posts/default/398025928083496382
-nt_review_title:
-  - 
-nt_review_position:
-  - 
-nt_review_style:
-  - stars
-nt_review_summary:
-  - 
-nt_review_total:
-  - 
 categories:
   - Indian dish
 ---
-<p dir="ltr" style="text-align: left;">
-  <p dir="ltr" style="text-align: left;">
-    <p style="clear: both; text-align: center;">
-    </p>
-    
-    <p style="clear: both; text-align: center;">
-    </p>
-    
-    <p style="clear: both; text-align: center;">
-      <a style="margin-left: 1em; margin-right: 1em;" href="http://4.bp.blogspot.com/-brNfo8VSkUY/VS9jo7Dz4WI/AAAAAAAAAQk/neYht8KZGJI/s1600/badami.jpg"><img title="Spicy Badami Paneer" src="http://4.bp.blogspot.com/-brNfo8VSkUY/VS9jo7Dz4WI/AAAAAAAAAQk/neYht8KZGJI/s1600/badami.jpg" alt="Spicy Badami Paneer" width="400" height="308" border="0" /></a>
-    </p>
-    
-    <h1>
-      Spicy Badami Paneer
-    </h1>
-    
-    <p style="text-align: justify;">
-      Spicy Badami Paneer is <a title="Indian cuisine" href="http://en.wikipedia.org/wiki/Indian_cuisine" target="_blank" rel="wikipedia">Indian dish</a> which is very spicy, tasty and delicious. you can make it in a <a class="zem_slink" title="Microwave" href="http://en.wikipedia.org/wiki/Microwave" target="_blank" rel="wikipedia">microwave</a> or in a pan. It is very simple and easy to make. You can prepared it with very less time. Here a simple steps to make a badami <a class="zem_slink" title="Paneer" href="http://en.wikipedia.org/wiki/Paneer" target="_blank" rel="wikipedia">paneer</a>.
-    </p>
-    
-    <h2 style="text-align: left;">
-       <b><i><u><span style="color: red;">Ingredients:</span></u></i></b>
-    </h2>
-    
-    <ul>
-      <li>
-        3/4 cup <a title="Paneer" href="http://en.wikipedia.org/wiki/Paneer" target="_blank" rel="wikipedia">paneer</a> , cut into 1/2&#8243; cubes
-      </li>
-      <li>
-        1/4 cup <a title="Tomato purée" href="http://en.wikipedia.org/wiki/Tomato_pur%C3%A9e" target="_blank" rel="wikipedia">tomato puree</a>, ready made
-      </li>
-      <li>
-        1/2 tbsp <a title="Chili powder" href="http://en.wikipedia.org/wiki/Chili_powder" target="_blank" rel="wikipedia">chilli powder</a>
-      </li>
-      <li>
-        1/4 tbsp <a title="Garam masala" href="http://en.wikipedia.org/wiki/Garam_masala" target="_blank" rel="wikipedia">garam masala</a>
-      </li>
-      <li>
-        1/4 tbsp cumin <span style="color: blue;">powder</span>
-      </li>
-      <li>
-        1/4 tbsp <a title="Coriander" href="http://en.wikipedia.org/wiki/Coriander" target="_blank" rel="wikipedia">coriander</a> <span style="color: blue;">powder</span>
-      </li>
-      <li>
-        1 tbsp <span style="color: blue;">cream / milk</span>
-      </li>
-      <li>
-        3 tbsp <span style="color: blue;">oil</span>
-      </li>
-      <li>
-        a pinch of <a title="Turmeric" href="http://en.wikipedia.org/wiki/Turmeric" target="_blank" rel="wikipedia">turmeric powder</a>
-      </li>
-      <li>
-        a pinch of<span style="color: blue;"> sugar</span>
-      </li>
-      <li>
-        <span style="color: blue;">salt</span> to taste
-      </li>
-    </ul>
-    
-    <h3 style="text-align: left;">
-      <b><i><u><span style="color: red;">To Be Ground To A Smooth Paste </span></u></i></b>
-    </h3>
-    
-    <ul>
-      <li>
-        10 <span style="color: blue;">almonds</span>
-      </li>
-      <li>
-        2 whole dry <span style="color: blue;">kashmiri red chillies</span>
-      </li>
-      <li>
-        1/4 cup roughly chopped<span style="color: blue;"> onions</span>
-      </li>
-      <li>
-        1/2&#8243; pc <span style="color: blue;">ginger</span>
-      </li>
-      <li>
-        1/2 tbsp roughly chopped<span style="color: blue;"> garlic</span>
-      </li>
-    </ul>
-    
-    <h3 style="text-align: left;">
-      <i><u><span style="color: red;">For Garnish: </span></u></i>
-    </h3>
-    
-    <ul>
-      <li>
-        1/2 tbsp <span style="color: blue;">ginger</span> juliennes
-      </li>
-      <li>
-        1/2 tbsp chopped <span style="color: blue;">coriander</span>
-      </li>
-    </ul>
-    
-    <h2 style="text-align: left;">
-      <i><u><span style="color: red;">Method: </span></u></i>
-    </h2>
-    
-    <ul>
-      <li>
-        To make this badami paneer, <b>Combine </b>paneer, turmeric powder, 1/4 tbsp chilli powder, 1 tbsp oil and salt in a <a title="Microwave" href="http://en.wikipedia.org/wiki/Microwave" target="_blank" rel="wikipedia">microwave</a> proof plate.
-      </li>
-      <li>
-        <b>Mix</b> well.
-      </li>
-      <li>
-        <b>Microwave</b> on high for 40 seconds. keep aside.
-      </li>
-      <li>
-        Combine the <b>remaining</b> oil and prepared paste in a microwave proof bowl.
-      </li>
-      <li>
-        Microwave, <b>covered</b> on high for 3 minutes, stirring once in between after 1 and 1/2 minutes.
-      </li>
-      <li>
-        Add tomato puree, remaining chilli powder, garam masala, cumin powder, coriander powder and salt.
-      </li>
-      <li>
-        <b>Mix</b> well.
-      </li>
-      <li>
-        <b>Microwave</b> on high for 2 minutes.
-      </li>
-      <li>
-        <b>Add</b> paneer, cream / milk and sugar.
-      </li>
-      <li>
-        Microwave on high for 1 minutes.
-      </li>
-      <li>
-        <b>Garnish</b> with ginger and coriander.
-      </li>
-      <li>
-        Serve hot.
-      </li>
-    </ul>
-    
-    <h3 style="text-align: left;">
-      <i><u><span style="color: red;">Another Method:</span></u></i>
-    </h3>
-    
-    <p style="text-align: justify;">
-       In this method we make a badami paneer in a pan.Here are some simple steps to make a badami  paneer in a pan
-    </p>
-    
-    <p>
-      <!-- post -->
-      
-      <br /> <ins style="display: block;" data-ad-client="ca-pub-8391089480493038" data-ad-format="auto" data-ad-slot="4079886109"></ins>
-    </p>
-    
-    <ul>
-      <li style="text-align: justify;">
-        To make this badami paneer, take a <b>pan</b> add a 1 tbsp oil , turmeric powder,1/2 tbsp chilli powder and a salt.
-      </li>
-      <li style="text-align: justify;">
-        <b>cook</b> it for 30 seconds.
-      </li>
-      <li style="text-align: justify;">
-        Now add a<b> prepared paste</b> and remaining oil.
-      </li>
-      <li style="text-align: justify;">
-        <b>Cook</b> it for 3-4 minutes and stirring once between it.
-      </li>
-      <li style="text-align: justify;">
-        Now, add a tomato puree, remainig chilli powder, garam masala, cumin powder and dhniya powder ( coriander powder).
-      </li>
-      <li style="text-align: justify;">
-        <b>Mix</b> well.
-      </li>
-      <li style="text-align: justify;">
-        Cook it for 2 minutes.
-      </li>
-      <li style="text-align: justify;">
-        Now, add paneer, milk or cream and sugar.
-      </li>
-    </ul>
-    
-    <p style="clear: both; text-align: center;">
-      <a style="margin-left: 1em; margin-right: 1em;" href="http://1.bp.blogspot.com/-eyhwdRI4DWY/VS9kUjbT-hI/AAAAAAAAAQs/jtHJTttHj1I/s1600/IMG_0841.JPG"><img title="Spicy Badami Paneer" src="http://1.bp.blogspot.com/-eyhwdRI4DWY/VS9kUjbT-hI/AAAAAAAAAQs/jtHJTttHj1I/s1600/IMG_0841.JPG" alt="Spicy Badami Paneer" width="320" height="238" align="center" border="0" /></a>
-    </p>
-  </p>
-  
-  <ul>
-    <li style="text-align: justify;">
-      Cook for 2 minutes.
-    </li>
-    <li style="text-align: justify;">
-      Put this into a <b>bowl</b>.
-    </li>
-    <li style="text-align: justify;">
-      <b>Garnish</b> it with coriander.
-    </li>
-    <li style="text-align: justify;">
-      Serve hot.
-    </li>
-  </ul>
-</p>
+
+[![Spicy Badami Paneer](http://4.bp.blogspot.com/-brNfo8VSkUY/VS9jo7Dz4WI/AAAAAAAAAQk/neYht8KZGJI/s1600/badami.jpg "Spicy Badami Paneer")](http://4.bp.blogspot.com/-brNfo8VSkUY/VS9jo7Dz4WI/AAAAAAAAAQk/neYht8KZGJI/s1600/badami.jpg)
+
+# Spicy Badami Paneer
+
+Spicy Badami Paneer is [Indian dish](http://en.wikipedia.org/wiki/Indian_cuisine "Indian cuisine") which is very spicy, tasty and delicious. you can make it in a [microwave](http://en.wikipedia.org/wiki/Microwave "Microwave") or in a pan. It is very simple and easy to make. You can prepared it with very less time. Here a simple steps to make a badami [paneer](http://en.wikipedia.org/wiki/Paneer "Paneer").
+
+##  **_<u><span style="color: red;">Ingredients:</span></u>_**
+
+*   3/4 cup [paneer](http://en.wikipedia.org/wiki/Paneer "Paneer") , cut into 1/2″ cubes
+*   1/4 cup [tomato puree](http://en.wikipedia.org/wiki/Tomato_pur%C3%A9e "Tomato purée"), ready made
+*   1/2 tbsp [chilli powder](http://en.wikipedia.org/wiki/Chili_powder "Chili powder")
+*   1/4 tbsp [garam masala](http://en.wikipedia.org/wiki/Garam_masala "Garam masala")
+*   1/4 tbsp cumin <span style="color: blue;">powder</span>
+*   1/4 tbsp [coriander](http://en.wikipedia.org/wiki/Coriander "Coriander") <span style="color: blue;">powder</span>
+*   1 tbsp <span style="color: blue;">cream / milk</span>
+*   3 tbsp <span style="color: blue;">oil</span>
+*   a pinch of [turmeric powder](http://en.wikipedia.org/wiki/Turmeric "Turmeric")
+*   a pinch of <span style="color: blue;">sugar</span>
+*   <span style="color: blue;">salt</span> to taste
+
+### **_<u><span style="color: red;">To Be Ground To A Smooth Paste</span></u>_**
+
+*   10 <span style="color: blue;">almonds</span>
+*   2 whole dry <span style="color: blue;">kashmiri red chillies</span>
+*   1/4 cup roughly chopped <span style="color: blue;">onions</span>
+*   1/2″ pc <span style="color: blue;">ginger</span>
+*   1/2 tbsp roughly chopped <span style="color: blue;">garlic</span>
+
+### _<u><span style="color: red;">For Garnish:</span></u>_
+
+*   1/2 tbsp <span style="color: blue;">ginger</span> juliennes
+*   1/2 tbsp chopped <span style="color: blue;">coriander</span>
+
+## _<u><span style="color: red;">Method:</span></u>_
+
+*   To make this badami paneer, **Combine** paneer, turmeric powder, 1/4 tbsp chilli powder, 1 tbsp oil and salt in a [microwave](http://en.wikipedia.org/wiki/Microwave "Microwave") proof plate.
+*   **Mix** well.
+*   **Microwave** on high for 40 seconds. keep aside.
+*   Combine the **remaining** oil and prepared paste in a microwave proof bowl.
+*   Microwave, **covered** on high for 3 minutes, stirring once in between after 1 and 1/2 minutes.
+*   Add tomato puree, remaining chilli powder, garam masala, cumin powder, coriander powder and salt.
+*   **Mix** well.
+*   **Microwave** on high for 2 minutes.
+*   **Add** paneer, cream / milk and sugar.
+*   Microwave on high for 1 minutes.
+*   **Garnish** with ginger and coriander.
+*   Serve hot.
+
+### _<u><span style="color: red;">Another Method:</span></u>_
+
+ In this method we make a badami paneer in a pan.Here are some simple steps to make a badami  paneer in a pan
+
+*   To make this badami paneer, take a **pan** add a 1 tbsp oil , turmeric powder,1/2 tbsp chilli powder and a salt.
+*   **cook** it for 30 seconds.
+*   Now add a **prepared paste** and remaining oil.
+*   **Cook** it for 3-4 minutes and stirring once between it.
+*   Now, add a tomato puree, remainig chilli powder, garam masala, cumin powder and dhniya powder ( coriander powder).
+*   **Mix** well.
+*   Cook it for 2 minutes.
+*   Now, add paneer, milk or cream and sugar.
+
+[![Spicy Badami Paneer](http://1.bp.blogspot.com/-eyhwdRI4DWY/VS9kUjbT-hI/AAAAAAAAAQs/jtHJTttHj1I/s1600/IMG_0841.JPG "Spicy Badami Paneer")](http://1.bp.blogspot.com/-eyhwdRI4DWY/VS9kUjbT-hI/AAAAAAAAAQs/jtHJTttHj1I/s1600/IMG_0841.JPG)
+
+*   Cook for 2 minutes.
+*   Put this into a **bowl**.
+*   **Garnish** it with coriander.
+*   Serve hot.
