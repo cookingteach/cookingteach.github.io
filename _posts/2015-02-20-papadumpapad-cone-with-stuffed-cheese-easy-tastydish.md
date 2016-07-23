@@ -34,7 +34,7 @@ categories:
 <div dir="ltr" style="text-align: left;">
   <div style="clear: both; text-align: center;">
     <a style="margin-left: 1em; margin-right: 1em;" href="http://1.bp.blogspot.com/-Nbb5ZxZ-9k8/VObfL7BZOpI/AAAAAAAAAFM/EzLB0HwToh8/s1600/3.jpg"><img src="http://1.bp.blogspot.com/-Nbb5ZxZ-9k8/VObfL7BZOpI/AAAAAAAAAFM/EzLB0HwToh8/s1600/3.jpg" alt="" border="0" /></a>
-  </div>
+  </p>
   
   <h2 style="clear: both;">
     Papadum Cone With Stuffed Cheese Recipe
@@ -42,13 +42,13 @@ categories:
   
   <div style="text-align: left;">
     Papadum cone with stuffed <a class="zem_slink" title="Paneer" href="http://en.wikipedia.org/wiki/Paneer" target="_blank" rel="wikipedia">paneer</a> is really crispy tasty dish.Cheese is good for health when it make a attractive and unique then the taste also become a unique.So serve it to also your guests and collect praises.
-  </div>
+  </p>
   
   <h2 style="text-align: left;">
     <span style="font-weight: normal;"><i><u><span style="color: #cc0000;">Ingredients:</span></u></i></span>
   </h2>
   
-  <div>
+  <p>
     <ul style="text-align: left;">
       <li>
         4 <span style="color: blue;"><a class="zem_slink" title="Papadum" href="http://en.wikipedia.org/wiki/Papadum" target="_blank" rel="wikipedia">papadum</a></span>
@@ -86,7 +86,7 @@ categories:
       <i><u><span style="color: #cc0000;"><span style="font-weight: normal;">Method:</span></span> </u></i>
     </h2>
     
-    <div>
+    <p>
       <ul>
         <li>
           To prepare a mixture,take a <b>pan</b> let it put a 2 tbsp of oil.
@@ -114,33 +114,33 @@ categories:
         <ins style="display: block;" data-ad-client="ca-pub-8391089480493038" data-ad-slot="4079886109" data-ad-format="auto"></ins>
       </p>
       
-      <div>
+      <p>
         <u><i><span style="color: #cc0000; font-weight: normal;">Method to serve:</span></i></u>
-      </div>
+      </p>
       
-      <div>
+      <p>
         <ul style="text-align: left;">
           <li>
             Garnish the cone with chopped coriander or mint and serve a hot with green <a class="zem_slink" title="Hot sauce" href="http://en.wikipedia.org/wiki/Hot_sauce" target="_blank" rel="wikipedia">chilli sauce</a>.
           </li>
         </ul>
-      </div>
+      </p>
       
-      <div>
-      </div>
-    </div>
+      <p>
+      </p>
+    </p>
     
-    <div>
-    </div>
-  </div>
+    <p>
+    </p>
+  </p>
   
-  <div>
-  </div>
+  <p>
+  </p>
   
-  <div>
-  </div>
+  <p>
+  </p>
   
-  <div>
+  <p>
     <span style="font-weight: normal;"><i><u> </u></i></span>
-  </div>
-</div>
+  </p>
+</p>

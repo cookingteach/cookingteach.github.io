@@ -32,15 +32,15 @@ categories:
   - Paneer
 ---
 <div dir="ltr" style="text-align: left;">
-  <div>
-  </div>
+  <p>
+  </p>
   
-  <div>
-  </div>
+  <p>
+  </p>
   
   <div style="clear: both; text-align: center;">
     <a style="margin-left: 1em; margin-right: 1em;" href="http://3.bp.blogspot.com/-E8XtwTNlEAE/VOrUs4GJtxI/AAAAAAAAAGE/3I11SDCVeok/s1600/4.JPG"><img src="http://3.bp.blogspot.com/-E8XtwTNlEAE/VOrUs4GJtxI/AAAAAAAAAGE/3I11SDCVeok/s1600/4.JPG" alt="" width="320" height="176" border="0" /></a>
-  </div>
+  </p>
   
   <h2 style="text-align: left;">
     Tandoori Paneer Tikka Easy Recipe
@@ -48,16 +48,16 @@ categories:
   
   <div style="text-align: left;">
     <b>Dry <a title="Tandoor" href="http://en.wikipedia.org/wiki/Tandoor" target="_blank" rel="wikipedia">Tandoori</a> <a title="Paneer tikka" href="http://en.wikipedia.org/wiki/Paneer_tikka" target="_blank" rel="wikipedia">Paneer Tikka</a></b> veg is a best Indian recipe.I give you a method to prepare a <b>dry</b> tandoori <a title="Paneer" href="http://en.wikipedia.org/wiki/Paneer" target="_blank" rel="wikipedia">paneer</a> tikka not masala because masala <a class="zem_slink" title="Paneer" href="http://en.wikipedia.org/wiki/Paneer" target="_blank" rel="wikipedia">paneer</a> tikka is a gravied dish.I have made a paneer tikka in <b>oven</b> or in a <b><a title="Non-stick surface" href="http://en.wikipedia.org/wiki/Non-stick_surface" target="_blank" rel="wikipedia">non stick</a> tawa.</b>It is very easy to prepare it. Paneer tikka is everyone&#8217;s favorite.So enjoy it by making it at home and serve with <b><a title="Chutney" href="http://en.wikipedia.org/wiki/Chutney" target="_blank" rel="wikipedia">mint chutney</a></b>..
-  </div>
+  </p>
   
   <div style="text-align: left;">
-  </div>
+  </p>
   
   <h2 style="text-align: left;">
     <i style="color: #4c1130;"><u>Ingredients:</u></i>
   </h2>
   
-  <div>
+  <p>
     <ul style="text-align: left;">
       <li>
         400 gm <span style="color: blue;">paneer</span> cut into <a title="Cube" href="http://en.wikipedia.org/wiki/Cube" target="_blank" rel="wikipedia">cubes</a>
@@ -81,16 +81,16 @@ categories:
         <span style="color: blue;">oil</span>
       </li>
     </ul>
-  </div>
+  </p>
   
-  <div>
+  <p>
     <b><u>For <a title="Marination" href="http://en.wikipedia.org/wiki/Marination" target="_blank" rel="wikipedia">Marinade</a>:</u></b>
-  </div>
+  </p>
   
-  <div>
-  </div>
+  <p>
+  </p>
   
-  <div>
+  <p>
     <ul style="text-align: left;">
       <li>
         1 cup fresh <span style="color: blue;">curd</span>(dahi)
@@ -136,12 +136,12 @@ categories:
       </li>
     </ul>
     
-    <div>
+    <p>
       <i><u>Method to prepare:</u></i>
-    </div>
-  </div>
+    </p>
+  </p>
   
-  <div>
+  <p>
     <ul style="text-align: left;">
       <ul style="text-align: left;">
         <!-- post -->
@@ -175,13 +175,13 @@ categories:
         If the tikkas are <b>not</b> <b>golden brown</b>, grill for<b> 1-2 minutes</b> more.
       </li>
     </ul>
-  </div>
+  </p>
   
   <h2 style="text-align: left;">
     <i><u>Method to serve:</u></i>
   </h2>
   
-  <div>
+  <p>
     <ul style="text-align: left;">
       <li>
         When tikkas are ready sprinkled a <b>chaat masala</b> and chopped <b>coriander</b> on it and serve hot.
@@ -191,17 +191,17 @@ categories:
     <h2 style="text-align: left;">
       <i><u>Tip:</u></i>
     </h2>
-  </div>
+  </p>
   
-  <div>
+  <p>
     <ul style="text-align: left;">
       <li>
         You can also make it by using<b> non stick tawa</b>, grease the tawa and place <b>wooden sticks</b> on it and place a tawa on <b>medium flame</b> until the paneer light brown.
       </li>
     </ul>
-  </div>
+  </p>
   
-  <div>
+  <p>
     <i><u> </u></i>
-  </div>
-</div>
+  </p>
+</p>

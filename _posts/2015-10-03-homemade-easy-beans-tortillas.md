@@ -49,7 +49,7 @@ tags:
 ---
 <div dir="ltr" style="text-align: left;">
   <div style="clear: both; text-align: center;">
-  </div>
+  </p>
   
   <h2>
     <span style="color: #cc0000; text-decoration: underline;"><strong>Homemade Easy Beans <a title="Tortilla" href="http://en.wikipedia.org/wiki/Tortilla" target="_blank" rel="wikipedia">Tortillas</a> recipe</strong></span>
@@ -208,6 +208,6 @@ tags:
       You can <b>also add </b>a <b>grated cheese</b> to make it more rich and tasty.
     </li>
   </ul>
-</div>
+</p>
 
 <!--more-->

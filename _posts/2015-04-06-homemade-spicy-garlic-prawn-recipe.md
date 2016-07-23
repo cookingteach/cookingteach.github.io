@@ -32,11 +32,11 @@ categories:
   - Non Vegetarian
 ---
 <div style="clear: both; text-align: center;">
-</div>
+</p>
 
 <div style="clear: both; text-align: center;">
   <a style="margin-left: 1em; margin-right: 1em;" href="http://4.bp.blogspot.com/-4I7cRX-2_7k/VSK5RvOa3eI/AAAAAAAAANs/lP0mNHyf078/s1600/CrispyGarlicParsleyPrawns-540.jpg"><img src="http://4.bp.blogspot.com/-4I7cRX-2_7k/VSK5RvOa3eI/AAAAAAAAANs/lP0mNHyf078/s1600/CrispyGarlicParsleyPrawns-540.jpg" alt="" width="320" height="193" border="0" /></a>
-</div>
+</p>
 
 <h2 dir="ltr" style="text-align: left;">
   Homemade Spicy Garlic Prawn Recipe<br /> <b></b>
@@ -103,4 +103,4 @@ categories:
       <b>Serve</b> with <a class="zem_slink" title="Bread" href="http://en.wikipedia.org/wiki/Bread" target="_blank" rel="wikipedia">crusty bread</a> and lemon wedge in side.
     </li>
   </ul>
-</div>
+</p>

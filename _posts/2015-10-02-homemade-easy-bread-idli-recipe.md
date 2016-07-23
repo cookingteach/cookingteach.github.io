@@ -50,7 +50,7 @@ tags:
 ---
 <div dir="ltr" style="text-align: left;">
   <div style="clear: both; text-align: center;">
-  </div>
+  </p>
   
   <h2>
     <span style="color: #cc0000; text-decoration: underline;">Homemade Easy <a title="Bread" href="http://en.wikipedia.org/wiki/Bread" target="_blank" rel="wikipedia">Bread</a> Idli Recipe</span>
@@ -146,7 +146,7 @@ tags:
   
   <div style="text-align: left;">
               To make a dip follow these steps:-
-  </div>
+  </p>
   
   <ul>
     <li>
@@ -178,4 +178,4 @@ tags:
       To make a potato masala or aloo masala ,boil potatoes or aloo and mashed it.Add  chopped onion (piyaaz), red chilli powder,salt to taste ,<a title="Garam masala" href="http://en.wikipedia.org/wiki/Garam_masala" target="_blank" rel="wikipedia">garam masala</a> (all ground spices) and black pepper (kali mirch) in it .Mix well.Potato masala is ready
     </li>
   </ul>
-</div>
+</p>

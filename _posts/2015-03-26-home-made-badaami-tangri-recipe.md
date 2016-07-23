@@ -33,11 +33,11 @@ categories:
 ---
 <div dir="ltr" style="text-align: left;">
   <div style="clear: both; text-align: center;">
-  </div>
+  </p>
   
   <div style="clear: both; text-align: center;">
     <a style="margin-left: 1em; margin-right: 1em;" href="http://2.bp.blogspot.com/-7p5XmcGMSIg/VRQ2QDRdlcI/AAAAAAAAAMM/qTlfrvdljVg/s1600/oetoGfdijghec_bigger.jpg"><img src="http://2.bp.blogspot.com/-7p5XmcGMSIg/VRQ2QDRdlcI/AAAAAAAAAMM/qTlfrvdljVg/s1600/oetoGfdijghec_bigger.jpg" alt="" width="320" height="150" border="0" /></a>
-  </div>
+  </p>
   
   <h2 style="text-align: left;">
     Homemade Badaami Tangri <a class="zem_slink" title="Teriyaki" href="http://en.wikipedia.org/wiki/Teriyaki" target="_blank" rel="wikipedia">Recipe</a>
@@ -45,7 +45,7 @@ categories:
   
   <div style="text-align: left;">
     <b>Badaami Tangri </b>is a very tasty and crispy dish. Its very <b>easy </b>to make.Make it at you own kitchen and enjoy this with you family and friends.
-  </div>
+  </p>
   
   <h2 style="text-align: left;">
     <i><u><span style="color: #274e13;">Ingredients:</span></u></i>
@@ -61,7 +61,7 @@ categories:
     <i><span style="color: #274e13;">Ist <a class="zem_slink" title="Marination" href="http://en.wikipedia.org/wiki/Marination" target="_blank" rel="wikipedia">Marinade</a>:</span></i>
   </h3>
   
-  <div>
+  <p>
     <ul style="text-align: left;">
       <li>
         2 tbsp <span style="color: red;"><a class="zem_slink" title="Lemonade" href="http://en.wikipedia.org/wiki/Lemonade" target="_blank" rel="wikipedia">lemon juice</a></span>
@@ -80,9 +80,9 @@ categories:
     <h3 style="text-align: left;">
       <span style="color: #274e13;"><i>2nd Marinade:</i></span>
     </h3>
-  </div>
+  </p>
   
-  <div>
+  <p>
     <ul style="text-align: left;">
       <li>
         1/2 cup <span style="color: red;">curd</span> &#8211; hang for 30 minutes.
@@ -116,9 +116,9 @@ categories:
     <h2 style="text-align: left;">
       <i><u><span style="color: #274e13;">Method:</span></u></i>
     </h2>
-  </div>
+  </p>
   
-  <div>
+  <p>
     <ul style="text-align: left;">
       <li>
         <b>Wash</b> and dry chicken legs. Make 2 light <b>cuts</b> /incisions on each <b>drumsticks</b>.
@@ -155,16 +155,16 @@ categories:
     <h2 style="text-align: left;">
       <i><u><span style="color: #274e13;">Tip:</span></u></i>
     </h2>
-  </div>
+  </p>
   
-  <div>
+  <p>
     <ul style="text-align: left;">
       <li>
         You can top the chicken legs with silvered <b>almonds</b> for a interesting look.
       </li>
     </ul>
-  </div>
+  </p>
   
-  <div>
-  </div>
-</div>
+  <p>
+  </p>
+</p>

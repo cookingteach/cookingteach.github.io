@@ -51,7 +51,7 @@ tags:
 <div dir="ltr" style="text-align: left;">
   <div dir="ltr" style="text-align: left;">
     <div style="clear: both; text-align: center;">
-    </div>
+    </p>
     
     <h2 style="text-align: left;">
     </h2>
@@ -62,7 +62,7 @@ tags:
     
     <div style="text-align: left;">
       Homemade easy hot <a title="Chocolate" href="http://en.wikipedia.org/wiki/Chocolate" target="_blank" rel="wikipedia">chocolate</a> recipe is very tasty drink.It basically like a melted <a class="zem_slink" title="Chocolate" href="http://en.wikipedia.org/wiki/Chocolate" target="_blank" rel="wikipedia">chocolate</a> which is a kind of feeling of warmth in winters.Kids love this drink too.Its very easy and simple drink.Moreover chocolate is good for health.The hot chocolate you make at home is very rich, thick and good for health.Just one time make this drink at home, you simply love this drink.Here I give you some simple steps to make this drink at home.
-    </div>
+    </p>
     
     <h2 style="text-align: left;">
       <i><span style="text-decoration: underline;"><b><span style="color: red;">Ingredients:</span></b></span></i>
@@ -86,13 +86,13 @@ tags:
       </li>
     </ul>
     
-    <div>
+    <p>
       <h3 style="text-align: left;">
         <span style="color: #38761d;">For Garnish</span>
       </h3>
-    </div>
+    </p>
     
-    <div>
+    <p>
       <ul style="text-align: left;">
         <li>
           Fresh <span style="color: blue;">Cream</span>
@@ -102,18 +102,18 @@ tags:
         </li>
       </ul>
       
-      <div>
+      <p>
         <h2 style="text-align: left;">
           <b><i><span style="text-decoration: underline;"><span style="color: red;">Method:</span></span></i></b>
         </h2>
-      </div>
-    </div>
+      </p>
+    </p>
     
-    <div>
+    <p>
                To make this hot chocolate <a title="Chocolate cake" href="http://en.wikipedia.org/wiki/Chocolate_cake" target="_blank" rel="wikipedia">recipe</a> at home, follow the following steps.
-    </div>
+    </p>
     
-    <div>
+    <p>
       <ul style="text-align: left;">
         <li>
           To prepare this homemade easy hot chocolate drink recipe at home, firstly, take a sauce<b> pan</b> or pan <b>add</b> <a title="Milk" href="http://en.wikipedia.org/wiki/Milk" target="_blank" rel="wikipedia">milk</a> and <b>boil</b> it.
@@ -162,6 +162,6 @@ tags:
           Use bittersweet and <a title="Types of chocolate" href="http://en.wikipedia.org/wiki/Types_of_chocolate" target="_blank" rel="wikipedia">semi sweet chocolate</a>.
         </li>
       </ul>
-    </div>
-  </div>
-</div>
+    </p>
+  </p>
+</p>

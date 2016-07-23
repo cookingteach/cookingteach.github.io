@@ -49,10 +49,10 @@ tags:
 ---
 <div dir="ltr" style="text-align: left;">
   <div style="clear: both; text-align: center;">
-  </div>
+  </p>
   
   <div style="clear: both; text-align: center;">
-  </div>
+  </p>
   
   <h2>
     <span style="text-decoration: underline;">Homemade Yummy Mint Chutney Recipe</span>
@@ -205,4 +205,4 @@ tags:
       You can also add <b>spring onions</b>.
     </li>
   </ul>
-</div>
+</p>

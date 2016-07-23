@@ -33,11 +33,11 @@ categories:
 ---
 <div dir="ltr" style="text-align: left;">
   <div style="clear: both; text-align: center;">
-  </div>
+  </p>
   
   <div style="clear: both; text-align: center;">
     <a style="margin-left: 1em; margin-right: 1em;" href="http://4.bp.blogspot.com/-0TQRcHV9uII/VWsGKcH8BDI/AAAAAAAAAWM/QPJh_djU2wM/s1600/DSC_3461_Penne_alla_Norma-7.jpg"><img title="Homemade Yummy Penne Al Norma" src="http://4.bp.blogspot.com/-0TQRcHV9uII/VWsGKcH8BDI/AAAAAAAAAWM/QPJh_djU2wM/s320/DSC_3461_Penne_alla_Norma-7.jpg" alt="Homemade Yummy Penne Al Norma" width="320" height="212" border="0" /></a>
-  </div>
+  </p>
   
   <h2>
     <span style="text-decoration: underline;"> </span>
@@ -238,4 +238,4 @@ categories:
       <b>Serve </b>hot.
     </li>
   </ul>
-</div>
+</p>

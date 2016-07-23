@@ -49,7 +49,7 @@ tags:
 ---
 <div dir="ltr" style="text-align: left;">
   <div style="clear: both; text-align: center;">
-  </div>
+  </p>
   
   <h2>
     <span style="color: #990000; text-decoration: underline;"><strong>Homemade Easy Chane (chickpeas) Ki Sabzi</strong></span>
@@ -189,4 +189,4 @@ tags:
       You can <b>also add</b> a <b>aloo</b> (potato) and <b>paneer</b> (cheese) in this at the time when you prepare a masala.
     </li>
   </ul>
-</div>
+</p>

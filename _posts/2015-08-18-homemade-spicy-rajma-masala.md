@@ -48,10 +48,10 @@ tags:
 ---
 <div dir="ltr" style="text-align: left;">
   <div style="clear: both; text-align: center;">
-  </div>
+  </p>
   
   <div style="clear: both; text-align: center;">
-  </div>
+  </p>
   
   <div dir="ltr" style="text-align: left;">
     <h2>
@@ -180,7 +180,7 @@ tags:
         <b>Serve</b> hot with rice or chapati.
       </li>
     </ul>
-  </div>
+  </p>
   
   <h3 style="text-align: left;">
     <span style="color: red;"><i><u>Tip: </u></i></span>
@@ -200,4 +200,4 @@ tags:
       If rajma become soft but gravy is thin then cook it openly till the gravy became thick.
     </li>
   </ul>
-</div>
+</p>

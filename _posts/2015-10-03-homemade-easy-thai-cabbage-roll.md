@@ -50,7 +50,7 @@ tags:
 ---
 <div dir="ltr" style="text-align: left;">
   <div style="clear: both; text-align: center;">
-  </div>
+  </p>
   
   <h2>
   </h2>
@@ -190,4 +190,4 @@ tags:
       You can also add french <b>beans</b> or any other vegetables.
     </li>
   </ul>
-</div>
+</p>

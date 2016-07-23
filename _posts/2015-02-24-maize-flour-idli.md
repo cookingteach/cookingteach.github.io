@@ -32,14 +32,14 @@ categories:
   - HEALTHY FOOD
 ---
 <div style="clear: both; text-align: center;">
-</div>
+</p>
 
 <div style="clear: both; text-align: center;">
   <a style="margin-left: 1em; margin-right: 1em;" href="http://4.bp.blogspot.com/-TwaQAZtM5HM/VOyqnYGkphI/AAAAAAAAAGs/PQeEZb_TnJQ/s1600/11.jpg"><img src="http://4.bp.blogspot.com/-TwaQAZtM5HM/VOyqnYGkphI/AAAAAAAAAGs/PQeEZb_TnJQ/s1600/11.jpg" alt="" border="0" /></a>
-</div>
+</p>
 
 <div style="clear: both; text-align: center;">
-</div>
+</p>
 
 <h1 style="clear: both;">
   Homemade Easy Maize <a class="zem_slink" title="Flour" href="http://en.wikipedia.org/wiki/Flour" target="_blank" rel="wikipedia">flour</a> <a class="zem_slink" title="Idli" href="http://en.wikipedia.org/wiki/Idli" target="_blank" rel="wikipedia">idli</a>
@@ -47,13 +47,13 @@ categories:
 
 <div style="text-align: left;">
   <i style="font-weight: bold;">Maize flour idli  </i>is tasty and full of nutrients.It is a special dish in a winters when we get bored from <b>prantha</b> <b>roti</b> etc. This<b> <a class="zem_slink" title="Maize" href="http://en.wikipedia.org/wiki/Maize" target="_blank" rel="wikipedia">maize</a> flour idli</b> is full of fiber.It completely satisfy your <b>appetite</b>.So serve it with <b><a class="zem_slink" title="Peanut sauce" href="http://en.wikipedia.org/wiki/Peanut_sauce" target="_blank" rel="wikipedia">peanut sauce</a></b> or <b>coconut sauce</b> and enjoy it.
-</div>
+</p>
 
 <h2 style="text-align: left;">
   <span style="color: red;"><i><u>Ingredients:</u></i></span>
 </h2>
 
-<div>
+<p>
   <ul style="text-align: left;">
     <ul style="text-align: left;">
       <li>
@@ -101,9 +101,9 @@ categories:
   <h2 style="text-align: left;">
     <span style="color: red;"><i><u>Method to prepare:</u></i></span>
   </h2>
-</div>
+</p>
 
-<div>
+<p>
   <ul style="text-align: left;">
     <ul style="text-align: left;">
       <li>
@@ -170,25 +170,25 @@ categories:
         <!-- post --></ul> </ul> 
         
         <p>
-          <ins style="display: block;" data-ad-client="ca-pub-8391089480493038" data-ad-slot="4079886109" data-ad-format="auto"></ins><i><u><span style="color: red;">Method to serve:</span></u></i></div> 
+          <ins style="display: block;" data-ad-client="ca-pub-8391089480493038" data-ad-slot="4079886109" data-ad-format="auto"></ins><i><u><span style="color: red;">Method to serve:</span></u></i></p> 
           
-          <div>
+          <p>
             <i><u><span style="color: red;"> </span></u></i>
-          </div>
+          </p>
           
-          <div>
+          <p>
             <ul style="text-align: left;">
               <li>
                 Serve this tasty idli with <b>peanut sauce</b> or <b>coconut sauce </b>and <b>green coriander</b> sauce and enjoy it.
               </li>
             </ul>
-          </div>
+          </p>
           
           <h2 style="text-align: left;">
             <i><u><span style="color: red;">Tip:</span></u></i>
           </h2>
           
-          <div>
+          <p>
             <ul style="text-align: left;">
               <li>
                 Add <b>eno fruit salt</b> after all preparation.
@@ -204,9 +204,9 @@ categories:
             <h2 style="text-align: left;">
               <span style="color: red;"><i><u>Another method to prepare it:</u></i></span>
             </h2>
-          </div>
+          </p>
           
-          <div>
+          <p>
             <ul style="text-align: left;">
               <li>
                 You can also prepare idli in <b>microwave</b>.
@@ -221,12 +221,12 @@ categories:
                 Cook it for 7 min.
               </li>
             </ul>
-          </div>
+          </p>
           
-          <div>
+          <p>
             <i><u><span style="color: red;"> </span></u></i>
-          </div>
+          </p>
           
           <div style="text-align: left;">
             <span style="color: red;"><i><u> </u></i></span>
-          </div>
+          </p>

@@ -33,11 +33,11 @@ categories:
 ---
 <div dir="ltr" style="text-align: left;">
   <div style="clear: both; text-align: center;">
-  </div>
+  </p>
   
   <div style="clear: both; text-align: center;">
     <a style="margin-left: 1em; margin-right: 1em;" href="http://4.bp.blogspot.com/-31KiDtj4SDc/VQQc2L7jejI/AAAAAAAAAI0/rttIY_vTHEM/s1600/1.jpg"><img src="http://4.bp.blogspot.com/-31KiDtj4SDc/VQQc2L7jejI/AAAAAAAAAI0/rttIY_vTHEM/s1600/1.jpg" alt="" width="320" height="320" border="0" /></a>
-  </div>
+  </p>
   
   <h2 style="text-align: left;">
     Homemade Crispy <a class="zem_slink" title="Grill Bbq Chicken" href="http://www.williams-sonoma.com/recipe/tip/grill-perfect-bbq-chicken.html" target="_blank" rel="williamssonoma">Chicken</a> recipe
@@ -45,7 +45,7 @@ categories:
   
   <div style="text-align: left;">
     <b>Crispy Chicken</b> is really very <b>crispy</b>.In this am using a<b> <a class="zem_slink" title="Microwave" href="http://en.wikipedia.org/wiki/Microwave" target="_blank" rel="wikipedia">microwave</a></b> to prepare this Crispy Chicken.It very<b> easy</b> to prepare with <b>less time</b>.you don&#8217;t have to take much efforts for preparing this.I give you a simple recipe to prepare this.Hope you all like it.
-  </div>
+  </p>
   
   <h2 style="text-align: left;">
     <i><u><span style="color: red;">Ingredients:</span></u></i>
@@ -76,7 +76,7 @@ categories:
     <i><u><span style="color: red;">For <a class="zem_slink" title="Marination" href="http://en.wikipedia.org/wiki/Marination" target="_blank" rel="wikipedia">Marinade</a>:</span></u></i>
   </h3>
   
-  <div>
+  <p>
     <ul style="text-align: left;">
       <li>
         2 tbsp <span style="color: blue;">oil or melted <a class="zem_slink" title="Butter" href="http://en.wikipedia.org/wiki/Butter" target="_blank" rel="wikipedia">butter</a></span>
@@ -104,7 +104,7 @@ categories:
     <h2 style="text-align: left;">
       <i><u><span style="color: red;">Method:</span></u></i>
     </h2>
-  </div>
+  </p>
   
   <ul>
     <li>
@@ -166,4 +166,4 @@ categories:
       <b>Grand</b> in a mixer to get crumbs.
     </li>
   </ul>
-</div>
+</p>

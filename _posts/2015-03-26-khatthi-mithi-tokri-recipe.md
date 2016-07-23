@@ -33,11 +33,11 @@ categories:
 ---
 <div dir="ltr" style="text-align: left;">
   <div style="clear: both; text-align: center;">
-  </div>
+  </p>
   
   <div style="clear: both; text-align: center;">
     <a style="margin-left: 1em; margin-right: 1em;" href="http://3.bp.blogspot.com/-zGxtQQfyr9k/VROygDHcTjI/AAAAAAAAALo/OqV8HUfbTyY/s1600/download.jpg"><img src="http://3.bp.blogspot.com/-zGxtQQfyr9k/VROygDHcTjI/AAAAAAAAALo/OqV8HUfbTyY/s1600/download.jpg" alt="" width="200" height="200" border="0" /></a>
-  </div>
+  </p>
   
   <h2 style="text-align: left;">
     Homemade Khatthi Mithi Tokri Recipe
@@ -45,7 +45,7 @@ categories:
   
   <div style="text-align: left;">
     <b>Khatthi-Mithi Tokri</b> is a very delicious.It is a tokri of <b><a class="zem_slink" title="Bread" href="http://en.wikipedia.org/wiki/Bread" target="_blank" rel="wikipedia">bread</a></b> which is fiiled with <a class="zem_slink" title="Pomegranate" href="http://en.wikipedia.org/wiki/Pomegranate" target="_blank" rel="wikipedia">pomegranate</a> and <a class="zem_slink" title="Mung bean" href="http://en.wikipedia.org/wiki/Mung_bean" target="_blank" rel="wikipedia">moong</a> daal. You can served it as a <b>snack</b>. Its very easy to make, you can make it at home with 6 minutes.Here, I tell you a simple method to make this.
-  </div>
+  </p>
   
   <h2 style="text-align: left;">
     <i><u><span style="color: purple;">Ingredients:</span></u></i>
@@ -61,7 +61,7 @@ categories:
     Spread For The Bread:
   </h3>
   
-  <div>
+  <p>
     <ul style="text-align: left;">
       <li>
         2 tbsp <span style="color: blue;"><a class="zem_slink" title="Olive oil" href="http://en.wikipedia.org/wiki/Olive_oil" target="_blank" rel="wikipedia">olive oil</a></span>
@@ -83,9 +83,9 @@ categories:
     <h3 style="text-align: left;">
       Filling:
     </h3>
-  </div>
+  </p>
   
-  <div>
+  <p>
     <ul style="text-align: left;">
       <li>
         1/4  cup <span style="color: blue;">moong sprouts </span>(boiled)
@@ -113,9 +113,9 @@ categories:
     <h2 style="text-align: left;">
       <i><u><span style="color: purple;">Method:</span></u></i>
     </h2>
-  </div>
+  </p>
   
-  <div>
+  <p>
     <!-- post -->
     
     <ins style="display: block;" data-ad-client="ca-pub-8391089480493038" data-ad-slot="4079886109" data-ad-format="auto"></ins></p> 
@@ -138,13 +138,13 @@ categories:
     <h2 style="text-align: left;">
       <i><u><span style="color: purple;">Tip:</span></u></i>
     </h2>
-  </div>
+  </p>
   
-  <div>
+  <p>
     <ul style="text-align: left;">
       <li>
         You can also<b> fill</b> the <b>tokri</b> with some <b>salad</b>.
       </li>
     </ul>
-  </div>
-</div>
+  </p>
+</p>

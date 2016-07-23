@@ -33,11 +33,11 @@ categories:
 ---
 <div dir="ltr" style="text-align: left;">
   <div style="clear: both; text-align: center;">
-  </div>
+  </p>
   
   <div style="clear: both; text-align: center;">
     <a style="margin-left: 1em; margin-right: 1em;" href="http://4.bp.blogspot.com/-jeuHrx0Xxww/VRKlQTFBl5I/AAAAAAAAALU/GRVvmNw738I/s1600/croq2.jpg"><img src="http://4.bp.blogspot.com/-jeuHrx0Xxww/VRKlQTFBl5I/AAAAAAAAALU/GRVvmNw738I/s1600/croq2.jpg" alt="" width="320" height="213" border="0" /></a>
-  </div>
+  </p>
   
   <p>
     <b>Chicken Croquettes </b>is very crispy dish. Here some different <b>recipe</b> to made this crispy Chicken Croquettes. You can serve it as a<b> breakfast</b>. It completely fulfill you appetizer. Its very <b>easy </b>to make, you can make it within <a class="zem_slink" title="20 minutes (France)" href="http://en.wikipedia.org/wiki/20_minutes_%28France%29" target="_blank" rel="wikipedia">20 minutes</a> and <a class="zem_slink" title="Preparation time" href="http://en.wikipedia.org/wiki/Preparation_time" target="_blank" rel="wikipedia">preparation time</a> is 5 minutes.
@@ -90,7 +90,7 @@ categories:
     <span style="color: #741b47;"><i>Coat:</i></span>
   </h3>
   
-  <div>
+  <p>
     <ul style="text-align: left;">
       <li>
         2 tbsp <span style="color: blue;">water</span> <a class="zem_slink" title="Audio mixing (recorded music)" href="http://en.wikipedia.org/wiki/Audio_mixing_%28recorded_music%29" target="_blank" rel="wikipedia">mixed</a> with 2 tbsp <span style="color: blue;"><a class="zem_slink" title="Egg white" href="http://en.wikipedia.org/wiki/Egg_white" target="_blank" rel="wikipedia">egg white</a></span>
@@ -103,9 +103,9 @@ categories:
     <h3 style="text-align: left;">
       <i><span style="color: #741b47;">To Serve</span>:</i>
     </h3>
-  </div>
+  </p>
   
-  <div>
+  <p>
     <ul style="text-align: left;">
       <li>
         <span style="color: blue;">Mayonnaise</span>
@@ -115,9 +115,9 @@ categories:
     <h2 style="text-align: left;">
       <i><u><span style="color: #741b47;">Method:</span></u></i>
     </h2>
-  </div>
+  </p>
   
-  <div>
+  <p>
     <ul style="text-align: left;">
       <ul style="text-align: left;">
         <!-- post -->
@@ -155,7 +155,7 @@ categories:
     <h2 style="text-align: left;">
       <i><u><span style="color: #741b47;">Tip:</span></u></i>
     </h2>
-  </div>
+  </p>
   
   <p>
     <!-- post -->
@@ -163,7 +163,7 @@ categories:
     <ins style="display: block;" data-ad-client="ca-pub-8391089480493038" data-ad-slot="4079886109" data-ad-format="auto"></ins>
   </p>
   
-  <div>
+  <p>
     <ul style="text-align: left;">
       <li>
         You can also make a <b>balls</b> or <b>kebabs</b> with this mixture.
@@ -172,8 +172,8 @@ categories:
         Add some <b>corns</b> or <b>peas</b> for different flavor.
       </li>
     </ul>
-  </div>
+  </p>
   
-  <div>
-  </div>
-</div>
+  <p>
+  </p>
+</p>

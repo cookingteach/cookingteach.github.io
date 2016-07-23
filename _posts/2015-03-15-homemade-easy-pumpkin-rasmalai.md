@@ -35,7 +35,7 @@ categories:
 
 <div style="clear: both; text-align: center;">
   <a style="margin-left: 1em; margin-right: 1em;" href="http://4.bp.blogspot.com/-aZSEuKpBQEQ/VQWvhKTwDjI/AAAAAAAAAJY/tGZ15OSzE50/s1600/download.jpg"><img src="http://4.bp.blogspot.com/-aZSEuKpBQEQ/VQWvhKTwDjI/AAAAAAAAAJY/tGZ15OSzE50/s1600/download.jpg" alt="" border="0" /></a>
-</div>
+</p>
 
 ## Homemade easy Pumpkin <a class="zem_slink" title="Ras malai" href="http://en.wikipedia.org/wiki/Ras_malai" target="_blank" rel="wikipedia">Rasmalai</a>
 
@@ -94,4 +94,4 @@ categories:
       Dish ready.
     </li>
   </ul>
-</div>
+</p>

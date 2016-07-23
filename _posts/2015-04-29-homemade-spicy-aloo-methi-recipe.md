@@ -33,11 +33,11 @@ categories:
 ---
 <div dir="ltr" style="text-align: left;">
   <div style="clear: both; text-align: center;">
-  </div>
+  </p>
   
   <div style="clear: both; text-align: center;">
     <a style="margin-left: 1em; margin-right: 1em;" href="http://3.bp.blogspot.com/-MtaLv_aVOKo/VUESnvidYDI/AAAAAAAAATI/sxZasU7i2gQ/s1600/aloo-methi.jpg"><img title="Spicy Aloo Methi Recipe" src="http://3.bp.blogspot.com/-MtaLv_aVOKo/VUESnvidYDI/AAAAAAAAATI/sxZasU7i2gQ/s1600/aloo-methi.jpg" alt="Spicy Aloo Methi Recipe" width="320" height="213" border="0" /></a>
-  </div>
+  </p>
   
   <h3 style="text-align: left;">
   </h3>
@@ -46,9 +46,9 @@ categories:
     Tasty Spicy <a title="Dum Aloo" href="http://en.wikipedia.org/wiki/Dum_Aloo" target="_blank" rel="wikipedia">Aloo</a> Methi Recipe:
   </h3>
   
-  <div>
+  <p>
     Tasty spicy aloo methi recipe is a Punjabi recipe which is very famous. It is very healthy and tasty dish.Here a simple recipe to make this Punjabi style aloo methi recipe.
-  </div>
+  </p>
   
   <h2 style="text-align: left;">
     <i><u><span style="color: #274e13;">Ingredients: </span></u></i>
@@ -192,10 +192,10 @@ categories:
   
   <div style="clear: both; text-align: center;">
     <a style="margin-left: 1em; margin-right: 1em;" href="http://3.bp.blogspot.com/-lJHepn1uC1s/VUESTuDiduI/AAAAAAAAATA/ftpblh-ETsQ/s1600/DSC08177.jpg"><img title="Spicy Aloo Methi Recipe" src="http://3.bp.blogspot.com/-lJHepn1uC1s/VUESTuDiduI/AAAAAAAAATA/ftpblh-ETsQ/s1600/DSC08177.jpg" alt="Spicy Aloo Methi Recipe" width="320" height="180" border="0" /></a>
-  </div>
+  </p>
   
-  <div>
-  </div>
+  <p>
+  </p>
   
   <ul>
     <li>
@@ -214,4 +214,4 @@ categories:
       <b>Serve </b>hot with chapatis.
     </li>
   </ul>
-</div>
+</p>

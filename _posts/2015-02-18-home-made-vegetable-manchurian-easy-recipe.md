@@ -33,15 +33,15 @@ categories:
 ---
 <div style="clear: both; text-align: center;">
   <a style="margin-left: 1em; margin-right: 1em;" href="http://3.bp.blogspot.com/-HMdpTUXBoaQ/VOa4ZKUvScI/AAAAAAAAAE0/1brpkW6MLHM/s1600/gobi-manchurian10CniM8J567b.jpg"><img src="http://3.bp.blogspot.com/-HMdpTUXBoaQ/VOa4ZKUvScI/AAAAAAAAAE0/1brpkW6MLHM/s1600/gobi-manchurian10CniM8J567b.jpg" alt="" width="320" height="213" border="0" /></a>
-</div>
+</p>
 
 <h2 dir="ltr" style="text-align: left;">
   Homemade Vegetable Manchurian Recipe
 </h2>
 
-<div>
+<p>
   Manchurian is a tastiest yummy <a class="zem_slink" title="Chinese cuisine" href="http://en.wikipedia.org/wiki/Chinese_cuisine" target="_blank" rel="wikipedia">Chinese dish</a> which everyone like.I give you a simple and easiest method to make this tasty Manchurian.Hope u like the method which i gives to you.
-</div>
+</p>
 
 <h2 style="text-align: left;">
   <i><u>Ingredients:</u></i>
@@ -83,14 +83,14 @@ categories:
   </li>
 </ul>
 
-<div>
+<p>
   <u><b><i>Method:</i></b></u>
-</div>
+</p>
 
-<div>
-</div>
+<p>
+</p>
 
-<div>
+<p>
   <ul style="text-align: left;">
     <ul style="text-align: left;">
       <!-- post -->
@@ -112,19 +112,19 @@ categories:
       After making a round shape balls,take a pan and add a oil in a pan,deep fry balls until they become golden brown.Drain on a <a class="zem_slink" title="Tissue paper" href="http://en.wikipedia.org/wiki/Tissue_paper" target="_blank" rel="wikipedia">tissue paper</a> or absorbent paper and keep aside.
     </li>
   </ul>
-</div>
+</p>
 
-<div>
+<p>
   <h2 style="text-align: left;">
     <span style="color: #990000;"><u>FOR <a class="zem_slink" title="Gravy" href="http://en.wikipedia.org/wiki/Gravy" target="_blank" rel="wikipedia">GRAVY</a>:</u></span>
   </h2>
-</div>
+</p>
 
 <div style="text-align: left;">
   <h2 style="text-align: left;">
     <b><i><u>Ingredients:</u></i></b>
   </h2>
-</div>
+</p>
 
   * 2 cup finely chopped capsicum
   * 2 cup finely chopped onion
@@ -139,15 +139,15 @@ categories:
   * stock of water
   * oil
 
-<div>
+<p>
   <h2 style="text-align: left;">
     <!-- post -->
     
     <ins style="display: block;" data-ad-client="ca-pub-8391089480493038" data-ad-slot="4079886109" data-ad-format="auto"></ins><u><b><i>Method:</i></b></u>
   </h2>
-</div>
+</p>
 
-<div>
+<p>
   <ul style="text-align: left;">
     <li>
       Take a pan ,add a oil in a pan and heat it on high flame.
@@ -160,14 +160,14 @@ categories:
     </li>
   </ul>
   
-  <div>
+  <p>
     <h2 style="text-align: left;">
       <i><u><b>Method to serve:</b></u></i>
     </h2>
-  </div>
-</div>
+  </p>
+</p>
 
-<div>
+<p>
   <ul style="text-align: left;">
     <li>
       Before serving put a balls and gravy in a bowl and garnish it with a finely chopped coriander.
@@ -176,12 +176,12 @@ categories:
       Serve hot Manchurian with sauce.
     </li>
   </ul>
-</div>
+</p>
 
-<div>
-</div>
+<p>
+</p>
 
-<div>
-</div>
+<p>
+</p>
 
 &nbsp;

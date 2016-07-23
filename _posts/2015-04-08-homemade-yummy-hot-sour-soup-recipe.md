@@ -33,15 +33,15 @@ categories:
 ---
 <div dir="ltr" style="text-align: left;">
   <div style="clear: both; text-align: center;">
-  </div>
+  </p>
   
   <div style="clear: both; text-align: center;">
     <a style="margin-left: 1em; margin-right: 1em;" href="http://2.bp.blogspot.com/-pL-st9cKtNE/VSVWppYTfqI/AAAAAAAAAOA/tiAtfRbeQvc/s1600/recipe338-400w.jpg"><img src="http://2.bp.blogspot.com/-pL-st9cKtNE/VSVWppYTfqI/AAAAAAAAAOA/tiAtfRbeQvc/s1600/recipe338-400w.jpg" alt="" width="320" height="212" border="0" /></a>
-  </div>
+  </p>
   
   <div style="text-align: justify;">
     <b>Hot & Sour Soup</b> is very very tasty and <b>delicious</b> and yummy dish. It is <b>perfect</b> for winter season.Full of <b>nutrition</b>.It is very easy to prepare with less time. Here a step by step procedure to make this soup.
-  </div>
+  </p>
   
   <h2 style="text-align: left;">
     <i><u><span style="color: #274e13;">Ingredients:</span></u></i>
@@ -90,27 +90,27 @@ categories:
     <i><u><span style="color: #274e13;">Method:</span></u></i>
   </h2>
   
-  <div>
+  <p>
     <div style="text-align: justify;">
       To prepare this <b>soup</b>, the ingredients are mentioned above. All ingredients has its own <b>importance</b>. In this we use a tofu and egg to make this and some ingredients.Following are some tips which help you to prepare your dish tasty and yummy.
-    </div>
+    </p>
     
     <h4 style="text-align: justify;">
       Tip 1:<span style="font-weight: normal;"> Don&#8217;t use </span>soy sauce<span style="font-weight: normal;"> much as a requirement. Because it can be a bit </span>bitter<span style="font-weight: normal;"> is we used too much.</span>
     </h4>
-  </div>
+  </p>
   
   <h4 style="text-align: justify;">
     Tip 2: <span style="font-weight: normal;">If we use much </span>sugar<span style="font-weight: normal;"> then it more sweet which can&#8217;t be tasty.</span>
   </h4>
   
-  <div>
+  <p>
     <!-- post -->
     
     <br /> <ins style="display: block;" data-ad-client="ca-pub-8391089480493038" data-ad-format="auto" data-ad-slot="4079886109"></ins><b><u>Steps to prepare a Hot & Sour Soup:</u></b>
-  </div>
+  </p>
   
-  <div>
+  <p>
     <ul style="text-align: left;">
       <li>
         To make this homemade yummy hot & sour soup recipe,<b> Soak</b> mushrooms in enough<b> water</b> to cover, Microwave on high for 3 minutes.Remove.
@@ -152,5 +152,5 @@ categories:
         <b>Stir</b> in spring onion and chilli oil.
       </li>
     </ul>
-  </div>
-</div>
+  </p>
+</p>

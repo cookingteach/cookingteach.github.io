@@ -32,11 +32,11 @@ categories:
   - FAST FOOD
 ---
 <div style="clear: both; text-align: center;">
-</div>
+</p>
 
 <div style="clear: both; text-align: center;">
   <a style="margin-left: 1em; margin-right: 1em;" href="http://2.bp.blogspot.com/-3Ztyj2GqIjs/VOtNzIc3SGI/AAAAAAAAAGU/8cdK1pitn4c/s1600/2.jpg"><img src="http://2.bp.blogspot.com/-3Ztyj2GqIjs/VOtNzIc3SGI/AAAAAAAAAGU/8cdK1pitn4c/s1600/2.jpg" alt="" width="320" height="282" border="0" /></a>
-</div>
+</p>
 
 <h2 dir="ltr" style="text-align: left;">
   <span style="color: #cc0000;">Homemade Veg Noodles easy recipe</span>
@@ -44,11 +44,11 @@ categories:
 
 <div style="text-align: left;">
   <b>Vegetable <a class="zem_slink" title="Noodle" href="http://en.wikipedia.org/wiki/Noodle" target="_blank" rel="wikipedia">noodles</a></b> is a famous Chinese dish.It is most <b>popular</b> in everyone mostly in kids.Water goes into our mouth when we hear a name of noodle.In this <b>spicy noodles</b> i use a many kind of <b>vegetables</b> to make it tastiest.It is very <b>easy</b> to prepare.I give you a step by step <b>procedure</b> to make a noodles.
-</div>
+</p>
 
 ## <span style="color: #cc0000;"><u><i>Ingredients:</i></u></span>
 
-<div>
+<p>
   <ul>
     <li>
       1 packet <span style="color: blue;"><a class="zem_slink" title="Chinese noodles" href="http://en.wikipedia.org/wiki/Chinese_noodles" target="_blank" rel="wikipedia">Chinese noodles</a></span>
@@ -93,11 +93,11 @@ categories:
       2 tbsp finely <span style="color: blue;">chopped <a class="zem_slink" title="Coriander" href="http://en.wikipedia.org/wiki/Coriander" target="_blank" rel="wikipedia">coriander</a></span>
     </li>
   </ul>
-</div>
+</p>
 
 ## _<u><span style="color: #cc0000;">Method:</span></u>_
 
-<div>
+<p>
   <ul>
     <li>
       Boil <b>noodles</b> with 1 tbsp <b>oil</b> and after boiling <b>wash</b> it with cold water.
@@ -130,14 +130,14 @@ categories:
       <b>Serve</b> it hot.
     </li>
   </ul>
-</div>
+</p>
 
 ## _<u><span style="color: #cc0000;">Method To Serve:</span></u>_
 
-<div>
+<p>
   <ul>
     <li>
       Add a noodles into a bowl or serving plate and garnish it with finely chopped <b>coriander</b> and serve with a tomato <b>sauce</b>.
     </li>
   </ul>
-</div>
+</p>

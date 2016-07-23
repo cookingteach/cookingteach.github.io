@@ -33,11 +33,11 @@ categories:
 ---
 <div dir="ltr" style="text-align: left;">
   <div style="clear: both; text-align: center;">
-  </div>
+  </p>
   
   <div style="clear: both; text-align: center;">
     <a style="margin-left: 1em; margin-right: 1em;" href="http://2.bp.blogspot.com/-qHrH_q1GaT0/VQRmpUQJvQI/AAAAAAAAAJE/k510oclAc-U/s1600/2.jpg"><img src="http://2.bp.blogspot.com/-qHrH_q1GaT0/VQRmpUQJvQI/AAAAAAAAAJE/k510oclAc-U/s1600/2.jpg" alt="" width="320" height="240" border="0" /></a>
-  </div>
+  </p>
   
   <h2 style="text-align: left;">
     Homemade Chilly Chicken Pizza
@@ -45,7 +45,7 @@ categories:
   
   <div style="text-align: left;">
     <b>Chilly Chicken Pizza</b> is really very crispy and tasty.Its very special for all <b>non veg <a class="zem_slink" title="Pizza" href="http://en.wikipedia.org/wiki/Pizza" target="_blank" rel="wikipedia">pizza</a></b> lovers.Its very <b>easy</b> to make.You can make it at home and enjoy it.In this am using a <b>topping</b> of <a class="zem_slink" title="Chilli chicken" href="http://en.wikipedia.org/wiki/Chilli_chicken" target="_blank" rel="wikipedia">chilli chicken</a> for make it tasty.
-  </div>
+  </p>
   
   <h2 style="text-align: left;">
     <i><u><span style="color: #38761d;">Ingredients:</span></u></i>
@@ -116,7 +116,7 @@ categories:
     <span style="color: #274e13;"><i><u>Method:</u></i></span>
   </h2>
   
-  <div>
+  <p>
     <!-- post -->
     
     <ins style="display: block;" data-ad-client="ca-pub-8391089480493038" data-ad-slot="4079886109" data-ad-format="auto"></ins></p> 
@@ -150,5 +150,5 @@ categories:
         <b>Grill</b> again for 4 minutes.
       </li>
     </ul>
-  </div>
-</div>
+  </p>
+</p>

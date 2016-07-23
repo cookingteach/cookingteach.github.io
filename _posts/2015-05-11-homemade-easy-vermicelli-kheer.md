@@ -33,11 +33,11 @@ categories:
 ---
 <div dir="ltr" style="text-align: left;">
   <div style="clear: both; text-align: center;">
-  </div>
+  </p>
   
   <div style="clear: both; text-align: center;">
     <a style="margin-left: 1em; margin-right: 1em;" href="http://4.bp.blogspot.com/-BkA7SLkWwQc/VVDbmq87AxI/AAAAAAAAAVM/1I2dLThd2No/s1600/hqdefault.jpg"><img title="Homemade Easy vermicelli Kheer" src="http://4.bp.blogspot.com/-BkA7SLkWwQc/VVDbmq87AxI/AAAAAAAAAVM/1I2dLThd2No/s320/hqdefault.jpg" alt="Homemade Easy vermicelli Kheer" width="320" height="240" border="0" /></a>
-  </div>
+  </p>
   
   <h2>
     <span style="text-decoration: underline;">Homemade Easy Vermicelli <a title="Kheer" href="http://en.wikipedia.org/wiki/Kheer" target="_blank" rel="wikipedia">Kheer</a> Recipes</span>
@@ -162,14 +162,14 @@ categories:
   </ul>
   
   <div style="clear: both; text-align: center;">
-  </div>
+  </p>
   
   <div style="clear: both; text-align: center;">
     <a style="margin-left: 1em; margin-right: 1em;" href="http://1.bp.blogspot.com/-nKh66X49iFE/VVDarfIpzMI/AAAAAAAAAVE/FxfDTgCTR4Q/s1600/20130809-101946.jpg"><img title="Homemade Easy vermicelli Kheer" src="http://1.bp.blogspot.com/-nKh66X49iFE/VVDarfIpzMI/AAAAAAAAAVE/FxfDTgCTR4Q/s320/20130809-101946.jpg" alt="Homemade Easy vermicelli Kheer" width="320" height="240" border="0" /></a>
-  </div>
+  </p>
   
-  <div>
-  </div>
+  <p>
+  </p>
   
   <ul>
     <li>
@@ -194,4 +194,4 @@ categories:
       <b>Serve</b> it.
     </li>
   </ul>
-</div>
+</p>

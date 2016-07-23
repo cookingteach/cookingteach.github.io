@@ -33,11 +33,11 @@ categories:
 ---
 <div dir="ltr" style="text-align: left;">
   <div style="clear: both; text-align: center;">
-  </div>
+  </p>
   
   <div style="clear: both; text-align: center;">
     <a style="margin-left: 1em; margin-right: 1em;" href="http://3.bp.blogspot.com/-ZwOgeb5ZYqA/VQr1Ca1nRtI/AAAAAAAAAJs/qsRbdhH7Kck/s1600/IMG_7267.JPG"><img src="http://3.bp.blogspot.com/-ZwOgeb5ZYqA/VQr1Ca1nRtI/AAAAAAAAAJs/qsRbdhH7Kck/s1600/IMG_7267.JPG" alt="" width="284" height="320" border="0" /></a>
-  </div>
+  </p>
   
   <h2 style="text-align: left;">
     Homemade Tomato Rasam Soup
@@ -45,7 +45,7 @@ categories:
   
   <div style="text-align: left;">
     <b>Tomato Rasam</b> is a famous south Indian soup which is made from <b><a class="zem_slink" title="Tomato" href="http://en.wikipedia.org/wiki/Tomato" target="_blank" rel="wikipedia">tomatoes</a></b> and <b><a class="zem_slink" title="Rasam" href="http://en.wikipedia.org/wiki/Rasam" target="_blank" rel="wikipedia">rasam</a> powder</b>.It is very easy to prepare.You can enjoy it with papad or rice.I give u a simple recipe which i all time used to make it.
-  </div>
+  </p>
   
   <h2 style="text-align: left;">
     <i><u><span style="color: red;">Ingredients:</span></u></i>
@@ -85,7 +85,7 @@ categories:
     <i><span style="color: red;">Tempering:</span></i>
   </h3>
   
-  <div>
+  <p>
     <ul style="text-align: left;">
       <li>
         1 tbsp<b> oil</b>
@@ -107,9 +107,9 @@ categories:
     <h2 style="text-align: left;">
       <i><u><span style="color: red;">Method:</span></u></i>
     </h2>
-  </div>
+  </p>
   
-  <div>
+  <p>
     <ul>
       <li>
         <b>Cover</b> and <b>microwave</b> tomatoes, 5/2 cup water, rasam powder, haldi, garlic, salt and jaggery together for<b> 7 minutes</b>.
@@ -140,4 +140,4 @@ categories:
     </ul>
     
     <p>
-      <ins style="display: block;" data-ad-client="ca-pub-8391089480493038" data-ad-slot="4079886109" data-ad-format="auto"></ins></div> </div>
+      <ins style="display: block;" data-ad-client="ca-pub-8391089480493038" data-ad-slot="4079886109" data-ad-format="auto"></ins></p> </p>

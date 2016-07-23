@@ -49,7 +49,7 @@ tags:
 ---
 <div dir="ltr" style="text-align: left;">
   <div style="clear: both; text-align: center;">
-  </div>
+  </p>
   
   <h2>
     <img class="size-medium wp-image-234 aligncenter" src="http://cookingteach.com/wp-content
@@ -204,4 +204,4 @@ tags:
       Then serve hot.
     </li>
   </ul>
-</div>
+</p>

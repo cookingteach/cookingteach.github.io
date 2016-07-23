@@ -34,7 +34,7 @@ categories:
 <div dir="ltr" style="text-align: left;">
   <div style="clear: both; text-align: center;">
     <a style="margin-left: 1em; margin-right: 1em;" href="http://1.bp.blogspot.com/-v5GfozTbfkI/VOmw8cazYRI/AAAAAAAAAFc/lIP7SmZ1lBU/s1600/1.jpg"><img src="http://1.bp.blogspot.com/-v5GfozTbfkI/VOmw8cazYRI/AAAAAAAAAFc/lIP7SmZ1lBU/s1600/1.jpg" alt="" width="320" height="240" border="0" /></a>
-  </div>
+  </p>
   
   <h2 style="text-align: left;">
     <a class="zem_slink" title="Thai language" href="http://en.wikipedia.org/wiki/Thai_language" target="_blank" rel="wikipedia">Thai</a> <a class="zem_slink" title="Peanut sauce" href="http://en.wikipedia.org/wiki/Peanut_sauce" target="_blank" rel="wikipedia">Peanut sauce</a> easy recipe
@@ -42,16 +42,16 @@ categories:
   
   <div style="text-align: left;">
     <b>Peanut sauce</b> is a <b>Thai recipe</b> is most popular <a class="zem_slink" title="Race and ethnicity in the United States Census" href="http://en.wikipedia.org/wiki/Race_and_ethnicity_in_the_United_States_Census" target="_blank" rel="wikipedia">Asian</a> sauce which is quick and easy to make.We serve it with <b><a class="zem_slink" title="Dosa" href="http://en.wikipedia.org/wiki/Dosa" target="_blank" rel="wikipedia">dosa</a></b> or <b><a class="zem_slink" title="Idli" href="http://en.wikipedia.org/wiki/Idli" target="_blank" rel="wikipedia">idli</a></b> or many other purposes.
-  </div>
+  </p>
   
   <div style="text-align: left;">
-  </div>
+  </p>
   
   <h2>
     <i style="color: #38761d;"><u>Ingredients</u></i><i style="color: #38761d;"><u>:</u></i>
   </h2>
   
-  <div>
+  <p>
     <ul style="text-align: left;">
       <li>
         1 cup <span style="color: #cc0000;">peanut <a class="zem_slink" title="Roasting" href="http://en.wikipedia.org/wiki/Roasting" target="_blank" rel="wikipedia">roasted</a> <a class="zem_slink" title="Cereal" href="http://en.wikipedia.org/wiki/Cereal" target="_blank" rel="wikipedia">grain</a></span> and piercing
@@ -78,7 +78,7 @@ categories:
         <span style="color: #cc0000;">salt</span> to taste
       </li>
     </ul>
-  </div>
+  </p>
   
   <p>
     &nbsp;
@@ -88,7 +88,7 @@ categories:
     <span style="color: #38761d;"><i><u>Method:</u></i></span>
   </h2>
   
-  <div>
+  <p>
     <ul style="text-align: left;">
       <li>
         In <b>mixer</b> with 1 cup peanut grains, 1/2 cup water, salt,green pepper, take <b>grand</b>.
@@ -109,7 +109,7 @@ categories:
         Make it <b>cool</b> to serve.
       </li>
     </ul>
-  </div>
+  </p>
   
   <h2 style="text-align: left;">
     <span style="color: #38761d;"><i><u>Method to serve:</u></i></span><!-- post -->
@@ -123,7 +123,7 @@ categories:
     </li>
   </ul>
   
-  <div>
+  <p>
     <span style="color: #38761d;"><i><u style="font-weight: normal;"> </u></i></span>
-  </div>
-</div>
+  </p>
+</p>

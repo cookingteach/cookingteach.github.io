@@ -33,14 +33,14 @@ categories:
 ---
 <div dir="ltr" style="text-align: left;">
   <div style="clear: both; text-align: center;">
-  </div>
+  </p>
   
   <div style="clear: both; text-align: center;">
-  </div>
+  </p>
   
   <div style="clear: both; text-align: center;">
     <a style="margin-left: 1em; margin-right: 1em;" href="http://2.bp.blogspot.com/-Yc_PLaShD6M/VO9WJ6pFOdI/AAAAAAAAAHQ/qjJhi13LB2U/s1600/2.jpg"><img src="http://2.bp.blogspot.com/-Yc_PLaShD6M/VO9WJ6pFOdI/AAAAAAAAAHQ/qjJhi13LB2U/s1600/2.jpg" alt="" width="320" height="170" border="0" /></a>
-  </div>
+  </p>
   
   <h2 style="clear: both;">
     Spicy Punjabi aloo tikki
@@ -48,17 +48,17 @@ categories:
   
   <div style="text-align: left;">
     <b><a class="zem_slink" title="Aloo tikki" href="http://en.wikipedia.org/wiki/Aloo_tikki" target="_blank" rel="wikipedia">Aloo tikki</a> </b>is a most popular <b>north Indian</b> dish.You can make this crispy ,spicy aloo tikki in your home.You can serve it as a<b> snacks</b>. <a class="zem_slink" title="Dum Aloo" href="http://en.wikipedia.org/wiki/Dum_Aloo" target="_blank" rel="wikipedia">Aloo</a> means a potato and tikki means a small cutlet or croquette.<span style="background-color: white; color: #252525; font-family: sans-serif; font-size: 14px; line-height: 22.3999996185303px;">Aloo tikki is basically <b>mashed potato </b>mixed with some ingridents<b> </b></span><span style="background-color: white; color: #252525; font-family: sans-serif; font-size: 14px; line-height: 22.3999996185303px;"> <a class="zem_slink" title="Deep frying" href="http://en.wikipedia.org/wiki/Deep_frying" target="_blank" rel="wikipedia">deep-fried</a> in oil .</span>
-  </div>
+  </p>
   
   <div style="text-align: left;">
     You can serve it with<b> dahi,</b> <b>green chutney</b>, or <b><a class="zem_slink" title="Tomato sauce" href="http://en.wikipedia.org/wiki/Tomato_sauce" target="_blank" rel="wikipedia">tomato sauce</a>.</b>
-  </div>
+  </p>
   
   <h2 style="text-align: left;">
     <i><u><span style="color: red;">Ingredients:</span></u></i>
   </h2>
   
-  <div>
+  <p>
     <ul style="text-align: left;">
       <li>
         1/2 kg medium<span style="color: blue;"> <a class="zem_slink" title="Potato" href="http://en.wikipedia.org/wiki/Potato" target="_blank" rel="wikipedia">potatoes</a></span>
@@ -103,13 +103,13 @@ categories:
         1/2 tbsp<span style="color: blue;"> <a class="zem_slink" title="Chaat masala" href="http://en.wikipedia.org/wiki/Chaat_masala" target="_blank" rel="wikipedia">chaat masala</a></span>
       </li>
     </ul>
-  </div>
+  </p>
   
   <h2 style="text-align: left;">
     <span style="color: red;"><i><u>Method to prepare in microwave:</u></i></span>
   </h2>
   
-  <div>
+  <p>
     <ul style="text-align: left;">
       <li>
         <b>Wash</b> and put <b>wet potatoes </b>in a micro <b>safe streamer bowl.Microwave</b> for 5 minutes and cool it.
@@ -143,13 +143,13 @@ categories:
       </li>
     </ul>
     
-    <div>
+    <p>
       <h2>
         <span style="color: red;"><i><u>Method to prepare in pan:</u></i></span>
       </h2>
-    </div>
+    </p>
     
-    <div>
+    <p>
       <ul style="text-align: left;">
         <ul style="text-align: left;">
           <!-- post -->
@@ -186,24 +186,24 @@ categories:
           Put these fried tikkies into a bowl and serve hot.
         </li>
       </ul>
-    </div>
+    </p>
     
     <h2 style="text-align: left;">
       <span style="color: red;"><i><u>Method to serve:</u></i></span>
     </h2>
     
-    <div>
+    <p>
       <ul style="text-align: left;">
         <li>
           Before serving sprinkle a chaat masala on it and serve these hot spicy tikkies with <b>green chilli sauce</b> or <b>tomato sauce.</b>
         </li>
       </ul>
-    </div>
+    </p>
     
-    <div>
-    </div>
-  </div>
+    <p>
+    </p>
+  </p>
   
   <h2 style="text-align: left;">
   </h2>
-</div>
+</p>

@@ -46,7 +46,7 @@ categories:
 ---
 <div dir="ltr" style="text-align: left;">
   <div style="clear: both; text-align: center;">
-  </div>
+  </p>
   
   <h2>
     <img class="size-medium wp-image-284 aligncenter" src="http://cookingteach.com/wp-content/uploads/2015/07/2015-04-11-16.44.28-300x225.jpg" alt="Bread Toast" width="300" height="225" srcset="http://cookingteach.com/wp-content/uploads/2015/07/2015-04-11-16.44.28-300x225.jpg 300w, http://cookingteach.com/wp-content/uploads/2015/07/2015-04-11-16.44.28-768x576.jpg 768w, http://cookingteach.com/wp-content/uploads/2015/07/2015-04-11-16.44.28-1024x768.jpg 1024w, http://cookingteach.com/wp-content/uploads/2015/07/2015-04-11-16.44.28-320x240.jpg 320w" sizes="(max-width: 300px) 100vw, 300px" />
@@ -115,10 +115,10 @@ categories:
   
   <div style="clear: both; text-align: center;">
      <img class="alignnone size-medium wp-image-286" src="http://cookingteach.com/wp-content/uploads/2015/07/2015-04-11-16.40.49-300x225.jpg" alt="Homemade Yummy Bread Toast Recipe" width="300" height="225" srcset="http://cookingteach.com/wp-content/uploads/2015/07/2015-04-11-16.40.49-300x225.jpg 300w, http://cookingteach.com/wp-content/uploads/2015/07/2015-04-11-16.40.49-768x576.jpg 768w, http://cookingteach.com/wp-content/uploads/2015/07/2015-04-11-16.40.49-1024x768.jpg 1024w, http://cookingteach.com/wp-content/uploads/2015/07/2015-04-11-16.40.49-320x240.jpg 320w" sizes="(max-width: 300px) 100vw, 300px" />
-  </div>
+  </p>
   
   <div style="clear: both; text-align: center;">
-  </div>
+  </p>
   
   <ul>
     <li>
@@ -209,4 +209,4 @@ categories:
       <b>Serve</b> hot with <b>sauce</b>.
     </li>
   </ul>
-</div>
+</p>

@@ -48,7 +48,7 @@ tags:
 ---
 <div dir="ltr" style="text-align: left;">
   <div style="clear: both; text-align: center;">
-  </div>
+  </p>
   
   <h2>
     <span style="text-decoration: underline;">Homemade Moong Dal ki <a title="Khichdi" href="http://en.wikipedia.org/wiki/Khichdi" target="_blank" rel="wikipedia">Khichdi</a></span>
@@ -267,4 +267,4 @@ tags:
       <b>Serve</b> hot with curd (dahi).
     </li>
   </ul>
-</div>
+</p>

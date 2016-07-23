@@ -38,18 +38,18 @@ categories:
   
   <div style="clear: both; text-align: center;">
     <a style="margin-left: 1em; margin-right: 1em;" href="http://1.bp.blogspot.com/-VWsFunT0GxA/VPCfgYc3jMI/AAAAAAAAAHk/U2EKlA_tVC4/s1600/2.jpg"><img src="http://1.bp.blogspot.com/-VWsFunT0GxA/VPCfgYc3jMI/AAAAAAAAAHk/U2EKlA_tVC4/s1600/2.jpg" alt="" width="320" height="192" border="0" /></a>
-  </div>
-</div>
+  </p>
+</p>
 
 ## **Easy Corn upma snack**
 
 <div style="text-align: left;">
   <b>Corn <a class="zem_slink" title="Upma" href="http://en.wikipedia.org/wiki/Upma" target="_blank" rel="wikipedia">Upma</a></b> is my favorite dish.I make it every time when i feel hungry.You can <b>served</b> it as a regular <b>breakfast</b> with tea.In this i used a <b>corn</b> to make this <b>corn upma</b>. But you can also use a<b> <a class="zem_slink" title="Pea" href="http://en.wikipedia.org/wiki/Pea" target="_blank" rel="wikipedia">peas</a></b> instead of corns and make <b>peas upma</b>. Enjoy this tasty dish with you family and friends.
-</div>
+</p>
 
 <span style="color: #38761d;"><i><u>Ingredients:</u></i></span>
 
-<div>
+<p>
   <ul style="text-align: left;">
     <li>
       1 cup <span style="color: blue;">rawa <a class="zem_slink" title="Semolina" href="http://en.wikipedia.org/wiki/Semolina" target="_blank" rel="wikipedia">suji</a></span>
@@ -98,18 +98,18 @@ categories:
     </li>
   </ul>
   
-  <div>
-  </div>
+  <p>
+  </p>
   
   <p>
     <i><u><span style="color: #274e13;">Method:</span></u></i>
   </p>
   
-  <div>
+  <p>
     <i><u><span style="color: #274e13;"> </span></u></i>
-  </div>
+  </p>
   
-  <div>
+  <p>
     <ul style="text-align: left;">
       <li>
         Mix 3 tbsp oil ans <b>rawa suji</b> in <b>flat glass dish</b>.
@@ -146,9 +146,9 @@ categories:
       </li>
     </ul>
     
-    <div>
-    </div>
-  </div>
+    <p>
+    </p>
+  </p>
   
   <p>
     <i><u><b><span style="color: #274e13;">Another method:</span></b></u></i>
@@ -184,54 +184,54 @@ categories:
     </li>
   </ul>
   
-  <div>
-    <div>
-    </div>
+  <p>
+    <p>
+    </p>
     
     <p>
       <i><u><span style="color: #274e13;">Method to serve:</span></u></i>
     </p>
     
-    <div>
+    <p>
       <i><u><span style="color: #274e13;"> </span></u></i>
-    </div>
+    </p>
     
-    <div>
+    <p>
       <ul style="text-align: left;">
         <li>
           Before serving garnish it with finely chopped fresh<b> coriander leaves</b> and serve hot with tea.
         </li>
       </ul>
-    </div>
+    </p>
     
-    <div>
-    </div>
-  </div>
+    <p>
+    </p>
+  </p>
   
   <p>
     <b><i><u><span style="color: #274e13;">Tip:</span></u></i></b>
   </p>
   
-  <div>
+  <p>
     <b><i><u><span style="color: #274e13;"> </span></u></i></b>
-  </div>
+  </p>
   
-  <div>
+  <p>
     <ul style="text-align: left;">
       <li>
         <b><i>You can also use a boiled peas instead of corn and enjoy pea upma.</i></b>
       </li>
     </ul>
-  </div>
+  </p>
   
-  <div>
-  </div>
-</div>
+  <p>
+  </p>
+</p>
 
-<div>
+<p>
   <span style="color: #38761d;"><i><u> </u></i></span>
-</div>
+</p>
 
-<div>
+<p>
   <span style="color: #38761d;"><i><u> </u></i></span>
-</div>
+</p>

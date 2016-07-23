@@ -50,7 +50,7 @@ categories:
 
 <div style="text-align: justify;">
   Homemade easy gatte ki sabzi is traditional <a title="Rajasthani language" href="http://en.wikipedia.org/wiki/Rajasthani_language" target="_blank" rel="wikipedia">Rajasthani</a> recipe (<a class="zem_slink" title="Indian cuisine" href="http://en.wikipedia.org/wiki/Indian_cuisine" target="_blank" rel="wikipedia">Indian</a> recipe).It is very simple and quick recipe.In this gatte is made by using <a class="zem_slink" title="Gram flour" href="http://en.wikipedia.org/wiki/Gram_flour" target="_blank" rel="wikipedia">gram flour</a> ( bessan) and curry is made using butter milk or curd.In this we cant use onion (piyaaz), ginger(adarak) and garlic(lasun).Here i give you a simple recipe steps by suing which you can make this recipe quickly at home.
-</div>
+</p>
 
 <h2 style="text-align: left;">
   <i><u><span style="color: red;">Ingredients: </span></u></i>
@@ -89,7 +89,7 @@ To prepare a Gatte ki Sabzi follow the below steps:
 <img class="size-medium wp-image-239 aligncenter" src="http://cookingteach.com/wp-content/uploads/2015/10/gatte-300x238.jpg" alt="gatte" width="300" height="238" srcset="http://cookingteach.com/wp-content/uploads/2015/10/gatte-300x238.jpg 300w, http://cookingteach.com/wp-content/uploads/2015/10/gatte-768x609.jpg 768w, http://cookingteach.com/wp-content/uploads/2015/10/gatte-1024x812.jpg 1024w" sizes="(max-width: 300px) 100vw, 300px" />
 
 <div style="clear: both; text-align: center;">
-</div>
+</p>
 
   * Now, take a **pan** add **water** and boil it.
   * **Add piece** to **boiling** **water** and cook it around 2-3 minutes.
@@ -109,4 +109,4 @@ To prepare a Gatte ki Sabzi follow the below steps:
   <u><i><span style="color: red;">Tip: </span></i></u>
 </h2>
 
-  * If butter milk is not available then take a bowl add some curd and water mix well. You can use this mixture instead of <a title="Buttermilk" href="http://en.wikipedia.org/wiki/Buttermilk" target="_blank" rel="wikipedia">Butter Milk</a>.</div>
+  * If butter milk is not available then take a bowl add some curd and water mix well. You can use this mixture instead of <a title="Buttermilk" href="http://en.wikipedia.org/wiki/Buttermilk" target="_blank" rel="wikipedia">Butter Milk</a>.</p>

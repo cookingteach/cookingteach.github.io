@@ -60,7 +60,7 @@ tags:
   
   <div style="text-align: justify;">
     Corn with basil tikki is very healthy recipe.In this we use a special ingredient basil leave which gives a different nice flavour to this recipe.This recipe is very easy and quick to make.This snack is full of nutrition.Here i giving you a simple recipe to make this recipe at home and enjoy it with green <a class="zem_slink" title="Chutney" href="http://en.wikipedia.org/wiki/Chutney" target="_blank" rel="wikipedia">chutney</a> or <a class="zem_slink" title="Tomato sauce" href="http://en.wikipedia.org/wiki/Tomato_sauce" target="_blank" rel="wikipedia">tomato sauce</a>.
-  </div>
+  </p>
   
   <h2 style="text-align: left;">
     <i><u><span style="color: red;">Ingredients: </span></u></i>
@@ -173,4 +173,4 @@ tags:
       Turn sides.
     </li>
   </ul>
-</div>
+</p>

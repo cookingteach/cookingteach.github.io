@@ -33,20 +33,20 @@ categories:
 ---
 <div dir="ltr" style="text-align: left;">
   <div style="clear: both; text-align: center;">
-  </div>
+  </p>
   
   <div style="clear: both; text-align: center;">
-  </div>
+  </p>
   
   <div style="clear: both; text-align: center;">
-  </div>
+  </p>
   
   <div style="clear: both; text-align: center;">
-  </div>
+  </p>
   
   <div style="clear: both; text-align: center;">
     <a style="margin-left: 1em; margin-right: 1em;" href="http://2.bp.blogspot.com/-7XsRZe9B2qo/VUziHzjvcQI/AAAAAAAAAUk/sV8NMdmY1G0/s1600/148_omelette_with_tomato_basil_mergez_sausage_goat_cheese_cumin_caramelized_onion_13.50.jpg"><img title="Homemade Easy Cheese Omelette " src="http://2.bp.blogspot.com/-7XsRZe9B2qo/VUziHzjvcQI/AAAAAAAAAUk/sV8NMdmY1G0/s320/148_omelette_with_tomato_basil_mergez_sausage_goat_cheese_cumin_caramelized_onion_13.50.jpg" alt="Homemade Easy Cheese Omelette " width="320" height="320" border="0" /></a>
-  </div>
+  </p>
   
   <h2>
     <span style="text-decoration: underline;"> </span>
@@ -108,7 +108,7 @@ categories:
   
   <div style="clear: both; text-align: center;">
     <a style="margin-left: 1em; margin-right: 1em;" href="http://1.bp.blogspot.com/-OFE-QaesyqQ/VUzhWRCen-I/AAAAAAAAAUc/NwLseotXTPY/s1600/images.jpg"><img src="http://1.bp.blogspot.com/-OFE-QaesyqQ/VUzhWRCen-I/AAAAAAAAAUc/NwLseotXTPY/s1600/images.jpg" alt="" border="0" /></a>
-  </div>
+  </p>
   
   <ul>
     <li>
@@ -150,7 +150,7 @@ categories:
   
   <div style="text-align: justify;">
     In this method we make a easy cheese omelette recipes by using tawa or pan. Its almost same we make a cheese omelette in microwave.The ingredients are same as we use in a microwave recipes.Here are a method to make this by using tawa or pan.
-  </div>
+  </p>
   
   <h3 style="text-align: left;">
     <u><span style="color: #274e13;"> Ingredients: </span></u>
@@ -208,7 +208,7 @@ categories:
   
   <div style="clear: both; text-align: center;">
     <a style="margin-left: 1em; margin-right: 1em;" href="http://4.bp.blogspot.com/-Xvu-Xs3fcYg/VUzjNpAWOcI/AAAAAAAAAUw/rTx-h2tU_7s/s1600/21507-1_n.jpg"><img src="http://4.bp.blogspot.com/-Xvu-Xs3fcYg/VUzjNpAWOcI/AAAAAAAAAUw/rTx-h2tU_7s/s320/21507-1_n.jpg" alt="" width="320" height="240" border="0" /></a>
-  </div>
+  </p>
   
   <ul>
     <li>
@@ -220,11 +220,11 @@ categories:
     <i><u><span style="color: red;">Tip:</span></u></i>
   </h2>
   
-  <div>
+  <p>
     <ul style="text-align: left;">
       <li>
         You can also add chopped<b> capsicum</b> and <b>tomatoes</b>.
       </li>
     </ul>
-  </div>
-</div>
+  </p>
+</p>

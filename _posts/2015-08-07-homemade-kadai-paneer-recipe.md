@@ -53,7 +53,7 @@ tags:
 <div dir="ltr" style="text-align: left;">
   <div style="clear: both; text-align: center;">
       <img class="alignnone size-medium wp-image-281" src="http://cookingteach.com/wp-content/uploads/2015/08/2015-08-01-21.06.51-300x225.jpg" alt="Homemade Kadai Paneer Recipe" width="300" height="225" srcset="http://cookingteach.com/wp-content/uploads/2015/08/2015-08-01-21.06.51-300x225.jpg 300w, http://cookingteach.com/wp-content/uploads/2015/08/2015-08-01-21.06.51-768x576.jpg 768w, http://cookingteach.com/wp-content/uploads/2015/08/2015-08-01-21.06.51-1024x768.jpg 1024w, http://cookingteach.com/wp-content/uploads/2015/08/2015-08-01-21.06.51-320x240.jpg 320w" sizes="(max-width: 300px) 100vw, 300px" />
-  </div>
+  </p>
   
   <h2>
     <span style="text-decoration: underline;">Homemade <a class="zem_slink" title="Karahi" href="http://en.wikipedia.org/wiki/Karahi" target="_blank" rel="wikipedia">Kadai</a> <a class="zem_slink" title="Paneer" href="http://en.wikipedia.org/wiki/Paneer" target="_blank" rel="wikipedia">Paneer</a> Recipe</span>
@@ -194,7 +194,7 @@ tags:
   </p>
   
   <div style="clear: both; text-align: center;">
-  </div>
+  </p>
   
   <ul>
     <li>
@@ -219,7 +219,7 @@ tags:
   </p>
   
   <div style="clear: both; text-align: center;">
-  </div>
+  </p>
   
   <ul>
     <li>
@@ -229,4 +229,4 @@ tags:
       <b>Serve hot</b> with rice or roti.
     </li>
   </ul>
-</div>
+</p>

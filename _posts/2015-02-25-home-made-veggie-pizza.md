@@ -32,11 +32,11 @@ categories:
   - snacks
 ---
 <div style="clear: both; text-align: center;">
-</div>
+</p>
 
 <div style="clear: both; text-align: center;">
   <a style="margin-left: 1em; margin-right: 1em;" href="http://1.bp.blogspot.com/-4lBfOA1KCdY/VO35PDl_EGI/AAAAAAAAAG8/krZ6cpysTaM/s1600/1.jpg"><img src="http://1.bp.blogspot.com/-4lBfOA1KCdY/VO35PDl_EGI/AAAAAAAAAG8/krZ6cpysTaM/s1600/1.jpg" alt="" width="320" height="200" border="0" /></a>
-</div>
+</p>
 
 <h2 dir="ltr" style="text-align: left;">
   Home made Veggie Pizza
@@ -44,17 +44,17 @@ categories:
 
 <div style="text-align: left;">
   <b>Veggie <a class="zem_slink" title="Pizza" href="http://en.wikipedia.org/wiki/Pizza" target="_blank" rel="wikipedia">pizza</a></b> is a tastiest <b>crispy meal</b>.I don&#8217;t think that there is anyone which does not like a pizza.
-</div>
+</p>
 
 <div style="text-align: left;">
   <a class="zem_slink" title="Vegetable" href="http://en.wikipedia.org/wiki/Vegetable" target="_blank" rel="wikipedia">Veg</a> pizza is a most <b>famous</b> meal in all.Everyone likes to<b> eat</b> it.I used <b><a class="zem_slink" title="Onion" href="http://en.wikipedia.org/wiki/Onion" target="_blank" rel="wikipedia">onion</a></b> and <b><a class="zem_slink" title="Capsicum" href="http://en.wikipedia.org/wiki/Capsicum" target="_blank" rel="wikipedia">capsicum</a></b> as topping this before garnish use a<b> <a class="zem_slink" title="Oregano" href="http://en.wikipedia.org/wiki/Oregano" target="_blank" rel="wikipedia">oregano</a></b>.You can also made this <b>delicious</b> yummy <b>pizza</b> at <b>home</b>.Enjoy this yummy pizza with sauce.
-</div>
+</p>
 
 <h2 style="text-align: left;">
   <i><span style="color: #38761d;"><u>Ingredients:</u></span></i>
 </h2>
 
-<div>
+<p>
   <ul style="text-align: left;">
     <li>
       2 ready made<span style="color: red;"> pizza base</span>
@@ -94,9 +94,9 @@ categories:
   <h3 style="text-align: left;">
     <span style="color: #4c1130;"><b><i>For tomato spread:</i></b></span>
   </h3>
-</div>
+</p>
 
-<div>
+<p>
   <ul style="text-align: left;">
     <li>
       1 tbsp <span style="color: red;">garlic paste</span>
@@ -113,7 +113,7 @@ categories:
     <span style="color: #38761d;"><i><u>Method to prepare:</u></i></span>
   </h2>
   
-  <div>
+  <p>
     <ul style="text-align: left;">
       <ul style="text-align: left;">
         <!-- post -->
@@ -150,7 +150,7 @@ categories:
         <b>Grill</b> again for <b>3 minutes</b>.
       </li>
     </ul>
-  </div>
+  </p>
   
   <p>
     <!-- post -->
@@ -162,11 +162,11 @@ categories:
     <i><u><span style="color: #38761d;">Method to serve:</span></u></i>
   </h2>
   
-  <div>
+  <p>
     <ul style="text-align: left;">
       <li>
         Before serving it,sprinkle a <b>oregano</b> on it and serve it with sauce and enjoy it.
       </li>
     </ul>
-  </div>
-</div>
+  </p>
+</p>

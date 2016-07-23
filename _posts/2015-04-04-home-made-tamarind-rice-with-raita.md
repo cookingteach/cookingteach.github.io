@@ -34,14 +34,14 @@ categories:
 <div dir="ltr" style="text-align: left;">
   <div style="text-align: left;">
     <div style="clear: both; text-align: center;">
-    </div>
+    </p>
     
     <div style="clear: both; text-align: center;">
       <a style="margin-left: 1em; margin-right: 1em;" href="http://2.bp.blogspot.com/-O_h7cG0B18Q/VSAODH9llaI/AAAAAAAAAM0/LSQl3L1CIb8/s1600/IMG_1416.JPG"><img src="http://2.bp.blogspot.com/-O_h7cG0B18Q/VSAODH9llaI/AAAAAAAAAM0/LSQl3L1CIb8/s1600/IMG_1416.JPG" alt="" width="320" height="213" border="0" /></a>
-    </div>
+    </p>
     
     <p>
-      <b><br /> </b><b>Tamarind Rice</b> is a south <a class="zem_slink" title="Indian cuisine" href="http://en.wikipedia.org/wiki/Indian_cuisine" target="_blank" rel="wikipedia">Indian dish</a> which is made by using <b><a class="zem_slink" title="Puliyogare" href="http://en.wikipedia.org/wiki/Puliyogare" target="_blank" rel="wikipedia">Puliyogare</a></b> <a class="zem_slink" title="Rice" href="http://en.wikipedia.org/wiki/Rice" target="_blank" rel="wikipedia">rice</a> mix. It is very tasty and delicious. You can make it within 10 minutes.Here am using a ready made mix of <b>puliyogare.</b> Served it with <b><a class="zem_slink" title="Raita" href="http://en.wikipedia.org/wiki/Raita" target="_blank" rel="wikipedia">Raita</a></b> and enjoy this tasty dish.</div> 
+      <b><br /> </b><b>Tamarind Rice</b> is a south <a class="zem_slink" title="Indian cuisine" href="http://en.wikipedia.org/wiki/Indian_cuisine" target="_blank" rel="wikipedia">Indian dish</a> which is made by using <b><a class="zem_slink" title="Puliyogare" href="http://en.wikipedia.org/wiki/Puliyogare" target="_blank" rel="wikipedia">Puliyogare</a></b> <a class="zem_slink" title="Rice" href="http://en.wikipedia.org/wiki/Rice" target="_blank" rel="wikipedia">rice</a> mix. It is very tasty and delicious. You can make it within 10 minutes.Here am using a ready made mix of <b>puliyogare.</b> Served it with <b><a class="zem_slink" title="Raita" href="http://en.wikipedia.org/wiki/Raita" target="_blank" rel="wikipedia">Raita</a></b> and enjoy this tasty dish.</p> 
       
       <h2 style="text-align: left;">
         <i><u><span style="color: #274e13;">Ingredients:</span></u></i>
@@ -66,7 +66,7 @@ categories:
         <u>For Raita:</u>
       </h3>
       
-      <div>
+      <p>
         <ul style="text-align: left;">
           <li>
             2 cups <span style="color: red;"><a class="zem_slink" title="Curd" href="http://en.wikipedia.org/wiki/Curd" target="_blank" rel="wikipedia">curd</a></span>
@@ -97,9 +97,9 @@ categories:
         <h2 style="text-align: left;">
           <i><u><span style="color: #274e13;">Method to prepare Rice:</span></u></i>
         </h2>
-      </div>
+      </p>
       
-      <div>
+      <p>
         <ul style="text-align: left;">
           <li>
             <b>Place</b> rice and water in a large<b> bowl</b> and microwave, covered, on a high rack for 12 minutes or <b>until cooked</b> through.
@@ -121,9 +121,9 @@ categories:
         <h2 style="text-align: left;">
           <i><u><span style="color: #274e13;">Method to prepare Raita:</span></u></i>
         </h2>
-      </div>
+      </p>
       
-      <div>
+      <p>
         <ul style="text-align: left;">
           <li>
             <b>Whisk</b> the curd in a bowl.
@@ -145,12 +145,12 @@ categories:
         <h2 style="text-align: left;">
           <i><u><span style="color: #274e13;">To serve:</span></u></i>
         </h2>
-      </div>
+      </p>
       
-      <div>
+      <p>
         <ul style="text-align: left;">
           <li>
             <i>Serve a hot Tamarind Rice with a raita.</i>
           </li>
         </ul>
-      </div></div>
+      </p></p>

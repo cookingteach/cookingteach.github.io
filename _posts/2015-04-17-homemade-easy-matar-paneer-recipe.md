@@ -34,7 +34,7 @@ categories:
 <div dir="ltr" style="text-align: left;">
   <div style="clear: both; text-align: center;">
     <a style="margin-left: 1em; margin-right: 1em;" href="http://3.bp.blogspot.com/-m0-P-vYWbVs/Vh_emRGCIPI/AAAAAAAAAfM/WdfhZBbv4XM/s1600/MP-2-e1304472875240.png"><img title="Homemade Easy Matar Paneer Recipe" src="http://3.bp.blogspot.com/-m0-P-vYWbVs/Vh_emRGCIPI/AAAAAAAAAfM/WdfhZBbv4XM/s320/MP-2-e1304472875240.png" alt="Homemade Easy Matar Paneer Recipe" width="240" height="320" border="0" /></a>
-  </div>
+  </p>
   
   <h3>
     <span style="color: #990000; text-decoration: underline;"> </span>
@@ -205,7 +205,7 @@ categories:
     <span style="color: #274e13;">3) Microwave method</span>
   </h3>
   
-  <div>
+  <p>
     <ul style="text-align: left;">
       <li>
         For making a matar paneer, put the oil in a microwave proof bowl.
@@ -256,7 +256,7 @@ categories:
         Serve hot with rice or chapaties.
       </li>
     </ul>
-  </div>
+  </p>
   
   <h2 style="text-align: left;">
     <i><u><span style="color: red;">Tip: </span></u></i>
@@ -270,4 +270,4 @@ categories:
       You can also add boiled potato at pressure time.
     </li>
   </ul>
-</div>
+</p>

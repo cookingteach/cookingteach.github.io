@@ -33,19 +33,19 @@ categories:
 ---
 <div dir="ltr" style="text-align: left;">
   <div style="clear: both; text-align: center;">
-  </div>
+  </p>
   
   <div style="clear: both; text-align: center;">
     <a style="margin-left: 1em; margin-right: 1em;" href="http://3.bp.blogspot.com/-tXTTDx4Dw9Y/VQ77Zmc-3XI/AAAAAAAAAK4/imTT6o-KINw/s1600/13f80_Chocolate%2BWalnut%2BCake%2Bwith%2BTruffle%2BIcing%2B2.jpg"><img src="http://3.bp.blogspot.com/-tXTTDx4Dw9Y/VQ77Zmc-3XI/AAAAAAAAAK4/imTT6o-KINw/s1600/13f80_Chocolate%2BWalnut%2BCake%2Bwith%2BTruffle%2BIcing%2B2.jpg" alt="" width="320" height="244" border="0" /></a>
-  </div>
+  </p>
   
   <div style="text-align: left;">
     <i><u><span style="color: #274e13;"> </span></u></i>
-  </div>
+  </p>
   
   <div style="text-align: left;">
     <b>Eggless <a class="zem_slink" title="Chocolate cake" href="http://en.wikipedia.org/wiki/Chocolate_cake" target="_blank" rel="wikipedia">Chocolate Cake</a></b> is a very <b>tasty</b> and yummy served as a <a class="zem_slink" title="Dessert" href="http://en.wikipedia.org/wiki/Dessert" target="_blank" rel="wikipedia">Dessert</a>. It is a perfect on <b>birthday</b> occasion or on anniversary.In this i have used a <b><a class="zem_slink" title="Condensed milk" href="http://en.wikipedia.org/wiki/Condensed_milk" target="_blank" rel="wikipedia">condensed milk</a></b> for making this. This chocolate cake is all time <b>favorite </b>of kids. The cooking time of making this cake is 5 minutes and <a class="zem_slink" title="Preparation time" href="http://en.wikipedia.org/wiki/Preparation_time" target="_blank" rel="wikipedia">preparation time</a> is 15 minutes. Its very <b>easy</b> and yummy.So<b> enjoy</b> this tasty cake by <b>making</b> it at your<b> own kitchen</b>.
-  </div>
+  </p>
   
   <h2 style="text-align: left;">
     <i><u><span style="color: #274e13;">Ingredients:</span></u></i>
@@ -87,9 +87,9 @@ categories:
     </li>
   </ul>
   
-  <div>
+  <p>
     [Note: for plain cake, remove cocoa and add 1/4 cup cornflour instead.]
-  </div>
+  </p>
   
   <p>
     <!-- post -->
@@ -101,7 +101,7 @@ categories:
     <i><u><span style="color: #274e13;">Method:</span></u></i>
   </h2>
   
-  <div>
+  <p>
     <ul style="text-align: left;">
       <li>
         <b>Sift</b> maida, cocoa, soda and baking powder. Keep aside.
@@ -126,13 +126,13 @@ categories:
     <h2 style="text-align: left;">
       <i><u><span style="color: #274e13;">Tip:</span></u></i>
     </h2>
-  </div>
+  </p>
   
-  <div>
+  <p>
     <ul style="text-align: left;">
       <li>
         This cake can also<b> <a class="zem_slink" title="Baking" href="http://en.wikipedia.org/wiki/Baking" target="_blank" rel="wikipedia">baked</a></b> at 150 c for 35-40 minutes on the <b>convection mode</b>.
       </li>
     </ul>
-  </div>
-</div>
+  </p>
+</p>

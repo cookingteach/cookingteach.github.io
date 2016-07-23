@@ -32,11 +32,11 @@ categories:
   - Desserts and Cakes
 ---
 <div style="clear: both; text-align: center;">
-</div>
+</p>
 
 <div style="clear: both; text-align: center;">
   <a style="margin-left: 1em; margin-right: 1em;" href="http://2.bp.blogspot.com/-KnrRWF0CNfY/VQ2P3rQg6wI/AAAAAAAAAKU/JCCDZhy8Hgc/s1600/Irish_Cream_Chocolate_Mousse.jpg"><img src="http://2.bp.blogspot.com/-KnrRWF0CNfY/VQ2P3rQg6wI/AAAAAAAAAKU/JCCDZhy8Hgc/s1600/Irish_Cream_Chocolate_Mousse.jpg" alt="" border="0" /></a>
-</div>
+</p>
 
 <h2 dir="ltr" style="text-align: left;">
   <b>Homemade Chocolate Mousse Recipe</b>
@@ -94,7 +94,7 @@ categories:
     <i><u><span style="color: red;">Method:</span></u></i>
   </h2>
   
-  <div>
+  <p>
     <!-- post -->
     
     <br /> <ins style="display: block;" data-ad-client="ca-pub-8391089480493038" data-ad-format="auto" data-ad-slot="4079886109"></ins></p> 
@@ -125,5 +125,5 @@ categories:
         <b>Decorate</b> with chocolate, cream and glace strawberries.
       </li>
     </ul>
-  </div>
-</div>
+  </p>
+</p>

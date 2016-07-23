@@ -33,11 +33,11 @@ categories:
 ---
 <div dir="ltr" style="text-align: left;">
   <div style="clear: both; text-align: center;">
-  </div>
+  </p>
   
   <div style="clear: both; text-align: center;">
     <a style="margin-left: 1em; margin-right: 1em;" href="http://2.bp.blogspot.com/-Z6uHI1eJ4-M/VT-8fRjUZJI/AAAAAAAAASs/XbB0_pqfCSM/s1600/fKkA0YBc8hgcMd-640m.jpg"><img title="Tasty Subz Pullao" src="http://2.bp.blogspot.com/-Z6uHI1eJ4-M/VT-8fRjUZJI/AAAAAAAAASs/XbB0_pqfCSM/s1600/fKkA0YBc8hgcMd-640m.jpg" alt="Tasty Subz Pullao" width="320" height="240" border="0" /></a>
-  </div>
+  </p>
   
   <h2 style="text-align: left;">
     <u>Tasty Spicy Subz Pullao <a class="zem_slink" title="Chocolate cake" href="http://en.wikipedia.org/wiki/Chocolate_cake" target="_blank" rel="wikipedia">Recipe</a></u>
@@ -218,10 +218,10 @@ categories:
   
   <div style="clear: both; text-align: center;">
     <a style="margin-left: 1em; margin-right: 1em;" href="http://2.bp.blogspot.com/-L0WUDVGWTKw/VT-2cdSDIgI/AAAAAAAAASU/ra3oiNe2wsQ/s1600/images.jpg"><img title="Tasty Subz Pullao" src="http://2.bp.blogspot.com/-L0WUDVGWTKw/VT-2cdSDIgI/AAAAAAAAASU/ra3oiNe2wsQ/s1600/images.jpg" alt="Tasty Subz Pullao" border="0" /></a>
-  </div>
+  </p>
   
-  <div>
-  </div>
+  <p>
+  </p>
   
   <ul>
     <li>
@@ -237,8 +237,8 @@ categories:
   
   <div style="clear: both; text-align: center;">
     <a style="margin-left: 1em; margin-right: 1em;" href="http://2.bp.blogspot.com/-igZcefgNMjg/VT-8OVe4b5I/AAAAAAAAASk/ooAqSBW4kOE/s1600/images%2B(1).jpg"><img title="Tasty Subz Pullao" src="http://2.bp.blogspot.com/-igZcefgNMjg/VT-8OVe4b5I/AAAAAAAAASk/ooAqSBW4kOE/s1600/images%2B(1).jpg" alt="Tasty Subz Pullao" border="0" /></a>
-  </div>
+  </p>
   
-  <div>
-  </div>
-</div>
+  <p>
+  </p>
+</p>

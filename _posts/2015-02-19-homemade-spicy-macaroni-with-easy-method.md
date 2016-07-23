@@ -34,7 +34,7 @@ categories:
 <div dir="ltr" style="text-align: left;">
   <div style="clear: both; text-align: center;">
     <a style="margin-left: 1em; margin-right: 1em;" href="http://3.bp.blogspot.com/-9yadvnmckFE/VOa4WGasg0I/AAAAAAAAAEs/CAc6jn53ios/s1600/macaroni-fromage-410.jpg"><img src="http://3.bp.blogspot.com/-9yadvnmckFE/VOa4WGasg0I/AAAAAAAAAEs/CAc6jn53ios/s1600/macaroni-fromage-410.jpg" alt="" width="320" height="220" border="0" /></a>
-  </div>
+  </p>
   
   <h2 style="text-align: left;">
     Homemade Spicy <a class="zem_slink" title="Macaroni and cheese" href="http://en.wikipedia.org/wiki/Macaroni_and_cheese" target="_blank" rel="wikipedia">Macaroni</a> with easy method
@@ -42,13 +42,13 @@ categories:
   
   <div style="text-align: left;">
     Macaroni is a spicy tastiest dish which simply do not like children but all likes.So I think if macaroni should be built in the house, we can make, depending on your taste.I provides a simple and easy way of making macaroni.I hope you enjoying to make a macaroni by using this method.
-  </div>
+  </p>
   
   <h2 style="text-align: left;">
     <u><i>Ingredients:</i></u>
   </h2>
   
-  <div>
+  <p>
     <ul style="text-align: left;">
       <li>
         1 bowl <span style="color: blue;">macaroni(boiled)</span>
@@ -87,13 +87,13 @@ categories:
         2 tbsp finely <span style="color: blue;">chopped <a class="zem_slink" title="Coriander" href="http://en.wikipedia.org/wiki/Coriander" target="_blank" rel="wikipedia">coriander</a></span>
       </li>
     </ul>
-  </div>
+  </p>
   
   <h2 style="text-align: left;">
     <i><u>Method:</u></i>
   </h2>
   
-  <div>
+  <p>
     <ul style="text-align: left;">
       <li>
         Boil macaroni with 1 tbsp oil and after boiling wash it with cold water.
@@ -123,17 +123,17 @@ categories:
         Serve it hot.
       </li>
     </ul>
-  </div>
+  </p>
   
   <h2 style="text-align: left;">
     <i><u>Method To Serve:</u></i>
   </h2>
   
-  <div>
+  <p>
     <ul style="text-align: left;">
       <li>
         Add a macaroni into a bowl and garnish it with finely chopped coriander and serve with a tomato sauce.
       </li>
     </ul>
-  </div>
-</div>
+  </p>
+</p>

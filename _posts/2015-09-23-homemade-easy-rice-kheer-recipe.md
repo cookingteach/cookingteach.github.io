@@ -52,7 +52,7 @@ tags:
 ---
 <div dir="ltr" style="text-align: left;">
   <div style="clear: both; text-align: center;">
-  </div>
+  </p>
   
   <h2 dir="ltr" style="text-align: left;">
   </h2>
@@ -94,13 +94,13 @@ tags:
       </li>
     </ul>
     
-    <div>
+    <p>
       <h3 style="text-align: left;">
         <span style="color: #274e13;">For garnish:</span>
       </h3>
-    </div>
+    </p>
     
-    <div>
+    <p>
       <ul style="text-align: left;">
         <li>
           1 tbsp <span style="color: blue;">sliced almonds</span> (<a title="Almond" href="http://en.wikipedia.org/wiki/Almond" target="_blank" rel="wikipedia">badam</a>)
@@ -123,12 +123,12 @@ tags:
         <h2>
           <i><u><span style="color: red;">Method:</span></u></i>
         </h2>
-      </div>
-    </div>
+      </p>
+    </p>
     
     <div style="text-align: justify;">
                 To prepare this homemade easy tasty Rice <a title="Kheer" href="http://en.wikipedia.org/wiki/Kheer" target="_blank" rel="wikipedia">Kheer</a> recipe follow the following steps.
-    </div>
+    </p>
     
     <div style="text-align: justify;">
       <ul>
@@ -176,6 +176,6 @@ tags:
           You can also add<b> <span style="color: #cc0000;">raisins</span></b> if you want to make this recipe more rich.
         </li>
       </ul>
-    </div>
-  </div>
-</div>
+    </p>
+  </p>
+</p>

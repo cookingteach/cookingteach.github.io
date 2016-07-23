@@ -33,11 +33,11 @@ categories:
 ---
 <div dir="ltr" style="text-align: left;">
   <div style="clear: both; text-align: center;">
-  </div>
+  </p>
   
   <div style="clear: both; text-align: center;">
     <a style="margin-left: 1em; margin-right: 1em;" href="http://1.bp.blogspot.com/-kP_WXwQonj8/VRV-eDlL0qI/AAAAAAAAAMg/5_Ha2riGdyw/s1600/Apple-Cinnamon-Jam_big.jpg"><img src="http://1.bp.blogspot.com/-kP_WXwQonj8/VRV-eDlL0qI/AAAAAAAAAMg/5_Ha2riGdyw/s1600/Apple-Cinnamon-Jam_big.jpg" alt="" width="320" height="192" border="0" /></a>
-  </div>
+  </p>
   
   <h2 style="text-align: left;">
     Homemade Apple Cinnamon Jam
@@ -45,7 +45,7 @@ categories:
   
   <div style="text-align: left;">
     <b><a class="zem_slink" title="Apple juice" href="http://en.wikipedia.org/wiki/Apple_juice" target="_blank" rel="wikipedia">Apple</a> Cinnamon Jam</b> is very delicious. You can used it in a breakfast with a <b>toast</b>.It is very<b> easy </b>and quick to make.Here are some simple <b>steps</b> to make it in oven.
-  </div>
+  </p>
   
   <h2 style="text-align: left;">
     <i><u><span style="color: #274e13;">Ingredients:</span></u></i>
@@ -111,4 +111,4 @@ categories:
           <li>
             You can also make a <b>pineapple </b>jam in the same way.
           </li>
-        </ul></div>
+        </ul></p>

@@ -33,14 +33,14 @@ categories:
 ---
 <div dir="ltr" style="text-align: left;">
   <div style="clear: both; text-align: center;">
-  </div>
+  </p>
   
   <div style="clear: both; text-align: center;">
-  </div>
+  </p>
   
   <div style="clear: both; text-align: center;">
     <a style="margin-left: 1em; margin-right: 1em;" href="http://1.bp.blogspot.com/-8V-iv_9av9o/VSgAcoQhbtI/AAAAAAAAAOc/9jdQWUEBpQ4/s1600/poha.gif"><img title="Tasty Easy Poha Recipes" src="http://1.bp.blogspot.com/-8V-iv_9av9o/VSgAcoQhbtI/AAAAAAAAAOc/9jdQWUEBpQ4/s1600/poha.gif" alt="Tasty Easy Poha Recipes" width="320" height="240" border="0" /></a>
-  </div>
+  </p>
   
   <h1>
   </h1>
@@ -170,4 +170,4 @@ categories:
       Serve it.
     </li>
   </ul>
-</div>
+</p>

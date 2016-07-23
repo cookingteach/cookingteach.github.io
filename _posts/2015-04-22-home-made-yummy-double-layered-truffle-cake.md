@@ -34,7 +34,7 @@ categories:
 <div dir="ltr" style="text-align: left;">
   <div style="clear: both; text-align: center;">
     <a style="margin-left: 1em; margin-right: 1em;" href="http://1.bp.blogspot.com/-Lo0WW6S54AQ/VTfEhhzOiZI/AAAAAAAAARk/j5jL9UiZyCs/s1600/1264350501-0.jpg"><img title="Double-layered truffle Cake" src="http://1.bp.blogspot.com/-Lo0WW6S54AQ/VTfEhhzOiZI/AAAAAAAAARk/j5jL9UiZyCs/s1600/1264350501-0.jpg" alt="Double-layered truffle Cake" width="320" height="201" border="0" /></a>
-  </div>
+  </p>
   
   <h3 style="text-align: left;">
     Yummy Double-Layered <a class="zem_slink" title="Truffle" href="http://en.wikipedia.org/wiki/Truffle" target="_blank" rel="wikipedia">truffle</a> Chocolate <a title="Cake" href="http://en.wikipedia.org/wiki/Cake" target="_blank" rel="wikipedia">Cake</a>
@@ -106,14 +106,14 @@ categories:
   
   <div style="text-align: justify;">
     We can make two type of double layered truffle cake. Here are two methods to make a cake i.e white chocolate cake and dark <a class="zem_slink" title="Chocolate" href="http://en.wikipedia.org/wiki/Chocolate" target="_blank" rel="wikipedia">chocolate</a> cake. in this only the truffle icing is different tip is same for both cakes.
-  </div>
+  </p>
   
   <div style="text-align: justify;">
-  </div>
+  </p>
   
   <div style="text-align: justify;">
     <b><u><span style="color: red;"> For The Dark truffle Icing: </span></u></b>
-  </div>
+  </p>
   
   <ul>
     <li>
@@ -154,10 +154,10 @@ categories:
   
   <div style="clear: both; text-align: center;">
     <a style="margin-left: 1em; margin-right: 1em;" href="http://2.bp.blogspot.com/-_ySkD8GbcE8/VTfG9FJ8qXI/AAAAAAAAARw/8q_1ewXEERU/s1600/images.jpg"><img title="Double-layered truffle Cake" src="http://2.bp.blogspot.com/-_ySkD8GbcE8/VTfG9FJ8qXI/AAAAAAAAARw/8q_1ewXEERU/s1600/images.jpg" alt="Double-layered truffle Cake" border="0" /></a>
-  </div>
+  </p>
   
-  <div>
-  </div>
+  <p>
+  </p>
   
   <h3 style="text-align: left;">
     <i><u><span style="color: #274e13;"> Tip (used for both cakes):</span></u></i>
@@ -189,4 +189,4 @@ categories:
       <b>serve</b> chilled.
     </li>
   </ul>
-</div>
+</p>

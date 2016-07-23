@@ -48,7 +48,7 @@ categories:
 <div dir="ltr" style="text-align: left;">
   <div style="clear: both; text-align: center;">
     <a style="margin-left: 1em; margin-right: 1em;" href="http://4.bp.blogspot.com/-7I-4WqaotTY/VajfkHHUPiI/AAAAAAAAAX8/gj-YO6zRTZU/s1600/2.jpg"><img title="Homemade yummy Pav Bhaji Recipe" src="http://4.bp.blogspot.com/-7I-4WqaotTY/VajfkHHUPiI/AAAAAAAAAX8/gj-YO6zRTZU/s320/2.jpg" alt="Homemade yummy Pav Bhaji Recipe" width="320" height="240" border="0" /></a>
-  </div>
+  </p>
   
   <h2>
     <span style="text-decoration: underline;">Homemade yummy <a title="Pav Bhaji" href="http://en.wikipedia.org/wiki/Pav_Bhaji" target="_blank" rel="wikipedia">Pav Bhaji</a> Recipe</span>
@@ -229,11 +229,11 @@ categories:
   </ul>
   
   <div style="clear: both; text-align: center;">
-  </div>
+  </p>
   
   <div style="clear: both; text-align: center;">
     <a style="margin-left: 1em; margin-right: 1em;" href="http://4.bp.blogspot.com/-bpiKafmjQUg/VajejyoPlYI/AAAAAAAAAX4/B3-_tAvH78U/s1600/1.jpg"><img title="Homemade yummy Pav Bhaji Recipe" src="http://4.bp.blogspot.com/-bpiKafmjQUg/VajejyoPlYI/AAAAAAAAAX4/B3-_tAvH78U/s1600/1.jpg" alt="Homemade yummy Pav Bhaji Recipe" border="0" /></a>
-  </div>
+  </p>
   
   <ul>
     <li>
@@ -274,4 +274,4 @@ categories:
       You can <b>also add</b> any other <b>vegetables</b> like<b> ghiya</b> (bottle ground) or <b>french beans</b>.
     </li>
   </ul>
-</div>
+</p>

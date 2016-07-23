@@ -49,7 +49,7 @@ tags:
 ---
 <div dir="ltr" style="text-align: left;">
   <div style="clear: both; text-align: center;">
-  </div>
+  </p>
   
   <h2>
   </h2>
@@ -155,4 +155,4 @@ tags:
       You can also add fresh <b>basil leaves</b> (tulsi patte).
     </li>
   </ul>
-</div>
+</p>

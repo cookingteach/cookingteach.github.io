@@ -33,11 +33,11 @@ categories:
 ---
 <div dir="ltr" style="text-align: left;">
   <div style="clear: both; text-align: center;">
-  </div>
+  </p>
   
   <div style="clear: both; text-align: center;">
     <a style="margin-left: 1em; margin-right: 1em;" href="http://1.bp.blogspot.com/-tw-a49AbYyU/VP3Qh7abxUI/AAAAAAAAAIM/vzFctrxt7tQ/s1600/Rawa%2BIdli%2BRecipe.jpg"><img src="http://1.bp.blogspot.com/-tw-a49AbYyU/VP3Qh7abxUI/AAAAAAAAAIM/vzFctrxt7tQ/s1600/Rawa%2BIdli%2BRecipe.jpg" alt="" width="320" height="228" border="0" /></a>
-  </div>
+  </p>
   
   <h2 style="text-align: left;">
     Homemade easy rawa idli recipe
@@ -45,13 +45,13 @@ categories:
   
   <div style="text-align: left;">
     <b>Rawa Idli</b> is a famous <b>south Indian</b> dish.It is a one of<b> simple recipe</b> which we can used for quick meal, dinner, lunch etc.It is a very<b> healthy</b> and complete your appetizer.It is very <b>soft</b> and very easy to make.You can enjoy this by making it at home.The ready made <a class="zem_slink" title="MTR" href="http://en.wikipedia.org/wiki/MTR" target="_blank" rel="wikipedia">MTR</a> is also available in market by using which you can also make <a class="zem_slink" title="Idli" href="http://en.wikipedia.org/wiki/Idli" target="_blank" rel="wikipedia">idli</a>.You can also use it as a<b> snacks</b> and serve it with <b><a class="zem_slink" title="Peanut Sauce" href="http://www.williams-sonoma.com/recipe/peanut-sauce.html" target="_blank" rel="williamssonoma">peanut sauce</a></b> or <b><a class="zem_slink" title="Coconut chutney" href="http://en.wikipedia.org/wiki/Coconut_chutney" target="_blank" rel="wikipedia">coconut chutney</a></b>.
-  </div>
+  </p>
   
   <h2 style="text-align: left;">
     <i style="color: red;"><u>Ingredients:</u></i>
   </h2>
   
-  <div>
+  <p>
     <ul style="text-align: left;">
       <li>
         1 cup <span style="color: blue;">rawa <a class="zem_slink" title="Semolina" href="http://en.wikipedia.org/wiki/Semolina" target="_blank" rel="wikipedia">suji</a></span>
@@ -78,7 +78,7 @@ categories:
         1/4 tbsp grated <span style="color: blue;"><a class="zem_slink" title="Coconut" href="http://en.wikipedia.org/wiki/Coconut" target="_blank" rel="wikipedia">coconut</a></span>(optional)
       </li>
     </ul>
-  </div>
+  </p>
   
   <h2 style="text-align: left;">
     <i><u><span style="color: red;">Method to prepare it in <a class="zem_slink" title="Microwave" href="http://en.wikipedia.org/wiki/Microwave" target="_blank" rel="wikipedia">microwave</a>:</span></u></i><!-- post -->
@@ -86,7 +86,7 @@ categories:
     <ins style="display: block;" data-ad-client="ca-pub-8391089480493038" data-ad-slot="4079886109" data-ad-format="auto"></ins>
   </h2>
   
-  <div>
+  <p>
     <ul style="text-align: left;">
       <li>
         In a <b>flat dish</b>, microwave 1 tbsp <b>oil</b> for 1 minutes.
@@ -128,13 +128,13 @@ categories:
         Idli is <b>ready</b>.
       </li>
     </ul>
-  </div>
+  </p>
   
   <h2 style="text-align: left;">
     <i><u><span style="color: red;">Method to prepare it by using cooker:</span></u></i>
   </h2>
   
-  <div>
+  <p>
     <ul style="text-align: left;">
       <li>
         Method is almost same, take a<b> pan</b> add some <b>oil</b> and also add rawa suji in it.
@@ -185,29 +185,29 @@ categories:
         <span style="font-size: 16px;">And then </span><b style="border: 0px; font-size: 16px; margin: 0px; padding: 0px; vertical-align: baseline;">serve</b><span style="font-size: 16px;"> it.</span>
       </li>
     </ul>
-  </div>
+  </p>
   
-  <div>
+  <p>
     <i><u></u></i><i><u><span style="color: red;">Method to serve:</span></u></i>
-  </div>
+  </p>
   
-  <div>
+  <p>
     <i><u><span style="color: red;"> </span></u></i>
-  </div>
+  </p>
   
-  <div>
+  <p>
     <ul style="text-align: left;">
       <li>
         Garnish idli with curry leaves and serve it with <b>coconut chutney or peanut sauce</b>.
       </li>
     </ul>
-  </div>
+  </p>
   
   <h2 style="text-align: left;">
     <span style="color: red;"><u><i>Tip:</i></u></span>
   </h2>
   
-  <div>
+  <p>
     <ul style="text-align: left;">
       <li>
         You can also add a finely chopped <b>mixed vegetables</b> likes beans,carrot,cabbage and peas in idli batter.
@@ -216,13 +216,13 @@ categories:
         You can also make idli by using ready made rawa idli MTR.
       </li>
     </ul>
-  </div>
+  </p>
   
-  <div>
+  <p>
     <i><u><span style="color: red;"> </span></u></i>
-  </div>
+  </p>
   
-  <div>
+  <p>
     <i><u><span style="color: red;"> </span></u></i>
-  </div>
-</div>
+  </p>
+</p>

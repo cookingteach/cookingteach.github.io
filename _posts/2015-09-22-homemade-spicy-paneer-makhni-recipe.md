@@ -53,7 +53,7 @@ tags:
 <div dir="ltr" style="text-align: left;">
   <div dir="ltr" style="text-align: left;">
     <div style="clear: both; text-align: center;">
-    </div>
+    </p>
     
     <h2>
       <u>Homemade Spicy Paneer Makhni Recipe</u>
@@ -144,7 +144,7 @@ tags:
       </li>
     </ul>
     
-    <div>
+    <p>
       <h2 style="text-align: left;">
         <i><u><span style="color: red;">Method</span></u></i>
       </h2>
@@ -203,12 +203,12 @@ tags:
           You can also add <b>cashew paste </b><span style="color: #666666;">instead</span> of <b>cashew nuts</b>.
         </li>
       </ul>
-    </div>
+    </p>
     
-    <div>
-    </div>
-  </div>
-</div>
+    <p>
+    </p>
+  </p>
+</p>
 
 <h6 class="zemanta-related-title" style="font-size: 1em;">
   Related articles

@@ -34,7 +34,7 @@ categories:
 <div dir="ltr" style="text-align: left;">
   <div style="clear: both; text-align: center;">
     <a style="margin-left: 1em; margin-right: 1em;" href="http://1.bp.blogspot.com/-oIrUlNT5W9A/VOoJ96pKIpI/AAAAAAAAAF0/n2etN58OGDY/s1600/2.jpg"><img src="http://1.bp.blogspot.com/-oIrUlNT5W9A/VOoJ96pKIpI/AAAAAAAAAF0/n2etN58OGDY/s1600/2.jpg" alt="" width="400" height="266" border="0" /></a>
-  </div>
+  </p>
   
   <h2 style="text-align: left;">
     Homemade easy Chilli Potato recipe
@@ -42,13 +42,13 @@ categories:
   
   <div style="text-align: left;">
     <b>Chilli <a class="zem_slink" title="Potato" href="http://en.wikipedia.org/wiki/Potato" target="_blank" rel="wikipedia">potato</a> </b>is  crispy and most likely <b>Chinese</b> dish which everyone like.You can enjoy it with <b>sauce</b> or <b>rice</b> or <b>noodles</b> also.It is very crispy dish filled with <b>snacks</b>.There are few easy steps to make dish crispy <b><a class="zem_slink" title="Chili pepper" href="http://en.wikipedia.org/wiki/Chili_pepper" target="_blank" rel="wikipedia">chilli</a> potato</b>.I hope you will like it.
-  </div>
+  </p>
   
   <h2 style="text-align: left;">
     <i style="color: red;"><u>Ingredients:</u></i>
   </h2>
   
-  <div>
+  <p>
     <ul style="text-align: left;">
       <li>
         500gm <span style="color: blue;">potato</span>
@@ -92,7 +92,7 @@ categories:
       <span style="color: red;"><i><u>Method:</u></i></span>
     </h2>
     
-    <div>
+    <p>
       <ul>
         <li>
           <b>Potato</b> skins wash with<b> water</b> and then  <b>cut</b> to <b>pieces</b> in the size of their <b>finger.</b>
@@ -122,21 +122,21 @@ categories:
           Dish ready.
         </li>
       </ul>
-    </div>
+    </p>
     
     <h2 style="text-align: left;">
       <span style="color: red;"><i><u>Method to serve:</u></i></span>
     </h2>
     
-    <div>
+    <p>
       <ul style="text-align: left;">
         <li>
           Hold it into bowl and garnish it with finely chopped <b>coriander</b> and serve it with <b><a class="zem_slink" title="Hot sauce" href="http://en.wikipedia.org/wiki/Hot_sauce" target="_blank" rel="wikipedia">chilli sauce</a></b> or <b><a class="zem_slink" title="Tomato sauce" href="http://en.wikipedia.org/wiki/Tomato_sauce" target="_blank" rel="wikipedia">tomato sauce</a></b>.
         </li>
       </ul>
-    </div>
+    </p>
     
     <h2 style="text-align: left;">
     </h2>
-  </div>
-</div>
+  </p>
+</p>

@@ -33,26 +33,26 @@ categories:
 ---
 <div dir="ltr" style="text-align: left;">
   <div style="clear: both; text-align: center;">
-  </div>
+  </p>
   
   <div style="clear: both; text-align: center;">
     <a style="margin-left: 1em; margin-right: 1em;" href="http://1.bp.blogspot.com/-3oWrcuJ5qi0/VSFZJiBKvvI/AAAAAAAAANY/2T7fEv0IWlw/s1600/maxresdefault.jpg"><img src="http://1.bp.blogspot.com/-3oWrcuJ5qi0/VSFZJiBKvvI/AAAAAAAAANY/2T7fEv0IWlw/s1600/maxresdefault.jpg" alt="" width="320" height="180" border="0" /></a>
-  </div>
+  </p>
   
   <div style="text-align: left;">
     <u><span style="color: red;"> </span></u>
-  </div>
+  </p>
   
   <div style="text-align: left;">
     <b><a class="zem_slink" title="Gajar ka halwa" href="http://en.wikipedia.org/wiki/Gajar_ka_halwa" target="_blank" rel="wikipedia">Homemade Easy Gajar Ka Halwa</a></b>
-  </div>
+  </p>
   
   <div style="text-align: left;">
-  </div>
+  </p>
   
   <div style="text-align: left;">
     <b><a class="zem_slink" title="Gajar ka halwa" href="http://en.wikipedia.org/wiki/Gajar_ka_halwa" target="_blank" rel="wikipedia">Gajar Ka Halwa</a></b> is very tasty and famous <b>Indian</b> dish. Its is most;y famous all over.Here I<i> </i>used a both of <a class="zem_slink" title="Milk" href="http://en.wikipedia.org/wiki/Milk" target="_blank" rel="wikipedia">milk</a> and <a class="zem_slink" title="Khoa" href="http://en.wikipedia.org/wiki/Khoa" target="_blank" rel="wikipedia">khoya</a> to make this tasty <b>Dessert</b> dish. I have prepared it in a <b><a class="zem_slink" title="Microwave" href="http://en.wikipedia.org/wiki/Microwave" target="_blank" rel="wikipedia">microwave</a> </b>and a <b>pressure cooker</b>. Here a simple and easy steps to make it.
-  </div>
+  </p>
   
   <h2 style="text-align: left;">
     <u><span style="color: red;">Ingredients:</span></u>
@@ -95,7 +95,7 @@ categories:
     <u><span style="color: red;">Method to prepare in Microwave:</span></u>
   </h2>
   
-  <div>
+  <p>
     <ul style="text-align: left;">
       <li>
         <b>Mix </b>grated carrots, sugar and milk in a big deep<b> bowl</b>.
@@ -119,13 +119,13 @@ categories:
         <b>Serve</b> hot.
       </li>
     </ul>
-  </div>
+  </p>
   
   <h2 style="text-align: left;">
     <b><u><span style="color: red;">Method to prepare in <a class="zem_slink" title="Pressure cooking" href="http://en.wikipedia.org/wiki/Pressure_cooking" target="_blank" rel="wikipedia">Pressure Cooker</a>:</span></u></b>
   </h2>
   
-  <div>
+  <p>
     <ul style="text-align: left;">
       <li>
         <b>Add </b>a milk and a carrot in a <b>pressure cooker</b> and cook for 1 whistle.
@@ -149,5 +149,5 @@ categories:
         <b>Serve</b> hot.
       </li>
     </ul>
-  </div>
-</div>
+  </p>
+</p>

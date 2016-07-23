@@ -33,11 +33,11 @@ categories:
 ---
 <div dir="ltr" style="text-align: left;">
   <div style="clear: both; text-align: center;">
-  </div>
+  </p>
   
   <div style="clear: both; text-align: center;">
     <a style="margin-left: 1em; margin-right: 1em;" href="http://1.bp.blogspot.com/-Q2xilIl9ZMM/VRQmdHoSO4I/AAAAAAAAAL8/PjKARjeMEGg/s1600/chickensoup.jpg"><img src="http://1.bp.blogspot.com/-Q2xilIl9ZMM/VRQmdHoSO4I/AAAAAAAAAL8/PjKARjeMEGg/s1600/chickensoup.jpg" alt="" width="320" height="180" border="0" /></a>
-  </div>
+  </p>
   
   <h2 style="text-align: left;">
     Homemade Sweet <a class="zem_slink" title="Corned beef" href="http://en.wikipedia.org/wiki/Corned_beef" target="_blank" rel="wikipedia">Corn</a> Soup Recipe
@@ -45,7 +45,7 @@ categories:
   
   <div style="text-align: justify;">
     <b>Sweet Corn Soup</b> is very delicious. You can make it<b> <a class="zem_slink" title="Vegetarianism" href="http://en.wikipedia.org/wiki/Vegetarianism" target="_blank" rel="wikipedia">vegetarian</a></b> or <b>non-vegetarian</b>. In this we use a sweet <a class="zem_slink" title="Maize" href="http://en.wikipedia.org/wiki/Maize" target="_blank" rel="wikipedia">corn</a> and some <b><a class="zem_slink" title="Vegetable" href="http://en.wikipedia.org/wiki/Vegetable" target="_blank" rel="wikipedia">vegetables</a></b> and make it non vegetarian.You can use any type of vegetables according to your<b> taste</b>.Sweet corn is a main ingredient in this.It is very <b>easy</b> to make and  very yummy tasty soup.Here i give you a simple <b>steps</b> to make this. Hop you all enjoy it.
-  </div>
+  </p>
   
   <h2 style="text-align: left;">
     <i><u><span style="color: red;">Ingredients:</span></u></i>
@@ -94,7 +94,7 @@ categories:
     <i><u><span style="color: red;">Method:</span></u></i>
   </h2>
   
-  <div>
+  <p>
     <ul>
       <li>
         <b>Wash</b> corn with leaves to wet it. <b>Microwave</b> for 3 minutes.
@@ -137,16 +137,16 @@ categories:
     <h2 style="text-align: left;">
       <i><u><span style="color: red;">Tip:</span></u></i>
     </h2>
-  </div>
+  </p>
   
-  <div>
+  <p>
     <ul style="text-align: left;">
       <li>
         You can <b>remove chicken </b>and florets of <b>cauliflower</b> or <b>broccoli </b>for veg version.
       </li>
     </ul>
-  </div>
+  </p>
   
-  <div>
-  </div>
-</div>
+  <p>
+  </p>
+</p>

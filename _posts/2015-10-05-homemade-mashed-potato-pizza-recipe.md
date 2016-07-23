@@ -51,7 +51,7 @@ tags:
 ---
 <div dir="ltr" style="text-align: left;">
   <div style="clear: both; text-align: center;">
-  </div>
+  </p>
   
   <h2 style="text-align: justify;">
     <span style="color: #cc0000; text-decoration: underline;"><strong>Homemade Mashed Potato <a title="Pizza" href="http://en.wikipedia.org/wiki/Pizza" target="_blank" rel="wikipedia">Pizza</a> Recipe:</strong></span>
@@ -59,7 +59,7 @@ tags:
   
   <div style="text-align: justify;">
     homemade easy mashed Potato <a class="zem_slink" title="Pizza" href="http://en.wikipedia.org/wiki/Pizza" target="_blank" rel="wikipedia">Pizza</a> is <a title="Italian dressing" href="http://en.wikipedia.org/wiki/Italian_dressing" target="_blank" rel="wikipedia">Italian</a> recipe.It is very simple and quick.I this mashed potato pizza I topped it with olive and few capsicum.I used a <a title="Sauce" href="http://en.wikipedia.org/wiki/Sauce" target="_blank" rel="wikipedia">sauce</a> to make this mashed potato pizza.Here I give you some simple procedure to make this mashed potato pizza at home.Hope you enjoy this recipe.
-  </div>
+  </p>
   
   <h2 style="text-align: justify;">
     <i><u><span style="color: red;">Ingredients</span></u></i>
@@ -189,4 +189,4 @@ tags:
       You can also add <a title="Mozzarella" href="http://en.wikipedia.org/wiki/Mozzarella" target="_blank" rel="wikipedia">mozzarella cheese</a> over potato layer.
     </li>
   </ul>
-</div>
+</p>

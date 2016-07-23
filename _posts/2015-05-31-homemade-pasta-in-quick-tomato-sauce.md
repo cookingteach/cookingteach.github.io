@@ -33,11 +33,11 @@ categories:
 ---
 <div dir="ltr" style="text-align: left;">
   <div style="clear: both; text-align: center;">
-  </div>
+  </p>
   
   <div style="clear: both; text-align: center;">
     <a style="margin-left: 1em; margin-right: 1em;" href="http://3.bp.blogspot.com/-pCzP4XSQDMQ/VWq-Fnyx4WI/AAAAAAAAAV8/RpkpJHR0y9Q/s1600/20140223-vegan-pasta-dried-tomato-olive-bread-crumb-recipe-12-thumb-625xauto-385519.jpg"><img title="Homemade Pasta in Quick Tomato Sauce" src="http://3.bp.blogspot.com/-pCzP4XSQDMQ/VWq-Fnyx4WI/AAAAAAAAAV8/RpkpJHR0y9Q/s320/20140223-vegan-pasta-dried-tomato-olive-bread-crumb-recipe-12-thumb-625xauto-385519.jpg" alt="Homemade Pasta in Quick Tomato Sauce" width="320" height="240" border="0" /></a>
-  </div>
+  </p>
   
   <h3 style="text-align: left;">
     <span style="text-decoration: underline;"> </span>
@@ -245,4 +245,4 @@ categories:
       You can also add vegetables like <b>broccoli</b>, <b>baby corns</b> or mushrooms along with capsicum.
     </li>
   </ul>
-</div>
+</p>
