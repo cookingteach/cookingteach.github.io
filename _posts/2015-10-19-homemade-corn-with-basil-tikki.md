@@ -53,12 +53,12 @@ tags:
 ---
 &nbsp;
 
-<div dir="ltr" style="text-align: left;">
+<p dir="ltr" style="text-align: left;">
   <h2>
     <span style="color: #990000; text-decoration: underline;">Homemade <a title="Corned beef" href="http://en.wikipedia.org/wiki/Corned_beef" target="_blank" rel="wikipedia">Corn</a> with Basil Tikki</span>
   </h2>
   
-  <div style="text-align: justify;">
+  <p style="text-align: justify;">
     Corn with basil tikki is very healthy recipe.In this we use a special ingredient basil leave which gives a different nice flavour to this recipe.This recipe is very easy and quick to make.This snack is full of nutrition.Here i giving you a simple recipe to make this recipe at home and enjoy it with green <a class="zem_slink" title="Chutney" href="http://en.wikipedia.org/wiki/Chutney" target="_blank" rel="wikipedia">chutney</a> or <a class="zem_slink" title="Tomato sauce" href="http://en.wikipedia.org/wiki/Tomato_sauce" target="_blank" rel="wikipedia">tomato sauce</a>.
   </p>
   

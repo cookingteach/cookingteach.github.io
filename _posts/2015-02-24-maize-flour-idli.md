@@ -31,21 +31,21 @@ nt_review_total:
 categories:
   - HEALTHY FOOD
 ---
-<div style="clear: both; text-align: center;">
+<p style="clear: both; text-align: center;">
 </p>
 
-<div style="clear: both; text-align: center;">
+<p style="clear: both; text-align: center;">
   <a style="margin-left: 1em; margin-right: 1em;" href="http://4.bp.blogspot.com/-TwaQAZtM5HM/VOyqnYGkphI/AAAAAAAAAGs/PQeEZb_TnJQ/s1600/11.jpg"><img src="http://4.bp.blogspot.com/-TwaQAZtM5HM/VOyqnYGkphI/AAAAAAAAAGs/PQeEZb_TnJQ/s1600/11.jpg" alt="" border="0" /></a>
 </p>
 
-<div style="clear: both; text-align: center;">
+<p style="clear: both; text-align: center;">
 </p>
 
 <h1 style="clear: both;">
   Homemade Easy Maize <a class="zem_slink" title="Flour" href="http://en.wikipedia.org/wiki/Flour" target="_blank" rel="wikipedia">flour</a> <a class="zem_slink" title="Idli" href="http://en.wikipedia.org/wiki/Idli" target="_blank" rel="wikipedia">idli</a>
 </h1>
 
-<div style="text-align: left;">
+<p style="text-align: left;">
   <i style="font-weight: bold;">Maize flour idli  </i>is tasty and full of nutrients.It is a special dish in a winters when we get bored from <b>prantha</b> <b>roti</b> etc. This<b> <a class="zem_slink" title="Maize" href="http://en.wikipedia.org/wiki/Maize" target="_blank" rel="wikipedia">maize</a> flour idli</b> is full of fiber.It completely satisfy your <b>appetite</b>.So serve it with <b><a class="zem_slink" title="Peanut sauce" href="http://en.wikipedia.org/wiki/Peanut_sauce" target="_blank" rel="wikipedia">peanut sauce</a></b> or <b>coconut sauce</b> and enjoy it.
 </p>
 
@@ -227,6 +227,6 @@ categories:
             <i><u><span style="color: red;"> </span></u></i>
           </p>
           
-          <div style="text-align: left;">
+          <p style="text-align: left;">
             <span style="color: red;"><i><u> </u></i></span>
           </p>

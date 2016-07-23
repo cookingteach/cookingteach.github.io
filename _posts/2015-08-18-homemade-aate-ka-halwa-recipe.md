@@ -48,9 +48,9 @@ tags:
   - halwa
   - sweet dish
 ---
-<div dir="ltr" style="text-align: left;">
-  <div dir="ltr" style="text-align: left;">
-    <div style="clear: both; text-align: center;">
+<p dir="ltr" style="text-align: left;">
+  <p dir="ltr" style="text-align: left;">
+    <p style="clear: both; text-align: center;">
     </p>
     
     <h2>
@@ -61,7 +61,7 @@ tags:
       <span style="text-decoration: underline;">Homemade Aate Ka <a class="zem_slink" title="Halva" href="http://en.wikipedia.org/wiki/Halva" target="_blank" rel="wikipedia">Halwa</a> <a class="zem_slink" title="Chocolate cake" href="http://en.wikipedia.org/wiki/Chocolate_cake" target="_blank" rel="wikipedia">Recipe</a></span>
     </h2>
     
-    <div style="text-align: justify;">
+    <p style="text-align: justify;">
       Homemade Aate ka Halwa recipe is famous <a class="zem_slink" title="Dessert" href="http://en.wikipedia.org/wiki/Dessert" target="_blank" rel="wikipedia">sweet dish</a>. It is very easy to make. In punjabi language it is also called a Kada Prashad. It is very simple recipe which make with a very less time. In this recipe the main ingredient is aata which is also called a <a class="zem_slink" title="Wheat flour" href="http://en.wikipedia.org/wiki/Wheat_flour" target="_blank" rel="wikipedia">wheat flour</a>. In this recipe i am used a <a class="zem_slink" title="Cardamom" href="http://en.wikipedia.org/wiki/Cardamom" target="_blank" rel="wikipedia">cardamom</a> powder which is optional. Aate ka halwa is most famous in Punjab. So it is a <a class="zem_slink" title="Punjabi language" href="http://en.wikipedia.org/wiki/Punjabi_language" target="_blank" rel="wikipedia">Punjabi</a> sweet dish. This is my all time favorite dish which I generally make on special occasions. It is very healthy, quick and easy recipe which takes few minutes to prepare.
     </p>
     
@@ -109,17 +109,17 @@ tags:
       </li>
     </ul>
     
-    <div style="clear: both; text-align: center;">
+    <p style="clear: both; text-align: center;">
     </p>
     
-    <div style="clear: both; text-align: center;">
+    <p style="clear: both; text-align: center;">
       <img class="alignnone size-medium wp-image-271" src="http://cookingteach.com/wp-content/uploads/2015/08/2015-08-08-13.46.44-300x225.jpg" alt="Homemade Aate Ka Halwa Recipe" width="300" height="225" srcset="http://cookingteach.com/wp-content/uploads/2015/08/2015-08-08-13.46.44-300x225.jpg 300w, http://cookingteach.com/wp-content/uploads/2015/08/2015-08-08-13.46.44-768x576.jpg 768w, http://cookingteach.com/wp-content/uploads/2015/08/2015-08-08-13.46.44-1024x768.jpg 1024w, http://cookingteach.com/wp-content/uploads/2015/08/2015-08-08-13.46.44-320x240.jpg 320w" sizes="(max-width: 300px) 100vw, 300px" />
     </p>
     
-    <div style="clear: both; text-align: center;">
+    <p style="clear: both; text-align: center;">
     </p>
     
-    <div style="clear: both; text-align: center;">
+    <p style="clear: both; text-align: center;">
        <img class="alignnone size-medium wp-image-273" src="http://cookingteach.com/wp-content/uploads/2015/08/2015-08-08-13.53.49-300x225.jpg" alt="Homemade Aate Ka Halwa Recipe" width="300" height="225" srcset="http://cookingteach.com/wp-content/uploads/2015/08/2015-08-08-13.53.49-300x225.jpg 300w, http://cookingteach.com/wp-content/uploads/2015/08/2015-08-08-13.53.49-768x576.jpg 768w, http://cookingteach.com/wp-content/uploads/2015/08/2015-08-08-13.53.49-1024x768.jpg 1024w, http://cookingteach.com/wp-content/uploads/2015/08/2015-08-08-13.53.49-320x240.jpg 320w" sizes="(max-width: 300px) 100vw, 300px" />
     </p>
     

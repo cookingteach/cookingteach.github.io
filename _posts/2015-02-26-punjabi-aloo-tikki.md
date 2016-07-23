@@ -31,14 +31,14 @@ nt_review_total:
 categories:
   - Indian dish
 ---
-<div dir="ltr" style="text-align: left;">
-  <div style="clear: both; text-align: center;">
+<p dir="ltr" style="text-align: left;">
+  <p style="clear: both; text-align: center;">
   </p>
   
-  <div style="clear: both; text-align: center;">
+  <p style="clear: both; text-align: center;">
   </p>
   
-  <div style="clear: both; text-align: center;">
+  <p style="clear: both; text-align: center;">
     <a style="margin-left: 1em; margin-right: 1em;" href="http://2.bp.blogspot.com/-Yc_PLaShD6M/VO9WJ6pFOdI/AAAAAAAAAHQ/qjJhi13LB2U/s1600/2.jpg"><img src="http://2.bp.blogspot.com/-Yc_PLaShD6M/VO9WJ6pFOdI/AAAAAAAAAHQ/qjJhi13LB2U/s1600/2.jpg" alt="" width="320" height="170" border="0" /></a>
   </p>
   
@@ -46,11 +46,11 @@ categories:
     Spicy Punjabi aloo tikki
   </h2>
   
-  <div style="text-align: left;">
+  <p style="text-align: left;">
     <b><a class="zem_slink" title="Aloo tikki" href="http://en.wikipedia.org/wiki/Aloo_tikki" target="_blank" rel="wikipedia">Aloo tikki</a> </b>is a most popular <b>north Indian</b> dish.You can make this crispy ,spicy aloo tikki in your home.You can serve it as a<b> snacks</b>. <a class="zem_slink" title="Dum Aloo" href="http://en.wikipedia.org/wiki/Dum_Aloo" target="_blank" rel="wikipedia">Aloo</a> means a potato and tikki means a small cutlet or croquette.<span style="background-color: white; color: #252525; font-family: sans-serif; font-size: 14px; line-height: 22.3999996185303px;">Aloo tikki is basically <b>mashed potato </b>mixed with some ingridents<b> </b></span><span style="background-color: white; color: #252525; font-family: sans-serif; font-size: 14px; line-height: 22.3999996185303px;"> <a class="zem_slink" title="Deep frying" href="http://en.wikipedia.org/wiki/Deep_frying" target="_blank" rel="wikipedia">deep-fried</a> in oil .</span>
   </p>
   
-  <div style="text-align: left;">
+  <p style="text-align: left;">
     You can serve it with<b> dahi,</b> <b>green chutney</b>, or <b><a class="zem_slink" title="Tomato sauce" href="http://en.wikipedia.org/wiki/Tomato_sauce" target="_blank" rel="wikipedia">tomato sauce</a>.</b>
   </p>
   

@@ -31,11 +31,11 @@ nt_review_total:
 categories:
   - Non Vegetarian
 ---
-<div dir="ltr" style="text-align: left;">
-  <div style="clear: both; text-align: center;">
+<p dir="ltr" style="text-align: left;">
+  <p style="clear: both; text-align: center;">
   </p>
   
-  <div style="clear: both; text-align: center;">
+  <p style="clear: both; text-align: center;">
     <a style="margin-left: 1em; margin-right: 1em;" href="http://2.bp.blogspot.com/-7p5XmcGMSIg/VRQ2QDRdlcI/AAAAAAAAAMM/qTlfrvdljVg/s1600/oetoGfdijghec_bigger.jpg"><img src="http://2.bp.blogspot.com/-7p5XmcGMSIg/VRQ2QDRdlcI/AAAAAAAAAMM/qTlfrvdljVg/s1600/oetoGfdijghec_bigger.jpg" alt="" width="320" height="150" border="0" /></a>
   </p>
   
@@ -43,7 +43,7 @@ categories:
     Homemade Badaami Tangri <a class="zem_slink" title="Teriyaki" href="http://en.wikipedia.org/wiki/Teriyaki" target="_blank" rel="wikipedia">Recipe</a>
   </h2>
   
-  <div style="text-align: left;">
+  <p style="text-align: left;">
     <b>Badaami Tangri </b>is a very tasty and crispy dish. Its very <b>easy </b>to make.Make it at you own kitchen and enjoy this with you family and friends.
   </p>
   

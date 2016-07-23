@@ -50,8 +50,8 @@ categories:
 tags:
   - cheese
 ---
-<div dir="ltr" style="text-align: left;">
-  <div style="clear: both; text-align: center;">
+<p dir="ltr" style="text-align: left;">
+  <p style="clear: both; text-align: center;">
       <img class="alignnone size-medium wp-image-281" src="http://cookingteach.com/wp-content/uploads/2015/08/2015-08-01-21.06.51-300x225.jpg" alt="Homemade Kadai Paneer Recipe" width="300" height="225" srcset="http://cookingteach.com/wp-content/uploads/2015/08/2015-08-01-21.06.51-300x225.jpg 300w, http://cookingteach.com/wp-content/uploads/2015/08/2015-08-01-21.06.51-768x576.jpg 768w, http://cookingteach.com/wp-content/uploads/2015/08/2015-08-01-21.06.51-1024x768.jpg 1024w, http://cookingteach.com/wp-content/uploads/2015/08/2015-08-01-21.06.51-320x240.jpg 320w" sizes="(max-width: 300px) 100vw, 300px" />
   </p>
   
@@ -193,7 +193,7 @@ tags:
     <img class="size-medium wp-image-283 aligncenter" src="http://cookingteach.com/wp-content/uploads/2015/08/2015-08-01-16.43.04-300x225.jpg" alt="Homemade Kadai Paneer Recipe" width="300" height="225" srcset="http://cookingteach.com/wp-content/uploads/2015/08/2015-08-01-16.43.04-300x225.jpg 300w, http://cookingteach.com/wp-content/uploads/2015/08/2015-08-01-16.43.04-768x576.jpg 768w, http://cookingteach.com/wp-content/uploads/2015/08/2015-08-01-16.43.04-1024x768.jpg 1024w, http://cookingteach.com/wp-content/uploads/2015/08/2015-08-01-16.43.04-320x240.jpg 320w" sizes="(max-width: 300px) 100vw, 300px" />
   </p>
   
-  <div style="clear: both; text-align: center;">
+  <p style="clear: both; text-align: center;">
   </p>
   
   <ul>
@@ -218,7 +218,7 @@ tags:
     <img class="size-medium wp-image-285 aligncenter" src="http://cookingteach.com/wp-content/uploads/2015/08/2015-08-01-16.59.48-300x225.jpg" alt="kadai paneer" width="300" height="225" srcset="http://cookingteach.com/wp-content/uploads/2015/08/2015-08-01-16.59.48-300x225.jpg 300w, http://cookingteach.com/wp-content/uploads/2015/08/2015-08-01-16.59.48-768x576.jpg 768w, http://cookingteach.com/wp-content/uploads/2015/08/2015-08-01-16.59.48-1024x768.jpg 1024w, http://cookingteach.com/wp-content/uploads/2015/08/2015-08-01-16.59.48-320x240.jpg 320w" sizes="(max-width: 300px) 100vw, 300px" />
   </p>
   
-  <div style="clear: both; text-align: center;">
+  <p style="clear: both; text-align: center;">
   </p>
   
   <ul>

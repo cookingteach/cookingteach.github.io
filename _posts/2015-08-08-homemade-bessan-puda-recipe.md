@@ -48,12 +48,12 @@ tags:
   - capsicum
   - mushrooms
 ---
-<div dir="ltr" style="text-align: left;">
-  <div style="clear: both; text-align: center;">
+<p dir="ltr" style="text-align: left;">
+  <p style="clear: both; text-align: center;">
     <img class="alignnone size-medium wp-image-276" src="http://cookingteach.com/wp-content/uploads/2015/08/2015-08-05-17.08.58-1-300x225.jpg" alt="Easy-Bessan-ka-puda" width="300" height="225" srcset="http://cookingteach.com/wp-content/uploads/2015/08/2015-08-05-17.08.58-1-300x225.jpg 300w, http://cookingteach.com/wp-content/uploads/2015/08/2015-08-05-17.08.58-1-768x576.jpg 768w, http://cookingteach.com/wp-content/uploads/2015/08/2015-08-05-17.08.58-1-1024x768.jpg 1024w, http://cookingteach.com/wp-content/uploads/2015/08/2015-08-05-17.08.58-1-320x240.jpg 320w" sizes="(max-width: 300px) 100vw, 300px" />
   </p>
   
-  <div style="clear: both; text-align: center;">
+  <p style="clear: both; text-align: center;">
   </p>
   
   <h2>
@@ -150,7 +150,7 @@ tags:
     <img class="size-medium wp-image-278 aligncenter" src="http://cookingteach.com/wp-content/uploads/2015/08/2015-08-05-15.14.29-300x225.jpg" alt="Easy-Bessan-ka-puda" width="300" height="225" srcset="http://cookingteach.com/wp-content/uploads/2015/08/2015-08-05-15.14.29-300x225.jpg 300w, http://cookingteach.com/wp-content/uploads/2015/08/2015-08-05-15.14.29-768x576.jpg 768w, http://cookingteach.com/wp-content/uploads/2015/08/2015-08-05-15.14.29-1024x768.jpg 1024w, http://cookingteach.com/wp-content/uploads/2015/08/2015-08-05-15.14.29-320x240.jpg 320w" sizes="(max-width: 300px) 100vw, 300px" />
   </p>
   
-  <div style="clear: both; text-align: center;">
+  <p style="clear: both; text-align: center;">
   </p>
   
   <ul>
@@ -166,7 +166,7 @@ tags:
     <img class="size-medium wp-image-277 aligncenter" src="http://cookingteach.com/wp-content/uploads/2015/08/2015-08-05-15.43.16-300x225.jpg" alt="Easy-Bessan-ka-puda" width="300" height="225" srcset="http://cookingteach.com/wp-content/uploads/2015/08/2015-08-05-15.43.16-300x225.jpg 300w, http://cookingteach.com/wp-content/uploads/2015/08/2015-08-05-15.43.16-768x576.jpg 768w, http://cookingteach.com/wp-content/uploads/2015/08/2015-08-05-15.43.16-1024x768.jpg 1024w, http://cookingteach.com/wp-content/uploads/2015/08/2015-08-05-15.43.16-320x240.jpg 320w" sizes="(max-width: 300px) 100vw, 300px" />
   </p>
   
-  <div style="clear: both; text-align: center;">
+  <p style="clear: both; text-align: center;">
   </p>
   
   <ul>

@@ -31,15 +31,15 @@ nt_review_total:
 categories:
   - Soups and Drinks
 ---
-<div dir="ltr" style="text-align: left;">
-  <div style="clear: both; text-align: center;">
+<p dir="ltr" style="text-align: left;">
+  <p style="clear: both; text-align: center;">
   </p>
   
-  <div style="clear: both; text-align: center;">
+  <p style="clear: both; text-align: center;">
     <a style="margin-left: 1em; margin-right: 1em;" href="http://2.bp.blogspot.com/-pL-st9cKtNE/VSVWppYTfqI/AAAAAAAAAOA/tiAtfRbeQvc/s1600/recipe338-400w.jpg"><img src="http://2.bp.blogspot.com/-pL-st9cKtNE/VSVWppYTfqI/AAAAAAAAAOA/tiAtfRbeQvc/s1600/recipe338-400w.jpg" alt="" width="320" height="212" border="0" /></a>
   </p>
   
-  <div style="text-align: justify;">
+  <p style="text-align: justify;">
     <b>Hot & Sour Soup</b> is very very tasty and <b>delicious</b> and yummy dish. It is <b>perfect</b> for winter season.Full of <b>nutrition</b>.It is very easy to prepare with less time. Here a step by step procedure to make this soup.
   </p>
   
@@ -91,7 +91,7 @@ categories:
   </h2>
   
   <p>
-    <div style="text-align: justify;">
+    <p style="text-align: justify;">
       To prepare this <b>soup</b>, the ingredients are mentioned above. All ingredients has its own <b>importance</b>. In this we use a tofu and egg to make this and some ingredients.Following are some tips which help you to prepare your dish tasty and yummy.
     </p>
     

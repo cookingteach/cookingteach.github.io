@@ -31,14 +31,14 @@ nt_review_total:
 categories:
   - Paneer
 ---
-<div dir="ltr" style="text-align: left;">
+<p dir="ltr" style="text-align: left;">
   <p>
   </p>
   
   <p>
   </p>
   
-  <div style="clear: both; text-align: center;">
+  <p style="clear: both; text-align: center;">
     <a style="margin-left: 1em; margin-right: 1em;" href="http://3.bp.blogspot.com/-E8XtwTNlEAE/VOrUs4GJtxI/AAAAAAAAAGE/3I11SDCVeok/s1600/4.JPG"><img src="http://3.bp.blogspot.com/-E8XtwTNlEAE/VOrUs4GJtxI/AAAAAAAAAGE/3I11SDCVeok/s1600/4.JPG" alt="" width="320" height="176" border="0" /></a>
   </p>
   
@@ -46,11 +46,11 @@ categories:
     Tandoori Paneer Tikka Easy Recipe
   </h2>
   
-  <div style="text-align: left;">
+  <p style="text-align: left;">
     <b>Dry <a title="Tandoor" href="http://en.wikipedia.org/wiki/Tandoor" target="_blank" rel="wikipedia">Tandoori</a> <a title="Paneer tikka" href="http://en.wikipedia.org/wiki/Paneer_tikka" target="_blank" rel="wikipedia">Paneer Tikka</a></b> veg is a best Indian recipe.I give you a method to prepare a <b>dry</b> tandoori <a title="Paneer" href="http://en.wikipedia.org/wiki/Paneer" target="_blank" rel="wikipedia">paneer</a> tikka not masala because masala <a class="zem_slink" title="Paneer" href="http://en.wikipedia.org/wiki/Paneer" target="_blank" rel="wikipedia">paneer</a> tikka is a gravied dish.I have made a paneer tikka in <b>oven</b> or in a <b><a title="Non-stick surface" href="http://en.wikipedia.org/wiki/Non-stick_surface" target="_blank" rel="wikipedia">non stick</a> tawa.</b>It is very easy to prepare it. Paneer tikka is everyone&#8217;s favorite.So enjoy it by making it at home and serve with <b><a title="Chutney" href="http://en.wikipedia.org/wiki/Chutney" target="_blank" rel="wikipedia">mint chutney</a></b>..
   </p>
   
-  <div style="text-align: left;">
+  <p style="text-align: left;">
   </p>
   
   <h2 style="text-align: left;">

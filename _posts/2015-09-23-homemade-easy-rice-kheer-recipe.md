@@ -50,8 +50,8 @@ tags:
   - milk
   - rice
 ---
-<div dir="ltr" style="text-align: left;">
-  <div style="clear: both; text-align: center;">
+<p dir="ltr" style="text-align: left;">
+  <p style="clear: both; text-align: center;">
   </p>
   
   <h2 dir="ltr" style="text-align: left;">
@@ -65,7 +65,7 @@ tags:
     Homemade Easy <span style="color: #cc0000;">rice kheer recipe or <a title="Rice" href="http://en.wikipedia.org/wiki/Rice" target="_blank" rel="wikipedia">chawal</a> ki kheer recip</span><span style="color: #990000;">e</span> is famous <span style="color: #cc0000;"><a class="zem_slink" title="Indian cuisine" href="http://en.wikipedia.org/wiki/Indian_cuisine" target="_blank" rel="wikipedia">Indian</a> dessert</span> recipe.It is most popular kheer and is very easy and simple to make with very less time.Rice kheer is very simple easy dessert which you can serve also serve after meal and also make it at celebration time. Here I give you a simple method to make this tasty rice kheer or chawal kheer recipe at home
   </p>
   
-  <div dir="ltr" style="text-align: left;">
+  <p dir="ltr" style="text-align: left;">
     <h2 style="text-align: left;">
       <i><u><span style="color: red;">Ingredients: </span></u></i>
     </h2>
@@ -119,18 +119,18 @@ tags:
         <ins style="display: block;" data-ad-client="ca-pub-8391089480493038" data-ad-slot="4079886109" data-ad-format="auto"></ins>
       </p>
       
-      <div style="text-align: justify;">
+      <p style="text-align: justify;">
         <h2>
           <i><u><span style="color: red;">Method:</span></u></i>
         </h2>
       </p>
     </p>
     
-    <div style="text-align: justify;">
+    <p style="text-align: justify;">
                 To prepare this homemade easy tasty Rice <a title="Kheer" href="http://en.wikipedia.org/wiki/Kheer" target="_blank" rel="wikipedia">Kheer</a> recipe follow the following steps.
     </p>
     
-    <div style="text-align: justify;">
+    <p style="text-align: justify;">
       <ul>
         <li>
           First step for making this homemade tasty rice kheer recipe or chawal kheer is to take a <b>pan </b>add 2 <a title="Tablespoon" href="http://en.wikipedia.org/wiki/Tablespoon" target="_blank" rel="wikipedia">tablespoon</a> of <b>ghee</b> and heat up.

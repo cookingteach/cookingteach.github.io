@@ -31,14 +31,14 @@ nt_review_total:
 categories:
   - Rice
 ---
-<div dir="ltr" style="text-align: left;">
-  <div style="text-align: right;">
+<p dir="ltr" style="text-align: left;">
+  <p style="text-align: right;">
   </p>
   
-  <div style="clear: both; text-align: center;">
+  <p style="clear: both; text-align: center;">
   </p>
   
-  <div style="clear: both; text-align: center;">
+  <p style="clear: both; text-align: center;">
     <a style="margin-left: 1em; margin-right: 1em;" href="http://1.bp.blogspot.com/-YMESq8PIGho/VUZUT0kVWwI/AAAAAAAAAUE/wy47rJl7ioM/s1600/dsc02484.jpg"><img title="Homemade Yummy  Keema Pulao Recipe" src="http://1.bp.blogspot.com/-YMESq8PIGho/VUZUT0kVWwI/AAAAAAAAAUE/wy47rJl7ioM/s1600/dsc02484.jpg" alt="Homemade Yummy  Keema Pulao Recipe" width="320" height="240" border="0" /></a>
   </p>
   
@@ -274,7 +274,7 @@ categories:
     </li>
   </ul>
   
-  <div style="clear: both; text-align: center;">
+  <p style="clear: both; text-align: center;">
     <a style="margin-left: 1em; margin-right: 1em;" href="http://3.bp.blogspot.com/-Mfe2bZuAPu8/VUZUAwvtX9I/AAAAAAAAAT8/VvR1EJDM9qY/s1600/keema-curry-cooking.jpg"><img title="Homemade Yummy  Keema Pulao Recipe" src="http://3.bp.blogspot.com/-Mfe2bZuAPu8/VUZUAwvtX9I/AAAAAAAAAT8/VvR1EJDM9qY/s1600/keema-curry-cooking.jpg" alt="Homemade Yummy  Keema Pulao Recipe" width="320" height="240" border="0" /></a>
   </p>
   

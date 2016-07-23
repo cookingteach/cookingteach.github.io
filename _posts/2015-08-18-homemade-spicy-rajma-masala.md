@@ -46,14 +46,14 @@ categories:
 tags:
   - Coriander
 ---
-<div dir="ltr" style="text-align: left;">
-  <div style="clear: both; text-align: center;">
+<p dir="ltr" style="text-align: left;">
+  <p style="clear: both; text-align: center;">
   </p>
   
-  <div style="clear: both; text-align: center;">
+  <p style="clear: both; text-align: center;">
   </p>
   
-  <div dir="ltr" style="text-align: left;">
+  <p dir="ltr" style="text-align: left;">
     <h2>
       <span style="text-decoration: underline;">Homemade Spicy <a title="Rajma" href="http://en.wikipedia.org/wiki/Rajma" target="_blank" rel="wikipedia">Rajma</a> Masala:</span>
     </h2>

@@ -31,8 +31,8 @@ nt_review_total:
 categories:
   - HEALTHY FOOD
 ---
-<div dir="ltr" style="text-align: left;">
-  <div style="clear: both; text-align: center;">
+<p dir="ltr" style="text-align: left;">
+  <p style="clear: both; text-align: center;">
     <a style="margin-left: 1em; margin-right: 1em;" href="http://1.bp.blogspot.com/-Nbb5ZxZ-9k8/VObfL7BZOpI/AAAAAAAAAFM/EzLB0HwToh8/s1600/3.jpg"><img src="http://1.bp.blogspot.com/-Nbb5ZxZ-9k8/VObfL7BZOpI/AAAAAAAAAFM/EzLB0HwToh8/s1600/3.jpg" alt="" border="0" /></a>
   </p>
   
@@ -40,7 +40,7 @@ categories:
     Papadum Cone With Stuffed Cheese Recipe
   </h2>
   
-  <div style="text-align: left;">
+  <p style="text-align: left;">
     Papadum cone with stuffed <a class="zem_slink" title="Paneer" href="http://en.wikipedia.org/wiki/Paneer" target="_blank" rel="wikipedia">paneer</a> is really crispy tasty dish.Cheese is good for health when it make a attractive and unique then the taste also become a unique.So serve it to also your guests and collect praises.
   </p>
   

@@ -31,11 +31,11 @@ nt_review_total:
 categories:
   - Non Vegetarian
 ---
-<div dir="ltr" style="text-align: left;">
-  <div style="clear: both; text-align: center;">
+<p dir="ltr" style="text-align: left;">
+  <p style="clear: both; text-align: center;">
   </p>
   
-  <div style="clear: both; text-align: center;">
+  <p style="clear: both; text-align: center;">
     <a style="margin-left: 1em; margin-right: 1em;" href="http://4.bp.blogspot.com/-aN6Tb_DOkkQ/VQ7sJXJqJ3I/AAAAAAAAAKo/k1Gy3LDOaY0/s1600/EGG_CAKES_EGG_CAKES_choco_walnut_cake.jpg"><img src="http://4.bp.blogspot.com/-aN6Tb_DOkkQ/VQ7sJXJqJ3I/AAAAAAAAAKo/k1Gy3LDOaY0/s1600/EGG_CAKES_EGG_CAKES_choco_walnut_cake.jpg" alt="" width="320" height="274" border="0" /></a>
   </p>
   
@@ -43,7 +43,7 @@ categories:
     Easy Chocolate Cake with Egg
   </h2>
   
-  <div style="text-align: left;">
+  <p style="text-align: left;">
     <b><a class="zem_slink" title="Chocolate cake" href="http://en.wikipedia.org/wiki/Chocolate_cake" target="_blank" rel="wikipedia">Chocolate cake</a></b> is really very <b>delicious</b> and yummy. It is served as a <b><a class="zem_slink" title="Dessert" href="http://en.wikipedia.org/wiki/Dessert" target="_blank" rel="wikipedia">Dessert</a> </b>and <a class="zem_slink" title="Garnish (food)" href="http://en.wikipedia.org/wiki/Garnish_%28food%29" target="_blank" rel="wikipedia">garnish</a> with a walnut.You can also garnish it with <b>cherries</b>.It is very easy to make. By this recipe you can make it very quickly.<b>Enjoy</b> your happiness with this <a class="zem_slink" title="Cake" href="http://en.wikipedia.org/wiki/Cake" target="_blank" rel="wikipedia">cake</a>.
   </p>
   

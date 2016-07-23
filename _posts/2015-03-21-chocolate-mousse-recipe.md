@@ -31,10 +31,10 @@ nt_review_total:
 categories:
   - Desserts and Cakes
 ---
-<div style="clear: both; text-align: center;">
+<p style="clear: both; text-align: center;">
 </p>
 
-<div style="clear: both; text-align: center;">
+<p style="clear: both; text-align: center;">
   <a style="margin-left: 1em; margin-right: 1em;" href="http://2.bp.blogspot.com/-KnrRWF0CNfY/VQ2P3rQg6wI/AAAAAAAAAKU/JCCDZhy8Hgc/s1600/Irish_Cream_Chocolate_Mousse.jpg"><img src="http://2.bp.blogspot.com/-KnrRWF0CNfY/VQ2P3rQg6wI/AAAAAAAAAKU/JCCDZhy8Hgc/s1600/Irish_Cream_Chocolate_Mousse.jpg" alt="" border="0" /></a>
 </p>
 
@@ -42,7 +42,7 @@ categories:
   <b>Homemade Chocolate Mousse Recipe</b>
 </h2>
 
-<div dir="ltr" style="text-align: left;">
+<p dir="ltr" style="text-align: left;">
   <b>Chocolate Mousse </b>recipe is very<b> tasty</b> and easy to prepare.you can prepare it within less than 4 minutes.I give u a simple <b>recipe </b>by following which you can prepare it easily.</p> 
   
   <h2 style="text-align: left;">

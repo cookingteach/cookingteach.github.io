@@ -31,11 +31,11 @@ nt_review_total:
 categories:
   - Non Vegetarian
 ---
-<div dir="ltr" style="text-align: left;">
-  <div style="clear: both; text-align: center;">
+<p dir="ltr" style="text-align: left;">
+  <p style="clear: both; text-align: center;">
   </p>
   
-  <div style="clear: both; text-align: center;">
+  <p style="clear: both; text-align: center;">
     <a style="margin-left: 1em; margin-right: 1em;" href="http://4.bp.blogspot.com/-31KiDtj4SDc/VQQc2L7jejI/AAAAAAAAAI0/rttIY_vTHEM/s1600/1.jpg"><img src="http://4.bp.blogspot.com/-31KiDtj4SDc/VQQc2L7jejI/AAAAAAAAAI0/rttIY_vTHEM/s1600/1.jpg" alt="" width="320" height="320" border="0" /></a>
   </p>
   
@@ -43,7 +43,7 @@ categories:
     Homemade Crispy <a class="zem_slink" title="Grill Bbq Chicken" href="http://www.williams-sonoma.com/recipe/tip/grill-perfect-bbq-chicken.html" target="_blank" rel="williamssonoma">Chicken</a> recipe
   </h2>
   
-  <div style="text-align: left;">
+  <p style="text-align: left;">
     <b>Crispy Chicken</b> is really very <b>crispy</b>.In this am using a<b> <a class="zem_slink" title="Microwave" href="http://en.wikipedia.org/wiki/Microwave" target="_blank" rel="wikipedia">microwave</a></b> to prepare this Crispy Chicken.It very<b> easy</b> to prepare with <b>less time</b>.you don&#8217;t have to take much efforts for preparing this.I give you a simple recipe to prepare this.Hope you all like it.
   </p>
   

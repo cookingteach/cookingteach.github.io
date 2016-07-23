@@ -31,8 +31,8 @@ nt_review_total:
 categories:
   - Desserts and Cakes
 ---
-<div dir="ltr" style="text-align: left;">
-  <div style="clear: both; text-align: center;">
+<p dir="ltr" style="text-align: left;">
+  <p style="clear: both; text-align: center;">
     <a style="margin-left: 1em; margin-right: 1em;" href="http://3.bp.blogspot.com/-4C6m-0gqsOY/VS1Ovl_DPmI/AAAAAAAAAPU/guT1deRcghA/s1600/1383807047.jpg"><img title="yummy chocolate brownies" src="http://3.bp.blogspot.com/-4C6m-0gqsOY/VS1Ovl_DPmI/AAAAAAAAAPU/guT1deRcghA/s1600/1383807047.jpg" alt="yummy chocolate brownies" width="320" height="240" border="0" /></a>
   </p>
   
@@ -40,7 +40,7 @@ categories:
     Yummy Chocolate Brownies
   </h1>
   
-  <div style="text-align: justify;">
+  <p style="text-align: justify;">
     <b>Yummy Chocolate Brownies</b> is a very delicious, tasty dish. Everyone loves this <a title="Chocolate" href="http://en.wikipedia.org/wiki/Chocolate" target="_blank" rel="wikipedia">chocolate</a> brownies.Its very easy to made. You can made it at home with <b>less time</b>. Served it on an occasions . Here are simple steps to make this yummy chocolate brownies at home.
   </p>
   
@@ -82,7 +82,7 @@ categories:
     <u><span style="color: red;"><em><strong>Method :</strong></em> </span></u>
   </h2>
   
-  <div style="text-align: justify;">
+  <p style="text-align: justify;">
     we make this <b>chocolate brownies</b> in a oven.It is a great  sweets sharing this with your friends and collect their praises. it take a very less time and make your occasion a very <b>special</b>. In this we use a walnut to give a taste.
   </p>
   
@@ -107,21 +107,21 @@ categories:
     </li>
   </ul>
   
-  <div style="clear: both; text-align: center;">
+  <p style="clear: both; text-align: center;">
     <a style="margin-left: 1em; margin-right: 1em;" href="http://1.bp.blogspot.com/-M7pH5OhyvT8/VS4cahCG27I/AAAAAAAAAQA/gbDOojXqlzQ/s1600/mixing-brownies.jpg"><img src="http://1.bp.blogspot.com/-M7pH5OhyvT8/VS4cahCG27I/AAAAAAAAAQA/gbDOojXqlzQ/s1600/mixing-brownies.jpg" alt="" width="266" height="400" border="0" /></a>
   </p>
   
-  <div style="clear: both; text-align: center;">
+  <p style="clear: both; text-align: center;">
   </p>
   
-  <div style="clear: both; text-align: center;">
+  <p style="clear: both; text-align: center;">
   </p>
   
-  <div style="clear: both; text-align: center;">
+  <p style="clear: both; text-align: center;">
     <a style="margin-left: 1em; margin-right: 1em;" href="http://3.bp.blogspot.com/-X_wB9WQRQlg/VS4asbN9a5I/AAAAAAAAAP0/qRqbbOFCScM/s1600/brownie-batter-blog.jpg"><img src="http://3.bp.blogspot.com/-X_wB9WQRQlg/VS4asbN9a5I/AAAAAAAAAP0/qRqbbOFCScM/s1600/brownie-batter-blog.jpg" alt="" width="320" height="256" border="0" /></a>
   </p>
   
-  <div style="clear: both; text-align: center;">
+  <p style="clear: both; text-align: center;">
   </p>
   
   <ul>

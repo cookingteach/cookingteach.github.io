@@ -31,11 +31,11 @@ nt_review_total:
 categories:
   - snacks
 ---
-<div dir="ltr" style="text-align: left;">
-  <div style="clear: both; text-align: center;">
+<p dir="ltr" style="text-align: left;">
+  <p style="clear: both; text-align: center;">
   </p>
   
-  <div style="clear: both; text-align: center;">
+  <p style="clear: both; text-align: center;">
     <a style="margin-left: 1em; margin-right: 1em;" href="http://1.bp.blogspot.com/-J5QC7ydQkf4/VQxMcA0Pe8I/AAAAAAAAAKA/XzDep3Uhae8/s1600/download.jpg"><img src="http://1.bp.blogspot.com/-J5QC7ydQkf4/VQxMcA0Pe8I/AAAAAAAAAKA/XzDep3Uhae8/s1600/download.jpg" alt="" border="0" /></a>
   </p>
   
@@ -43,7 +43,7 @@ categories:
     <b>Homemade Instant <a class="zem_slink" title="Khaman" href="http://en.wikipedia.org/wiki/Khaman" target="_blank" rel="wikipedia">Khaman</a> <a class="zem_slink" title="Dhokla" href="http://en.wikipedia.org/wiki/Dhokla" target="_blank" rel="wikipedia">Dhokla</a></b>
   </h2>
   
-  <div style="text-align: left;">
+  <p style="text-align: left;">
     <b>Instant Khaman Dhokla</b> is famous<b> <a class="zem_slink" title="Gujarati language" href="http://en.wikipedia.org/wiki/Gujarati_language" target="_blank" rel="wikipedia">Gujarati</a></b> dish which can prepare less than 20 minutes. Its very <b>soft</b> and <b>spongy</b> and very easy to prepare. You can serve it with green chillis sauce, <a class="zem_slink" title="Tomato sauce" href="http://en.wikipedia.org/wiki/Tomato_sauce" target="_blank" rel="wikipedia">tomato sauce</a> or a coconut chutney.You can served it as a <b>snack</b> or in a breakfast. It is very <b>healthy</b>. Try this simple recipe for making this Instant Khaman Dhokla.
   </p>
   

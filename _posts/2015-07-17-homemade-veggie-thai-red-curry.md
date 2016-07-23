@@ -31,11 +31,11 @@ nt_review_total:
 categories:
   - Chinese Thai and Continenetal
 ---
-<div dir="ltr" style="text-align: left;">
-  <div style="clear: both; text-align: center;">
+<p dir="ltr" style="text-align: left;">
+  <p style="clear: both; text-align: center;">
   </p>
   
-  <div style="clear: both; text-align: center;">
+  <p style="clear: both; text-align: center;">
     <a href="http://3.bp.blogspot.com/-ZAUCdKGfso8/VaiSYAfZF8I/AAAAAAAAAXk/3YLc3YODyLY/s1600/ThaiRedFishCurry_2.jpg"><img title="Homemade Veggie Thai red curry" src="http://3.bp.blogspot.com/-ZAUCdKGfso8/VaiSYAfZF8I/AAAAAAAAAXk/3YLc3YODyLY/s320/ThaiRedFishCurry_2.jpg" alt="Homemade Veggie Thai red curry" width="213" height="320" border="0" /></a>
   </p>
   

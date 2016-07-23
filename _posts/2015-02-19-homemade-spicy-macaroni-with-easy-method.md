@@ -31,8 +31,8 @@ nt_review_total:
 categories:
   - FAST FOOD
 ---
-<div dir="ltr" style="text-align: left;">
-  <div style="clear: both; text-align: center;">
+<p dir="ltr" style="text-align: left;">
+  <p style="clear: both; text-align: center;">
     <a style="margin-left: 1em; margin-right: 1em;" href="http://3.bp.blogspot.com/-9yadvnmckFE/VOa4WGasg0I/AAAAAAAAAEs/CAc6jn53ios/s1600/macaroni-fromage-410.jpg"><img src="http://3.bp.blogspot.com/-9yadvnmckFE/VOa4WGasg0I/AAAAAAAAAEs/CAc6jn53ios/s1600/macaroni-fromage-410.jpg" alt="" width="320" height="220" border="0" /></a>
   </p>
   
@@ -40,7 +40,7 @@ categories:
     Homemade Spicy <a class="zem_slink" title="Macaroni and cheese" href="http://en.wikipedia.org/wiki/Macaroni_and_cheese" target="_blank" rel="wikipedia">Macaroni</a> with easy method
   </h2>
   
-  <div style="text-align: left;">
+  <p style="text-align: left;">
     Macaroni is a spicy tastiest dish which simply do not like children but all likes.So I think if macaroni should be built in the house, we can make, depending on your taste.I provides a simple and easy way of making macaroni.I hope you enjoying to make a macaroni by using this method.
   </p>
   

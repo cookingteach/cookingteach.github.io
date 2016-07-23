@@ -31,7 +31,7 @@ nt_review_total:
 categories:
   - FAST FOOD
 ---
-<div style="clear: both; text-align: center;">
+<p style="clear: both; text-align: center;">
   <a style="margin-left: 1em; margin-right: 1em;" href="http://3.bp.blogspot.com/-HMdpTUXBoaQ/VOa4ZKUvScI/AAAAAAAAAE0/1brpkW6MLHM/s1600/gobi-manchurian10CniM8J567b.jpg"><img src="http://3.bp.blogspot.com/-HMdpTUXBoaQ/VOa4ZKUvScI/AAAAAAAAAE0/1brpkW6MLHM/s1600/gobi-manchurian10CniM8J567b.jpg" alt="" width="320" height="213" border="0" /></a>
 </p>
 
@@ -120,7 +120,7 @@ categories:
   </h2>
 </p>
 
-<div style="text-align: left;">
+<p style="text-align: left;">
   <h2 style="text-align: left;">
     <b><i><u>Ingredients:</u></i></b>
   </h2>

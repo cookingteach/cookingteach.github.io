@@ -31,10 +31,10 @@ nt_review_total:
 categories:
   - FAST FOOD
 ---
-<div style="clear: both; text-align: center;">
+<p style="clear: both; text-align: center;">
 </p>
 
-<div style="clear: both; text-align: center;">
+<p style="clear: both; text-align: center;">
   <a style="margin-left: 1em; margin-right: 1em;" href="http://2.bp.blogspot.com/-3Ztyj2GqIjs/VOtNzIc3SGI/AAAAAAAAAGU/8cdK1pitn4c/s1600/2.jpg"><img src="http://2.bp.blogspot.com/-3Ztyj2GqIjs/VOtNzIc3SGI/AAAAAAAAAGU/8cdK1pitn4c/s1600/2.jpg" alt="" width="320" height="282" border="0" /></a>
 </p>
 
@@ -42,7 +42,7 @@ categories:
   <span style="color: #cc0000;">Homemade Veg Noodles easy recipe</span>
 </h2>
 
-<div style="text-align: left;">
+<p style="text-align: left;">
   <b>Vegetable <a class="zem_slink" title="Noodle" href="http://en.wikipedia.org/wiki/Noodle" target="_blank" rel="wikipedia">noodles</a></b> is a famous Chinese dish.It is most <b>popular</b> in everyone mostly in kids.Water goes into our mouth when we hear a name of noodle.In this <b>spicy noodles</b> i use a many kind of <b>vegetables</b> to make it tastiest.It is very <b>easy</b> to prepare.I give you a step by step <b>procedure</b> to make a noodles.
 </p>
 

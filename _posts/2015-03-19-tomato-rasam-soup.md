@@ -31,11 +31,11 @@ nt_review_total:
 categories:
   - Soups and Drinks
 ---
-<div dir="ltr" style="text-align: left;">
-  <div style="clear: both; text-align: center;">
+<p dir="ltr" style="text-align: left;">
+  <p style="clear: both; text-align: center;">
   </p>
   
-  <div style="clear: both; text-align: center;">
+  <p style="clear: both; text-align: center;">
     <a style="margin-left: 1em; margin-right: 1em;" href="http://3.bp.blogspot.com/-ZwOgeb5ZYqA/VQr1Ca1nRtI/AAAAAAAAAJs/qsRbdhH7Kck/s1600/IMG_7267.JPG"><img src="http://3.bp.blogspot.com/-ZwOgeb5ZYqA/VQr1Ca1nRtI/AAAAAAAAAJs/qsRbdhH7Kck/s1600/IMG_7267.JPG" alt="" width="284" height="320" border="0" /></a>
   </p>
   
@@ -43,7 +43,7 @@ categories:
     Homemade Tomato Rasam Soup
   </h2>
   
-  <div style="text-align: left;">
+  <p style="text-align: left;">
     <b>Tomato Rasam</b> is a famous south Indian soup which is made from <b><a class="zem_slink" title="Tomato" href="http://en.wikipedia.org/wiki/Tomato" target="_blank" rel="wikipedia">tomatoes</a></b> and <b><a class="zem_slink" title="Rasam" href="http://en.wikipedia.org/wiki/Rasam" target="_blank" rel="wikipedia">rasam</a> powder</b>.It is very easy to prepare.You can enjoy it with papad or rice.I give u a simple recipe which i all time used to make it.
   </p>
   

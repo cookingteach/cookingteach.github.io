@@ -48,9 +48,9 @@ tags:
   - cocoa
   - cream
 ---
-<div dir="ltr" style="text-align: left;">
-  <div dir="ltr" style="text-align: left;">
-    <div style="clear: both; text-align: center;">
+<p dir="ltr" style="text-align: left;">
+  <p dir="ltr" style="text-align: left;">
+    <p style="clear: both; text-align: center;">
     </p>
     
     <h2 style="text-align: left;">
@@ -60,7 +60,7 @@ tags:
       <span style="text-decoration: underline;"><span style="color: #cc0000; text-decoration: underline;">Homemade easy hot <a title="Chocolate" href="http://en.wikipedia.org/wiki/Chocolate" target="_blank" rel="wikipedia">chocolate</a> <a class="zem_slink" title="Drink" href="http://en.wikipedia.org/wiki/Drink" target="_blank" rel="wikipedia">drink</a> <a class="zem_slink" title="Chocolate cake" href="http://en.wikipedia.org/wiki/Chocolate_cake" target="_blank" rel="wikipedia">recipe</a></span></span>
     </h2>
     
-    <div style="text-align: left;">
+    <p style="text-align: left;">
       Homemade easy hot <a title="Chocolate" href="http://en.wikipedia.org/wiki/Chocolate" target="_blank" rel="wikipedia">chocolate</a> recipe is very tasty drink.It basically like a melted <a class="zem_slink" title="Chocolate" href="http://en.wikipedia.org/wiki/Chocolate" target="_blank" rel="wikipedia">chocolate</a> which is a kind of feeling of warmth in winters.Kids love this drink too.Its very easy and simple drink.Moreover chocolate is good for health.The hot chocolate you make at home is very rich, thick and good for health.Just one time make this drink at home, you simply love this drink.Here I give you some simple steps to make this drink at home.
     </p>
     

@@ -31,11 +31,11 @@ nt_review_total:
 categories:
   - Non Vegetarian
 ---
-<div dir="ltr" style="text-align: left;">
-  <div style="clear: both; text-align: center;">
+<p dir="ltr" style="text-align: left;">
+  <p style="clear: both; text-align: center;">
   </p>
   
-  <div style="clear: both; text-align: center;">
+  <p style="clear: both; text-align: center;">
     <a style="margin-left: 1em; margin-right: 1em;" href="http://4.bp.blogspot.com/-jeuHrx0Xxww/VRKlQTFBl5I/AAAAAAAAALU/GRVvmNw738I/s1600/croq2.jpg"><img src="http://4.bp.blogspot.com/-jeuHrx0Xxww/VRKlQTFBl5I/AAAAAAAAALU/GRVvmNw738I/s1600/croq2.jpg" alt="" width="320" height="213" border="0" /></a>
   </p>
   

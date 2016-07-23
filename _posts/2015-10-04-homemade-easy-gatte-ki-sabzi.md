@@ -48,7 +48,7 @@ categories:
 
 ## <span style="color: #660000; text-decoration: underline;">Homemade Easy Gatte Ki Sabzi Recipe:</span>
 
-<div style="text-align: justify;">
+<p style="text-align: justify;">
   Homemade easy gatte ki sabzi is traditional <a title="Rajasthani language" href="http://en.wikipedia.org/wiki/Rajasthani_language" target="_blank" rel="wikipedia">Rajasthani</a> recipe (<a class="zem_slink" title="Indian cuisine" href="http://en.wikipedia.org/wiki/Indian_cuisine" target="_blank" rel="wikipedia">Indian</a> recipe).It is very simple and quick recipe.In this gatte is made by using <a class="zem_slink" title="Gram flour" href="http://en.wikipedia.org/wiki/Gram_flour" target="_blank" rel="wikipedia">gram flour</a> ( bessan) and curry is made using butter milk or curd.In this we cant use onion (piyaaz), ginger(adarak) and garlic(lasun).Here i give you a simple recipe steps by suing which you can make this recipe quickly at home.
 </p>
 
@@ -88,7 +88,7 @@ To prepare a Gatte ki Sabzi follow the below steps:
 
 <img class="size-medium wp-image-239 aligncenter" src="http://cookingteach.com/wp-content/uploads/2015/10/gatte-300x238.jpg" alt="gatte" width="300" height="238" srcset="http://cookingteach.com/wp-content/uploads/2015/10/gatte-300x238.jpg 300w, http://cookingteach.com/wp-content/uploads/2015/10/gatte-768x609.jpg 768w, http://cookingteach.com/wp-content/uploads/2015/10/gatte-1024x812.jpg 1024w" sizes="(max-width: 300px) 100vw, 300px" />
 
-<div style="clear: both; text-align: center;">
+<p style="clear: both; text-align: center;">
 </p>
 
   * Now, take a **pan** add **water** and boil it.

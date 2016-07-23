@@ -48,8 +48,8 @@ tags:
   - idli
   - yogurt
 ---
-<div dir="ltr" style="text-align: left;">
-  <div style="clear: both; text-align: center;">
+<p dir="ltr" style="text-align: left;">
+  <p style="clear: both; text-align: center;">
   </p>
   
   <h2>
@@ -144,7 +144,7 @@ tags:
     <span style="color: #274e13;">To make a Dip</span>
   </h3>
   
-  <div style="text-align: left;">
+  <p style="text-align: left;">
               To make a dip follow these steps:-
   </p>
   

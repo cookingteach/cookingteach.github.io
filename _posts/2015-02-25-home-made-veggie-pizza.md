@@ -31,10 +31,10 @@ nt_review_total:
 categories:
   - snacks
 ---
-<div style="clear: both; text-align: center;">
+<p style="clear: both; text-align: center;">
 </p>
 
-<div style="clear: both; text-align: center;">
+<p style="clear: both; text-align: center;">
   <a style="margin-left: 1em; margin-right: 1em;" href="http://1.bp.blogspot.com/-4lBfOA1KCdY/VO35PDl_EGI/AAAAAAAAAG8/krZ6cpysTaM/s1600/1.jpg"><img src="http://1.bp.blogspot.com/-4lBfOA1KCdY/VO35PDl_EGI/AAAAAAAAAG8/krZ6cpysTaM/s1600/1.jpg" alt="" width="320" height="200" border="0" /></a>
 </p>
 
@@ -42,11 +42,11 @@ categories:
   Home made Veggie Pizza
 </h2>
 
-<div style="text-align: left;">
+<p style="text-align: left;">
   <b>Veggie <a class="zem_slink" title="Pizza" href="http://en.wikipedia.org/wiki/Pizza" target="_blank" rel="wikipedia">pizza</a></b> is a tastiest <b>crispy meal</b>.I don&#8217;t think that there is anyone which does not like a pizza.
 </p>
 
-<div style="text-align: left;">
+<p style="text-align: left;">
   <a class="zem_slink" title="Vegetable" href="http://en.wikipedia.org/wiki/Vegetable" target="_blank" rel="wikipedia">Veg</a> pizza is a most <b>famous</b> meal in all.Everyone likes to<b> eat</b> it.I used <b><a class="zem_slink" title="Onion" href="http://en.wikipedia.org/wiki/Onion" target="_blank" rel="wikipedia">onion</a></b> and <b><a class="zem_slink" title="Capsicum" href="http://en.wikipedia.org/wiki/Capsicum" target="_blank" rel="wikipedia">capsicum</a></b> as topping this before garnish use a<b> <a class="zem_slink" title="Oregano" href="http://en.wikipedia.org/wiki/Oregano" target="_blank" rel="wikipedia">oregano</a></b>.You can also made this <b>delicious</b> yummy <b>pizza</b> at <b>home</b>.Enjoy this yummy pizza with sauce.
 </p>
 

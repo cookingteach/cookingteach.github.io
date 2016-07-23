@@ -31,22 +31,22 @@ nt_review_total:
 categories:
   - Rice
 ---
-<div dir="ltr" style="text-align: left;">
-  <div dir="ltr" style="text-align: left;">
+<p dir="ltr" style="text-align: left;">
+  <p dir="ltr" style="text-align: left;">
   </p>
   
-  <div style="clear: both; text-align: center;">
+  <p style="clear: both; text-align: center;">
     <a style="margin-left: 1em; margin-right: 1em;" href="http://1.bp.blogspot.com/-cpIp-6dNL1U/VSljJVwNN5I/AAAAAAAAAPA/k08MiURwegQ/s1600/lemon-rice-1024x905.jpg"><img title="lemon rice food recipes" src="http://1.bp.blogspot.com/-cpIp-6dNL1U/VSljJVwNN5I/AAAAAAAAAPA/k08MiURwegQ/s1600/lemon-rice-1024x905.jpg" alt="lemon rice food recipes" width="320" height="282" border="0" /></a>
   </p>
   
-  <div style="clear: both; text-align: center;">
+  <p style="clear: both; text-align: center;">
   </p>
   
   <h2>
     Lemon Rice <a title="Food" href="http://en.wikipedia.org/wiki/Food" target="_blank" rel="wikipedia">Food</a> Recipes
   </h2>
   
-  <div style="text-align: justify;">
+  <p style="text-align: justify;">
     <b><a title="Lemon" href="http://en.wikipedia.org/wiki/Lemon" target="_blank" rel="wikipedia">lemon</a> <a class="zem_slink" title="Rice" href="http://en.wikipedia.org/wiki/Rice" target="_blank" rel="wikipedia">rice</a> food</b> recipes is very <b>yummy</b> breakfast meal. It is a most popular <a title="South India" href="http://maps.google.com/maps?ll=13.0,77.0&spn=0.1,0.1&q=13.0,77.0%20(South%20India)&t=h" target="_blank" rel="geolocation">South Indian</a> dish.It is very easy to prepare .I am prepared it in a <b><a title="Microwave" href="http://en.wikipedia.org/wiki/Microwave" target="_blank" rel="wikipedia">microwave</a>.</b> Its very <b>simple</b> recipe and you can prepare it very quickly. When this dish includes in your breakfast then it became a very <b>special</b>.A boiled rice are mixed with some ingredients. You can serve it with a <a title="Papadum" href="http://en.wikipedia.org/wiki/Papadum" target="_blank" rel="wikipedia">papadum</a>( papad), chutney or a salad.You can also serve it as a lunch or a dinner meal.
   </p>
   
@@ -100,7 +100,7 @@ categories:
     <b><i><u><span style="color: #274e13;">Method to prepare in a microwave:</span></u></i></b>
   </h2>
   
-  <div style="text-align: justify;">
+  <p style="text-align: justify;">
     To make a lemon rice in a microwave is very simple and easy and take very less time, here are some simple steps to make it in a microwave.
   </p>
   

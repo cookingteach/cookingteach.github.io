@@ -31,15 +31,15 @@ nt_review_total:
 categories:
   - Indian dish
 ---
-<div dir="ltr" style="text-align: left;">
-  <div dir="ltr" style="text-align: left;">
-    <div style="clear: both; text-align: center;">
+<p dir="ltr" style="text-align: left;">
+  <p dir="ltr" style="text-align: left;">
+    <p style="clear: both; text-align: center;">
     </p>
     
-    <div style="clear: both; text-align: center;">
+    <p style="clear: both; text-align: center;">
     </p>
     
-    <div style="clear: both; text-align: center;">
+    <p style="clear: both; text-align: center;">
       <a style="margin-left: 1em; margin-right: 1em;" href="http://4.bp.blogspot.com/-brNfo8VSkUY/VS9jo7Dz4WI/AAAAAAAAAQk/neYht8KZGJI/s1600/badami.jpg"><img title="Spicy Badami Paneer" src="http://4.bp.blogspot.com/-brNfo8VSkUY/VS9jo7Dz4WI/AAAAAAAAAQk/neYht8KZGJI/s1600/badami.jpg" alt="Spicy Badami Paneer" width="400" height="308" border="0" /></a>
     </p>
     
@@ -47,7 +47,7 @@ categories:
       Spicy Badami Paneer
     </h1>
     
-    <div style="text-align: justify;">
+    <p style="text-align: justify;">
       Spicy Badami Paneer is <a title="Indian cuisine" href="http://en.wikipedia.org/wiki/Indian_cuisine" target="_blank" rel="wikipedia">Indian dish</a> which is very spicy, tasty and delicious. you can make it in a <a class="zem_slink" title="Microwave" href="http://en.wikipedia.org/wiki/Microwave" target="_blank" rel="wikipedia">microwave</a> or in a pan. It is very simple and easy to make. You can prepared it with very less time. Here a simple steps to make a badami <a class="zem_slink" title="Paneer" href="http://en.wikipedia.org/wiki/Paneer" target="_blank" rel="wikipedia">paneer</a>.
     </p>
     
@@ -173,7 +173,7 @@ categories:
       <i><u><span style="color: red;">Another Method:</span></u></i>
     </h3>
     
-    <div style="text-align: justify;">
+    <p style="text-align: justify;">
        In this method we make a badami paneer in a pan.Here are some simple steps to make a badami  paneer in a pan
     </p>
     
@@ -210,7 +210,7 @@ categories:
       </li>
     </ul>
     
-    <div style="clear: both; text-align: center;">
+    <p style="clear: both; text-align: center;">
       <a style="margin-left: 1em; margin-right: 1em;" href="http://1.bp.blogspot.com/-eyhwdRI4DWY/VS9kUjbT-hI/AAAAAAAAAQs/jtHJTttHj1I/s1600/IMG_0841.JPG"><img title="Spicy Badami Paneer" src="http://1.bp.blogspot.com/-eyhwdRI4DWY/VS9kUjbT-hI/AAAAAAAAAQs/jtHJTttHj1I/s1600/IMG_0841.JPG" alt="Spicy Badami Paneer" width="320" height="238" align="center" border="0" /></a>
     </p>
   </p>

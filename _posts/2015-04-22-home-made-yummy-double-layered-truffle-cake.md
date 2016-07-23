@@ -31,8 +31,8 @@ nt_review_total:
 categories:
   - Desserts and Cakes
 ---
-<div dir="ltr" style="text-align: left;">
-  <div style="clear: both; text-align: center;">
+<p dir="ltr" style="text-align: left;">
+  <p style="clear: both; text-align: center;">
     <a style="margin-left: 1em; margin-right: 1em;" href="http://1.bp.blogspot.com/-Lo0WW6S54AQ/VTfEhhzOiZI/AAAAAAAAARk/j5jL9UiZyCs/s1600/1264350501-0.jpg"><img title="Double-layered truffle Cake" src="http://1.bp.blogspot.com/-Lo0WW6S54AQ/VTfEhhzOiZI/AAAAAAAAARk/j5jL9UiZyCs/s1600/1264350501-0.jpg" alt="Double-layered truffle Cake" width="320" height="201" border="0" /></a>
   </p>
   
@@ -104,14 +104,14 @@ categories:
     <u><span style="color: #274e13;"><i>Method:</i></span></u>
   </p>
   
-  <div style="text-align: justify;">
+  <p style="text-align: justify;">
     We can make two type of double layered truffle cake. Here are two methods to make a cake i.e white chocolate cake and dark <a class="zem_slink" title="Chocolate" href="http://en.wikipedia.org/wiki/Chocolate" target="_blank" rel="wikipedia">chocolate</a> cake. in this only the truffle icing is different tip is same for both cakes.
   </p>
   
-  <div style="text-align: justify;">
+  <p style="text-align: justify;">
   </p>
   
-  <div style="text-align: justify;">
+  <p style="text-align: justify;">
     <b><u><span style="color: red;"> For The Dark truffle Icing: </span></u></b>
   </p>
   
@@ -152,7 +152,7 @@ categories:
     </li>
   </ul>
   
-  <div style="clear: both; text-align: center;">
+  <p style="clear: both; text-align: center;">
     <a style="margin-left: 1em; margin-right: 1em;" href="http://2.bp.blogspot.com/-_ySkD8GbcE8/VTfG9FJ8qXI/AAAAAAAAARw/8q_1ewXEERU/s1600/images.jpg"><img title="Double-layered truffle Cake" src="http://2.bp.blogspot.com/-_ySkD8GbcE8/VTfG9FJ8qXI/AAAAAAAAARw/8q_1ewXEERU/s1600/images.jpg" alt="Double-layered truffle Cake" border="0" /></a>
   </p>
   

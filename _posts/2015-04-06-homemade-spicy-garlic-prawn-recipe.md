@@ -31,10 +31,10 @@ nt_review_total:
 categories:
   - Non Vegetarian
 ---
-<div style="clear: both; text-align: center;">
+<p style="clear: both; text-align: center;">
 </p>
 
-<div style="clear: both; text-align: center;">
+<p style="clear: both; text-align: center;">
   <a style="margin-left: 1em; margin-right: 1em;" href="http://4.bp.blogspot.com/-4I7cRX-2_7k/VSK5RvOa3eI/AAAAAAAAANs/lP0mNHyf078/s1600/CrispyGarlicParsleyPrawns-540.jpg"><img src="http://4.bp.blogspot.com/-4I7cRX-2_7k/VSK5RvOa3eI/AAAAAAAAANs/lP0mNHyf078/s1600/CrispyGarlicParsleyPrawns-540.jpg" alt="" width="320" height="193" border="0" /></a>
 </p>
 
@@ -42,7 +42,7 @@ categories:
   Homemade Spicy Garlic Prawn Recipe<br /> <b></b>
 </h2>
 
-<div dir="ltr" style="text-align: left;">
+<p dir="ltr" style="text-align: left;">
   <b><a class="zem_slink" title="Chili-Garlic Prawns" href="http://www.williams-sonoma.com/recipe/chili-garlic-prawns.html" target="_blank" rel="williamssonoma">Garlic Prawns</a></b> is really very delicious dish. It is very <b>simple</b> to make with less than 10 minutes. Here a very simple<b> recipe</b> to make this Garlic Prawns at home.</p> 
   
   <h2 style="text-align: left;">

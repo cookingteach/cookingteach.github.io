@@ -33,13 +33,13 @@ categories:
 ---
 &nbsp;
 
-<div style="clear: both; text-align: center;">
+<p style="clear: both; text-align: center;">
   <a style="margin-left: 1em; margin-right: 1em;" href="http://4.bp.blogspot.com/-aZSEuKpBQEQ/VQWvhKTwDjI/AAAAAAAAAJY/tGZ15OSzE50/s1600/download.jpg"><img src="http://4.bp.blogspot.com/-aZSEuKpBQEQ/VQWvhKTwDjI/AAAAAAAAAJY/tGZ15OSzE50/s1600/download.jpg" alt="" border="0" /></a>
 </p>
 
 ## Homemade easy Pumpkin <a class="zem_slink" title="Ras malai" href="http://en.wikipedia.org/wiki/Ras_malai" target="_blank" rel="wikipedia">Rasmalai</a>
 
-<div dir="ltr" style="text-align: left;">
+<p dir="ltr" style="text-align: left;">
   <b>Pumpkin Rasmalai </b>is very tasty <a class="zem_slink" title="Dessert" href="http://en.wikipedia.org/wiki/Dessert" target="_blank" rel="wikipedia">sweet dish</a>. It is <b>famous</b> dish which is liked by everyone. Its very <b>easy</b> to prepare. In this a used a <b><a class="zem_slink" title="Lemon Sponge Cake" href="http://www.williams-sonoma.com/recipe/lemon-sponge-cake.html" target="_blank" rel="williamssonoma">sponge</a> rasgulaa</b> to make it and give you a very easy method.<br /> You can made it at your home and enjoy this sweet dish.</p> 
   
   <h2 style="text-align: left;">

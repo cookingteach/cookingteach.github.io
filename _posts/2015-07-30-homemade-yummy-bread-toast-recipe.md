@@ -44,8 +44,8 @@ wp_review_bordercolor:
 categories:
   - HEALTHY FOOD
 ---
-<div dir="ltr" style="text-align: left;">
-  <div style="clear: both; text-align: center;">
+<p dir="ltr" style="text-align: left;">
+  <p style="clear: both; text-align: center;">
   </p>
   
   <h2>
@@ -113,11 +113,11 @@ categories:
     </li>
   </ul>
   
-  <div style="clear: both; text-align: center;">
+  <p style="clear: both; text-align: center;">
      <img class="alignnone size-medium wp-image-286" src="http://cookingteach.com/wp-content/uploads/2015/07/2015-04-11-16.40.49-300x225.jpg" alt="Homemade Yummy Bread Toast Recipe" width="300" height="225" srcset="http://cookingteach.com/wp-content/uploads/2015/07/2015-04-11-16.40.49-300x225.jpg 300w, http://cookingteach.com/wp-content/uploads/2015/07/2015-04-11-16.40.49-768x576.jpg 768w, http://cookingteach.com/wp-content/uploads/2015/07/2015-04-11-16.40.49-1024x768.jpg 1024w, http://cookingteach.com/wp-content/uploads/2015/07/2015-04-11-16.40.49-320x240.jpg 320w" sizes="(max-width: 300px) 100vw, 300px" />
   </p>
   
-  <div style="clear: both; text-align: center;">
+  <p style="clear: both; text-align: center;">
   </p>
   
   <ul>

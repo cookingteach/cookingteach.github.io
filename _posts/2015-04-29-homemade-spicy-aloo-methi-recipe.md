@@ -31,11 +31,11 @@ nt_review_total:
 categories:
   - Indian dish
 ---
-<div dir="ltr" style="text-align: left;">
-  <div style="clear: both; text-align: center;">
+<p dir="ltr" style="text-align: left;">
+  <p style="clear: both; text-align: center;">
   </p>
   
-  <div style="clear: both; text-align: center;">
+  <p style="clear: both; text-align: center;">
     <a style="margin-left: 1em; margin-right: 1em;" href="http://3.bp.blogspot.com/-MtaLv_aVOKo/VUESnvidYDI/AAAAAAAAATI/sxZasU7i2gQ/s1600/aloo-methi.jpg"><img title="Spicy Aloo Methi Recipe" src="http://3.bp.blogspot.com/-MtaLv_aVOKo/VUESnvidYDI/AAAAAAAAATI/sxZasU7i2gQ/s1600/aloo-methi.jpg" alt="Spicy Aloo Methi Recipe" width="320" height="213" border="0" /></a>
   </p>
   
@@ -190,7 +190,7 @@ categories:
     </li>
   </ul>
   
-  <div style="clear: both; text-align: center;">
+  <p style="clear: both; text-align: center;">
     <a style="margin-left: 1em; margin-right: 1em;" href="http://3.bp.blogspot.com/-lJHepn1uC1s/VUESTuDiduI/AAAAAAAAATA/ftpblh-ETsQ/s1600/DSC08177.jpg"><img title="Spicy Aloo Methi Recipe" src="http://3.bp.blogspot.com/-lJHepn1uC1s/VUESTuDiduI/AAAAAAAAATA/ftpblh-ETsQ/s1600/DSC08177.jpg" alt="Spicy Aloo Methi Recipe" width="320" height="180" border="0" /></a>
   </p>
   

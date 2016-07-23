@@ -31,11 +31,11 @@ nt_review_total:
 categories:
   - Chinese Thai and Continenetal
 ---
-<div dir="ltr" style="text-align: left;">
-  <div style="clear: both; text-align: center;">
+<p dir="ltr" style="text-align: left;">
+  <p style="clear: both; text-align: center;">
   </p>
   
-  <div style="clear: both; text-align: center;">
+  <p style="clear: both; text-align: center;">
     <a style="margin-left: 1em; margin-right: 1em;" href="http://3.bp.blogspot.com/-pCzP4XSQDMQ/VWq-Fnyx4WI/AAAAAAAAAV8/RpkpJHR0y9Q/s1600/20140223-vegan-pasta-dried-tomato-olive-bread-crumb-recipe-12-thumb-625xauto-385519.jpg"><img title="Homemade Pasta in Quick Tomato Sauce" src="http://3.bp.blogspot.com/-pCzP4XSQDMQ/VWq-Fnyx4WI/AAAAAAAAAV8/RpkpJHR0y9Q/s320/20140223-vegan-pasta-dried-tomato-olive-bread-crumb-recipe-12-thumb-625xauto-385519.jpg" alt="Homemade Pasta in Quick Tomato Sauce" width="320" height="240" border="0" /></a>
   </p>
   

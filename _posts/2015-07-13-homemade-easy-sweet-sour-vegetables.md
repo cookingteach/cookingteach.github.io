@@ -31,18 +31,18 @@ nt_review_total:
 categories:
   - Chinese Thai and Continenetal
 ---
-<div dir="ltr" style="text-align: left;">
-  <div style="clear: both; text-align: center;">
+<p dir="ltr" style="text-align: left;">
+  <p style="clear: both; text-align: center;">
   </p>
   
-  <div style="clear: both; text-align: center;">
+  <p style="clear: both; text-align: center;">
   </p>
   
-  <div style="clear: both; text-align: center;">
+  <p style="clear: both; text-align: center;">
     <a style="margin-left: 1em; margin-right: 1em;" href="http://2.bp.blogspot.com/-9Iu95x7CsK0/VaOrdHiP0kI/AAAAAAAAAXQ/70ludRiZ_6U/s1600/4.jpg"><img title="Homemade easy Sweet & Sour Vegetables" src="http://2.bp.blogspot.com/-9Iu95x7CsK0/VaOrdHiP0kI/AAAAAAAAAXQ/70ludRiZ_6U/s320/4.jpg" alt="Homemade easy Sweet & Sour Vegetables" width="320" height="148" border="0" /></a>
   </p>
   
-  <div style="clear: both; text-align: center;">
+  <p style="clear: both; text-align: center;">
   </p>
   
   <h2>

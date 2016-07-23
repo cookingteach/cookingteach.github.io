@@ -47,8 +47,8 @@ tags:
   - cardamom
   - cinnamon stick
 ---
-<div dir="ltr" style="text-align: left;">
-  <div style="clear: both; text-align: center;">
+<p dir="ltr" style="text-align: left;">
+  <p style="clear: both; text-align: center;">
   </p>
   
   <h2>

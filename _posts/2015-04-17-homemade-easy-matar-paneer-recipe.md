@@ -31,8 +31,8 @@ nt_review_total:
 categories:
   - dry and semi dry
 ---
-<div dir="ltr" style="text-align: left;">
-  <div style="clear: both; text-align: center;">
+<p dir="ltr" style="text-align: left;">
+  <p style="clear: both; text-align: center;">
     <a style="margin-left: 1em; margin-right: 1em;" href="http://3.bp.blogspot.com/-m0-P-vYWbVs/Vh_emRGCIPI/AAAAAAAAAfM/WdfhZBbv4XM/s1600/MP-2-e1304472875240.png"><img title="Homemade Easy Matar Paneer Recipe" src="http://3.bp.blogspot.com/-m0-P-vYWbVs/Vh_emRGCIPI/AAAAAAAAAfM/WdfhZBbv4XM/s320/MP-2-e1304472875240.png" alt="Homemade Easy Matar Paneer Recipe" width="240" height="320" border="0" /></a>
   </p>
   

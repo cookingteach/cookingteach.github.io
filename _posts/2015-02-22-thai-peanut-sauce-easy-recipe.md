@@ -31,8 +31,8 @@ nt_review_total:
 categories:
   - sauce and chutney
 ---
-<div dir="ltr" style="text-align: left;">
-  <div style="clear: both; text-align: center;">
+<p dir="ltr" style="text-align: left;">
+  <p style="clear: both; text-align: center;">
     <a style="margin-left: 1em; margin-right: 1em;" href="http://1.bp.blogspot.com/-v5GfozTbfkI/VOmw8cazYRI/AAAAAAAAAFc/lIP7SmZ1lBU/s1600/1.jpg"><img src="http://1.bp.blogspot.com/-v5GfozTbfkI/VOmw8cazYRI/AAAAAAAAAFc/lIP7SmZ1lBU/s1600/1.jpg" alt="" width="320" height="240" border="0" /></a>
   </p>
   
@@ -40,11 +40,11 @@ categories:
     <a class="zem_slink" title="Thai language" href="http://en.wikipedia.org/wiki/Thai_language" target="_blank" rel="wikipedia">Thai</a> <a class="zem_slink" title="Peanut sauce" href="http://en.wikipedia.org/wiki/Peanut_sauce" target="_blank" rel="wikipedia">Peanut sauce</a> easy recipe
   </h2>
   
-  <div style="text-align: left;">
+  <p style="text-align: left;">
     <b>Peanut sauce</b> is a <b>Thai recipe</b> is most popular <a class="zem_slink" title="Race and ethnicity in the United States Census" href="http://en.wikipedia.org/wiki/Race_and_ethnicity_in_the_United_States_Census" target="_blank" rel="wikipedia">Asian</a> sauce which is quick and easy to make.We serve it with <b><a class="zem_slink" title="Dosa" href="http://en.wikipedia.org/wiki/Dosa" target="_blank" rel="wikipedia">dosa</a></b> or <b><a class="zem_slink" title="Idli" href="http://en.wikipedia.org/wiki/Idli" target="_blank" rel="wikipedia">idli</a></b> or many other purposes.
   </p>
   
-  <div style="text-align: left;">
+  <p style="text-align: left;">
   </p>
   
   <h2>

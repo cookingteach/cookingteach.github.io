@@ -31,11 +31,11 @@ nt_review_total:
 categories:
   - Indian dish
 ---
-<div dir="ltr" style="text-align: left;">
-  <div style="clear: both; text-align: center;">
+<p dir="ltr" style="text-align: left;">
+  <p style="clear: both; text-align: center;">
   </p>
   
-  <div style="clear: both; text-align: center;">
+  <p style="clear: both; text-align: center;">
     <a style="margin-left: 1em; margin-right: 1em;" href="http://2.bp.blogspot.com/-pAFGjGbsCVs/VUUFok0ap_I/AAAAAAAAATo/NO_7ZftrSHw/s1600/maxresdefault.jpg"><img title="Home-Made Tasty Maharani Dal Recipes" src="http://2.bp.blogspot.com/-pAFGjGbsCVs/VUUFok0ap_I/AAAAAAAAATo/NO_7ZftrSHw/s1600/maxresdefault.jpg" alt="Home-Made Tasty Maharani Dal Recipes" width="320" height="179" border="0" /></a>
   </p>
   

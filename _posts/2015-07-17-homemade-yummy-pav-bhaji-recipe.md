@@ -45,8 +45,8 @@ wp_review_bordercolor:
 categories:
   - Indian dish
 ---
-<div dir="ltr" style="text-align: left;">
-  <div style="clear: both; text-align: center;">
+<p dir="ltr" style="text-align: left;">
+  <p style="clear: both; text-align: center;">
     <a style="margin-left: 1em; margin-right: 1em;" href="http://4.bp.blogspot.com/-7I-4WqaotTY/VajfkHHUPiI/AAAAAAAAAX8/gj-YO6zRTZU/s1600/2.jpg"><img title="Homemade yummy Pav Bhaji Recipe" src="http://4.bp.blogspot.com/-7I-4WqaotTY/VajfkHHUPiI/AAAAAAAAAX8/gj-YO6zRTZU/s320/2.jpg" alt="Homemade yummy Pav Bhaji Recipe" width="320" height="240" border="0" /></a>
   </p>
   
@@ -228,10 +228,10 @@ categories:
     </li>
   </ul>
   
-  <div style="clear: both; text-align: center;">
+  <p style="clear: both; text-align: center;">
   </p>
   
-  <div style="clear: both; text-align: center;">
+  <p style="clear: both; text-align: center;">
     <a style="margin-left: 1em; margin-right: 1em;" href="http://4.bp.blogspot.com/-bpiKafmjQUg/VajejyoPlYI/AAAAAAAAAX4/B3-_tAvH78U/s1600/1.jpg"><img title="Homemade yummy Pav Bhaji Recipe" src="http://4.bp.blogspot.com/-bpiKafmjQUg/VajejyoPlYI/AAAAAAAAAX4/B3-_tAvH78U/s1600/1.jpg" alt="Homemade yummy Pav Bhaji Recipe" border="0" /></a>
   </p>
   

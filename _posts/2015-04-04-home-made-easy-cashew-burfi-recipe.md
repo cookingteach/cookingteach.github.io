@@ -31,8 +31,8 @@ nt_review_total:
 categories:
   - Sweet Dish
 ---
-<div dir="ltr" style="text-align: left;">
-  <div style="clear: both; text-align: center;">
+<p dir="ltr" style="text-align: left;">
+  <p style="clear: both; text-align: center;">
     <a style="margin-left: 1em; margin-right: 1em;" href="http://2.bp.blogspot.com/-XKt2aLzCRno/VSAZk5fZAnI/AAAAAAAAANE/VXW5CDPww-Q/s1600/5d4aa9c8-8e9d-4988-8a62-2ec9a1e3663c.jpg"><img src="http://2.bp.blogspot.com/-XKt2aLzCRno/VSAZk5fZAnI/AAAAAAAAANE/VXW5CDPww-Q/s1600/5d4aa9c8-8e9d-4988-8a62-2ec9a1e3663c.jpg" alt="" width="320" height="239" border="0" /></a>
   </p>
   
@@ -40,7 +40,7 @@ categories:
     Homemade Easy Cashew Burfi Recipe
   </h2>
   
-  <div style="text-align: left;">
+  <p style="text-align: left;">
     <b>Cashew <a title="Barfi" href="http://en.wikipedia.org/wiki/Barfi" target="_blank" rel="wikipedia">burfi</a> </b>or <a title="Kaju Katli" href="http://en.wikipedia.org/wiki/Kaju_Katli" target="_blank" rel="wikipedia">kaju katli</a> is most famous<b> Indian</b> <a title="Dessert" href="http://en.wikipedia.org/wiki/Dessert" target="_blank" rel="wikipedia">sweet dish</a>.Its make with <a title="Cashew" href="http://en.wikipedia.org/wiki/Cashew" target="_blank" rel="wikipedia">cashew nuts</a>.It is very <b>easy</b> to make.Here a step by step procedure to make this sweet dish.
   </p>
   

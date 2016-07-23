@@ -31,26 +31,26 @@ nt_review_total:
 categories:
   - Desserts and Cakes
 ---
-<div dir="ltr" style="text-align: left;">
-  <div style="clear: both; text-align: center;">
+<p dir="ltr" style="text-align: left;">
+  <p style="clear: both; text-align: center;">
   </p>
   
-  <div style="clear: both; text-align: center;">
+  <p style="clear: both; text-align: center;">
     <a style="margin-left: 1em; margin-right: 1em;" href="http://1.bp.blogspot.com/-3oWrcuJ5qi0/VSFZJiBKvvI/AAAAAAAAANY/2T7fEv0IWlw/s1600/maxresdefault.jpg"><img src="http://1.bp.blogspot.com/-3oWrcuJ5qi0/VSFZJiBKvvI/AAAAAAAAANY/2T7fEv0IWlw/s1600/maxresdefault.jpg" alt="" width="320" height="180" border="0" /></a>
   </p>
   
-  <div style="text-align: left;">
+  <p style="text-align: left;">
     <u><span style="color: red;"> </span></u>
   </p>
   
-  <div style="text-align: left;">
+  <p style="text-align: left;">
     <b><a class="zem_slink" title="Gajar ka halwa" href="http://en.wikipedia.org/wiki/Gajar_ka_halwa" target="_blank" rel="wikipedia">Homemade Easy Gajar Ka Halwa</a></b>
   </p>
   
-  <div style="text-align: left;">
+  <p style="text-align: left;">
   </p>
   
-  <div style="text-align: left;">
+  <p style="text-align: left;">
     <b><a class="zem_slink" title="Gajar ka halwa" href="http://en.wikipedia.org/wiki/Gajar_ka_halwa" target="_blank" rel="wikipedia">Gajar Ka Halwa</a></b> is very tasty and famous <b>Indian</b> dish. Its is most;y famous all over.Here I<i> </i>used a both of <a class="zem_slink" title="Milk" href="http://en.wikipedia.org/wiki/Milk" target="_blank" rel="wikipedia">milk</a> and <a class="zem_slink" title="Khoa" href="http://en.wikipedia.org/wiki/Khoa" target="_blank" rel="wikipedia">khoya</a> to make this tasty <b>Dessert</b> dish. I have prepared it in a <b><a class="zem_slink" title="Microwave" href="http://en.wikipedia.org/wiki/Microwave" target="_blank" rel="wikipedia">microwave</a> </b>and a <b>pressure cooker</b>. Here a simple and easy steps to make it.
   </p>
   

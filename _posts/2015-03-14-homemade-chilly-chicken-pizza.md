@@ -31,11 +31,11 @@ nt_review_total:
 categories:
   - Non Vegetarian
 ---
-<div dir="ltr" style="text-align: left;">
-  <div style="clear: both; text-align: center;">
+<p dir="ltr" style="text-align: left;">
+  <p style="clear: both; text-align: center;">
   </p>
   
-  <div style="clear: both; text-align: center;">
+  <p style="clear: both; text-align: center;">
     <a style="margin-left: 1em; margin-right: 1em;" href="http://2.bp.blogspot.com/-qHrH_q1GaT0/VQRmpUQJvQI/AAAAAAAAAJE/k510oclAc-U/s1600/2.jpg"><img src="http://2.bp.blogspot.com/-qHrH_q1GaT0/VQRmpUQJvQI/AAAAAAAAAJE/k510oclAc-U/s1600/2.jpg" alt="" width="320" height="240" border="0" /></a>
   </p>
   
@@ -43,7 +43,7 @@ categories:
     Homemade Chilly Chicken Pizza
   </h2>
   
-  <div style="text-align: left;">
+  <p style="text-align: left;">
     <b>Chilly Chicken Pizza</b> is really very crispy and tasty.Its very special for all <b>non veg <a class="zem_slink" title="Pizza" href="http://en.wikipedia.org/wiki/Pizza" target="_blank" rel="wikipedia">pizza</a></b> lovers.Its very <b>easy</b> to make.You can make it at home and enjoy it.In this am using a <b>topping</b> of <a class="zem_slink" title="Chilli chicken" href="http://en.wikipedia.org/wiki/Chilli_chicken" target="_blank" rel="wikipedia">chilli chicken</a> for make it tasty.
   </p>
   

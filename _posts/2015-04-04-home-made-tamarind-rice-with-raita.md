@@ -31,12 +31,12 @@ nt_review_total:
 categories:
   - Rice
 ---
-<div dir="ltr" style="text-align: left;">
-  <div style="text-align: left;">
-    <div style="clear: both; text-align: center;">
+<p dir="ltr" style="text-align: left;">
+  <p style="text-align: left;">
+    <p style="clear: both; text-align: center;">
     </p>
     
-    <div style="clear: both; text-align: center;">
+    <p style="clear: both; text-align: center;">
       <a style="margin-left: 1em; margin-right: 1em;" href="http://2.bp.blogspot.com/-O_h7cG0B18Q/VSAODH9llaI/AAAAAAAAAM0/LSQl3L1CIb8/s1600/IMG_1416.JPG"><img src="http://2.bp.blogspot.com/-O_h7cG0B18Q/VSAODH9llaI/AAAAAAAAAM0/LSQl3L1CIb8/s1600/IMG_1416.JPG" alt="" width="320" height="213" border="0" /></a>
     </p>
     

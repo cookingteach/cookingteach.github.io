@@ -47,15 +47,15 @@ tags:
   - Bean
   - bell pepper
 ---
-<div dir="ltr" style="text-align: left;">
-  <div style="clear: both; text-align: center;">
+<p dir="ltr" style="text-align: left;">
+  <p style="clear: both; text-align: center;">
   </p>
   
   <h2>
     <span style="color: #990000; text-decoration: underline;">Easy Beans (<a class="zem_slink" title="Rajma" href="http://en.wikipedia.org/wiki/Rajma" target="_blank" rel="wikipedia">rajma</a>) Salad Recipe</span>
   </h2>
   
-  <div style="text-align: justify;">
+  <p style="text-align: justify;">
      Easy beans (rajma)  salad recipe is very healthy dish because in this we include <a title="Phaseolus vulgaris" href="http://en.wikipedia.org/wiki/Phaseolus_vulgaris" target="_blank" rel="wikipedia">red kidney beans</a> (red rajma), white kidney beans, beans and many other vegetables. Beans (rajma) is very popular Indian dish.To make it more rich you can also add a cheese in it because cheese is also a very healthy ingredients that make your recipe a more rich and healthy. In this recipe we firstly soaked rajma overnight and then boiled it, because it take less tym to boiled when we soaked it overnight .Here I give you a simple recipe and tip to make this rajma salad at home.To know more about rajma click on the link <a href="https://en.wikipedia.org/wiki/Rajma">https://en.wikipedia.org/wiki/Rajma</a>
   </p>
   

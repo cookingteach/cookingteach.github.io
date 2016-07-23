@@ -31,8 +31,8 @@ nt_review_total:
 categories:
   - snacks
 ---
-<div dir="ltr" style="text-align: left;">
-  <div style="clear: both; text-align: center;">
+<p dir="ltr" style="text-align: left;">
+  <p style="clear: both; text-align: center;">
     <a style="margin-left: 1em; margin-right: 1em;" href="http://1.bp.blogspot.com/-oIrUlNT5W9A/VOoJ96pKIpI/AAAAAAAAAF0/n2etN58OGDY/s1600/2.jpg"><img src="http://1.bp.blogspot.com/-oIrUlNT5W9A/VOoJ96pKIpI/AAAAAAAAAF0/n2etN58OGDY/s1600/2.jpg" alt="" width="400" height="266" border="0" /></a>
   </p>
   
@@ -40,7 +40,7 @@ categories:
     Homemade easy Chilli Potato recipe
   </h2>
   
-  <div style="text-align: left;">
+  <p style="text-align: left;">
     <b>Chilli <a class="zem_slink" title="Potato" href="http://en.wikipedia.org/wiki/Potato" target="_blank" rel="wikipedia">potato</a> </b>is  crispy and most likely <b>Chinese</b> dish which everyone like.You can enjoy it with <b>sauce</b> or <b>rice</b> or <b>noodles</b> also.It is very crispy dish filled with <b>snacks</b>.There are few easy steps to make dish crispy <b><a class="zem_slink" title="Chili pepper" href="http://en.wikipedia.org/wiki/Chili_pepper" target="_blank" rel="wikipedia">chilli</a> potato</b>.I hope you will like it.
   </p>
   
