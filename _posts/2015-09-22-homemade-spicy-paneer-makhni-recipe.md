@@ -5,6 +5,8 @@ date: 2015-09-22T11:46:00+00:00
 author: admin
 layout: post
 permalink: /homemade-spicy-paneer-makhni-recipe/
+redirect_from:
+- /2015/09/homemade-spicy-paneer-makhni-recipe.html
 categories:
   - Paneer
 tags:
