@@ -16,6 +16,8 @@ tags:
 
 Homemade easy chane ki sabzi recipe is famous [Punjabi](http://en.wikipedia.org/wiki/Punjabi_cuisine "Punjabi cuisine") dish.It is very tasty recipe and quick and easy to make.In this the main thing is a masala the more the masala rich and spicy more the recipe became tasty.Here I give you a simple recipe to make this chana masala sabzi.
 
+<a href="{{site.url}}/wp-content/uploads/2017/03/Chane-ki-Sabzi.jpg"><img class="aligncenter size-medium wp-image-29" src="{{site.url}}/wp-content/uploads/2017/03/Chane-ki-Sabzi-300x222.jpg" alt="Chane ki Sabzi" width="300" height="222" /></a>
+
 ## _<u><span style="color: red;">Ingredients:</span></u>_
 
 *   1 cup boiled <span style="color: blue;">chickpeas</span> (white chane or white [chole](http://en.wikipedia.org/wiki/Chole_bhature "Chole bhature"))

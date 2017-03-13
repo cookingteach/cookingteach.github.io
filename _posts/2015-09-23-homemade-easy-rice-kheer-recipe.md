@@ -19,6 +19,8 @@ tags:
 
 Homemade Easy <span style="color: #cc0000;">rice kheer recipe or [chawal](http://en.wikipedia.org/wiki/Rice "Rice") ki kheer recip</span><span style="color: #990000;">e</span> is famous <span style="color: #cc0000;">[Indian](http://en.wikipedia.org/wiki/Indian_cuisine "Indian cuisine") dessert</span> recipe.It is most popular kheer and is very easy and simple to make with very less time.Rice kheer is very simple easy dessert which you can serve also serve after meal and also make it at celebration time. Here I give you a simple method to make this tasty rice kheer or chawal kheer recipe at home
 
+<a href="{{site.url}}/wp-content/uploads/2017/03/Rice-Kheer.jpg"><img class="aligncenter size-medium wp-image-37" src="{{site.url}}/wp-content/uploads/2017/03/Rice-Kheer-300x296.jpg" alt="Rice-Kheer" width="300" height="296" /></a>
+
 ## _<u><span style="color: red;">Ingredients:</span></u>_
 
 *   1/4 cup <span style="color: blue;">rice</span> (chawal)

@@ -18,6 +18,8 @@ tags:
 
 homemade easy mashed Potato [Pizza](http://en.wikipedia.org/wiki/Pizza "Pizza") is [Italian](http://en.wikipedia.org/wiki/Italian_dressing "Italian dressing") recipe.It is very simple and quick.I this mashed potato pizza I topped it with olive and few capsicum.I used a [sauce](http://en.wikipedia.org/wiki/Sauce "Sauce") to make this mashed potato pizza.Here I give you some simple procedure to make this mashed potato pizza at home.Hope you enjoy this recipe.
 
+<a href="{{site.url}}/wp-content/uploads/2017/03/potato-pizza.jpg"><img class="aligncenter size-medium wp-image-35" src="{{site.url}}/wp-content/uploads/2017/03/potato-pizza.jpg" alt="potato pizza" width="228" height="176" /></a>
+
 ## _<u><span style="color: red;">Ingredients</span></u>_
 
 ### <span style="color: #274e13;">For [Sauce](http://en.wikipedia.org/wiki/Tomato_sauce "Tomato sauce")</span>

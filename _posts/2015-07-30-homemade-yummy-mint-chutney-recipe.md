@@ -16,6 +16,8 @@ tags:
 
 **Homemade Yummy Mint or Pudina Chutney** is very tasty, spicy and yummy Indian recipe. This usually is made of mint.It is very easy to make. In this I made two type of pudina [chutney](http://en.wikipedia.org/wiki/Chutney "Chutney") i.e by using [tamarind](http://en.wikipedia.org/wiki/Tamarind "Tamarind") [water](http://en.wikipedia.org/wiki/Water "Water") (imli ka pani) or without tamarind water. You can serve his chutney with snack like pakodda, samosa etc.
 
+<a href="{{site.url}}/wp-content/uploads/2017/03/mint-chutney.jpg"><img class="aligncenter size-medium wp-image-33" src="{{site.url}}/wp-content/uploads/2017/03/mint-chutney-300x227.jpg" alt="mint chutney" width="300" height="227" /></a>
+
 ## <span style="color: #274e13;">With Tamarind Water </span>
 
 ### _<u> <span style="color: red;">Ingredients:</span></u>_

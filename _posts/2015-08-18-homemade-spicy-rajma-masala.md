@@ -15,6 +15,8 @@ tags:
 
 Homemade spicy Rajma Masala is very famous Punjabi recipe.Its very easy to make and take very less time to prepare.In this I make this rajma masala in pan but you can also make it within cooker. The procedure is almost same. This is quick, easy and simple recipe.Here I give you a simple method to make a restaurant style rajma at home.
 
+<a href="{{site.url}}/wp-content/uploads/2017/03/Rajma.jpg"><img class="aligncenter size-medium wp-image-36" src="{{site.url}}/wp-content/uploads/2017/03/Rajma-300x225.jpg" alt="Rajma" width="300" height="225" /></a>
+
 ### _<u><span style="color: red;">Ingredients:</span></u>_
 
 *   1 cup <span style="color: blue;">soaked red rajma</span> (red kidney beans)

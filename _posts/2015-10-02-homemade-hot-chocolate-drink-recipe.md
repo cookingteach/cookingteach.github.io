@@ -17,6 +17,8 @@ tags:
 
 Homemade easy hot [chocolate](http://en.wikipedia.org/wiki/Chocolate "Chocolate") recipe is very tasty drink.It basically like a melted [chocolate](http://en.wikipedia.org/wiki/Chocolate "Chocolate") which is a kind of feeling of warmth in winters.Kids love this drink too.Its very easy and simple drink.Moreover chocolate is good for health.The hot chocolate you make at home is very rich, thick and good for health.Just one time make this drink at home, you simply love this drink.Here I give you some simple steps to make this drink at home.
 
+<a href="{{site.url}}/wp-content/uploads/2017/03/Hot-Chocolate-With-Cream.jpg"><img class="aligncenter size-medium wp-image-31" src="{{site.url}}/wp-content/uploads/2017/03/Hot-Chocolate-With-Cream-300x225.jpg" alt="Hot Chocolate With Cream" width="300" height="225" /></a>
+
 ## _<span style="text-decoration: underline;">**<span style="color: red;">Ingredients:</span>**</span>_
 
 *   400 ml <span style="color: blue;">[Milk](http://en.wikipedia.org/wiki/Coconut_milk "Coconut milk")</span>

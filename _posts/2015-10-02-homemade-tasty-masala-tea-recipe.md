@@ -16,6 +16,8 @@ tags:
 
 Homemade tasty masala Tea  recipe or masala chai recipe is a flavored tea which is made by using a many [Indian spices](http://en.wikipedia.org/wiki/List_of_Indian_spices "List of Indian spices") and herbs.So sometimes this is also called [spiced](http://en.wikipedia.org/wiki/Spice "Spice") [milk](http://en.wikipedia.org/wiki/Milk "Milk") tea or herbal tea.It is worldwide popular drink.It is a tradition drink which  is prepared by using [cloves](http://en.wikipedia.org/wiki/Clove "Clove"), [cinnamon stick](http://en.wikipedia.org/wiki/Cinnamon "Cinnamon"), [green cardamom](http://en.wikipedia.org/wiki/Elettaria "Elettaria"), blackpeppercorn and ginger.It gives a warmth felling in winters.Here I gave you a some simple steps to make this drink at home. To know more about masala tea or masala cahi follow the link:  [https://en.wikipedia.org/wiki/Masala_chai](https://en.wikipedia.org/wiki/Masala_chai)
 
+<a href="{{site.url}}/wp-content/uploads/2017/03/Masala-Tea.jpg"><img class="aligncenter size-medium wp-image-32" src="{{site.url}}/wp-content/uploads/2017/03/Masala-Tea-300x283.jpg" alt="Masala Tea" width="300" height="283" /></a>
+
 ## _<u><span style="color: red;">Ingredients:</span></u>_
 
 *   4 [cloves](http://en.wikipedia.org/wiki/Clove "Clove") (long)

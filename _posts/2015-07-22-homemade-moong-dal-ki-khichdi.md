@@ -15,6 +15,8 @@ tags:
 
 Homemade **Moong Dal ki Khichdi** is very tasty **healthy food**. It is very easy to make with very less time. You can also served it as a breakfast with curd or as it is. Here I give u a simple method to prepare this **[moong](http://en.wikipedia.org/wiki/Mung_bean "Mung bean") dal ki khichdi** at home.
 
+<a href="{{site.url}}/wp-content/uploads/2017/03/Moong-dal-ki-khichdi.jpg"><img class="aligncenter size-medium wp-image-34" src="{{site.url}}/wp-content/uploads/2017/03/Moong-dal-ki-khichdi.jpg" alt="Moong dal ki khichdi" width="240" height="152" /></a>
+
 1.  **<span style="color: red;">Using Microwave </span>**
 
 ###  <u>_<span style="color: #274e13;">Ingredients:</span>_</u>

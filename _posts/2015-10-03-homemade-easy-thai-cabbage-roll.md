@@ -17,6 +17,8 @@ tags:
 
 Homemade thai [cabbage roll](http://en.wikipedia.org/wiki/Cabbage_roll "Cabbage roll") is Thai recipe.It is very healthy recipe which is very simple and easy to make.It completely fill your appetizer. In this recipe we covered many [vegetables](http://en.wikipedia.org/wiki/Vegetable "Vegetable") with the [cabbage](http://en.wikipedia.org/wiki/Cabbage "Cabbage") [leaf](http://en.wikipedia.org/wiki/Leaf "Leaf") which look beautiful.Cabbage leaf are filed with baked ,streamed and simmered vegetables.I made a vegetable cabbage roll.You can also make a non-vegetarian cabbage roll by filled it with meat..Make this thai cabbage roll at home by following some easy steps.To know more about the cabbage roll visit the link [https://en.wikipedia.org/wiki/Cabbage_roll](https://en.wikipedia.org/wiki/Cabbage_roll)
 
+<a href="{{site.url}}/wp-content/uploads/2017/03/cabbage-role.jpg"><img class="aligncenter size-medium wp-image-28" src="{{site.url}}/wp-content/uploads/2017/03/cabbage-role-300x225.jpg" alt="cabbage role" width="300" height="225" /></a>
+
 ## <u>_<span style="color: red;">Ingredients</span>_<span style="color: red;">:</span></u>
 
 *   2-3 tbsp <span style="color: blue;">oil</span>
