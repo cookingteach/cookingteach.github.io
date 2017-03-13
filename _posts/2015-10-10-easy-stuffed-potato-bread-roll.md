@@ -12,7 +12,6 @@ tags:
   - Potato
 ---
 
-## ![](http://cookingteach.com/wp-content
   </h2>
 
   <h2>
