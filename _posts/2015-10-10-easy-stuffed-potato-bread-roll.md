@@ -12,10 +12,7 @@ tags:
   - Potato
 ---
 
-  </h2>
-
-  <h2>
-    <span style=)Easy Stuffed Potato [Bread roll](http://en.wikipedia.org/wiki/Bread_roll "Bread roll")
+Easy Stuffed Potato [Bread roll](http://en.wikipedia.org/wiki/Bread_roll "Bread roll")
 
 This recipe is very popular snack.In this we fill the [bread](http://en.wikipedia.org/wiki/Bread "Bread") slices with spicy potato masala and covered the side of bread.This snack is perfect appetizer.These bread roll are very crunchy from outside but soft from inside.Here I give you a simple recipe to make this stuffed potato bread roll.
 
