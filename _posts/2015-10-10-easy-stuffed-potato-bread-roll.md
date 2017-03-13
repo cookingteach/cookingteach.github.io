@@ -20,6 +20,8 @@ tags:
 
 This recipe is very popular snack.In this we fill the [bread](http://en.wikipedia.org/wiki/Bread "Bread") slices with spicy potato masala and covered the side of bread.This snack is perfect appetizer.These bread roll are very crunchy from outside but soft from inside.Here I give you a simple recipe to make this stuffed potato bread roll.
 
+<a href="{{site.url}}/wp-content/uploads/2017/03/Bread-roll.jpg"><img class="aligncenter size-medium wp-image-27" src="{{site.url}}/wp-content/uploads/2017/03/Bread-roll.jpg" alt="Bread roll" width="262" height="192" /></a>
+
 ## _<u><span style="color: red;">Ingredients:</span></u>_
 
 *   8 [bread](http://en.wikipedia.org/wiki/Bread "Bread") slices

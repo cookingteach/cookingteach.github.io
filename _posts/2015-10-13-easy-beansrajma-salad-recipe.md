@@ -16,6 +16,8 @@ tags:
 
  Easy beans (rajma)  salad recipe is very healthy dish because in this we include [red kidney beans](http://en.wikipedia.org/wiki/Phaseolus_vulgaris "Phaseolus vulgaris") (red rajma), white kidney beans, beans and many other vegetables. Beans (rajma) is very popular Indian dish.To make it more rich you can also add a cheese in it because cheese is also a very healthy ingredients that make your recipe a more rich and healthy. In this recipe we firstly soaked rajma overnight and then boiled it, because it take less tym to boiled when we soaked it overnight .Here I give you a simple recipe and tip to make this rajma salad at home.To know more about rajma click on the link [https://en.wikipedia.org/wiki/Rajma](https://en.wikipedia.org/wiki/Rajma)
 
+<a href="{{site.url}}/wp-content/uploads/2017/03/Beans-Salad.jpg"><img class="aligncenter size-medium wp-image-25" src="{{site.url}}/wp-content/uploads/2017/03/Beans-Salad-300x201.jpg" alt="Beans Salad" width="300" height="201" /></a>
+
 ## _<u><span style="color: red;">Ingredients:</span></u>_
 
 *   1 cup fine chopped <span style="color: blue;">roasted</span> [tomato](http://en.wikipedia.org/wiki/Tomato "Tomato") (bhuna huya tomato)

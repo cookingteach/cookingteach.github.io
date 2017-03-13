@@ -16,6 +16,8 @@ tags:
 
 Homemade easy beans tortillas is <span style="color: #990000;">Mexican recipe</span> which is generally a mixture of vegetables.Its very healthy recipe because it is full of vegetables.The main ingredient of this recipe is beans which is full of proteins and tortillas which is made by using a maize flour,maize flour have 15% iron which is good for health.So make this beans tortillas at home by following the below recipe steps and enjoy it.
 
+<a href="{{site.url}}/wp-content/uploads/2017/03/beans-tortillas.jpg"><img class="aligncenter size-medium wp-image-26" src="{{site.url}}/wp-content/uploads/2017/03/beans-tortillas-300x300.jpg" alt="beans tortillas" width="300" height="300" /></a>
+
 ## **<span style="color: red;">_<u>Ingredients:</u>_</span>**
 
 ### <span style="color: #38761d;">For stuffing</span>
