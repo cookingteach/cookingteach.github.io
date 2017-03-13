@@ -1,8 +1,8 @@
 # Site settings
 title: Cooking Teach
 description: All New Indian,South Indian and World wide HomeMade Recipes
-baseurl: "" 
-url: "http://cookingteach.com" 
+baseurl: ""
+url: "http://cookingteach.com"
 logo: '/assets/logo.png'
 # User settings
 username: Cooking Teach
@@ -17,7 +17,7 @@ disqus_username: cookingteach
 paginate: 6
 paginate_path: /page/:num/
 infinite_scroll: false
-gems: ["jekyll-paginate","jekyll-redirect-from"]
+#gems: ["jekyll-paginate","jekyll-redirect-from"]
 
 # Build settings
 markdown: kramdown
