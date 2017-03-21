@@ -27,9 +27,7 @@ categories:
 *   1 tbsp finely chopped <span style="color: blue;">coriander</span>(dhniya)
 *   <span style="color: blue;">oil</span>
 
-** <u>For [Marinade](http://en.wikipedia.org/wiki/Marination "Marination"):</u>**
-
-*   1 cup fresh <span style="color: blue;">curd</span>(dahi)
+*   1 cup fresh <span style="color: blue;">curd</span>(dahi)
 *   2 tbsp <span style="color: blue;">garlic paste</span>
 *   2 tbsp <span style="color: blue;">ginger paste</span>
 *   1/2 tbsp <span style="color: blue;">cornflour</span>
