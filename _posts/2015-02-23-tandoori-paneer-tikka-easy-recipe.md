@@ -8,6 +8,7 @@ guid: http://cookingteach.com/tandoori-paneer-tikka-easy-recipe/
 permalink: /tandoori-paneer-tikka-easy-recipe/
 categories:
   - Paneer
+
 ---
 
 [![](http://3.bp.blogspot.com/-E8XtwTNlEAE/VOrUs4GJtxI/AAAAAAAAAGE/3I11SDCVeok/s1600/4.JPG)](http://3.bp.blogspot.com/-E8XtwTNlEAE/VOrUs4GJtxI/AAAAAAAAAGE/3I11SDCVeok/s1600/4.JPG)
@@ -26,7 +27,7 @@ categories:
 *   1 tbsp finely chopped <span style="color: blue;">coriander</span>(dhniya)
 *   <span style="color: blue;">oil</span>
 
-**<u>For [Marinade](http://en.wikipedia.org/wiki/Marination "Marination"):</u>**
+** <u>For [Marinade](http://en.wikipedia.org/wiki/Marination "Marination"):</u>**
 
 *   1 cup fresh <span style="color: blue;">curd</span>(dahi)
 *   2 tbsp <span style="color: blue;">garlic paste</span>
