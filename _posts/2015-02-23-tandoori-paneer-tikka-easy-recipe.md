@@ -27,7 +27,7 @@ categories:
 *   1 tbsp finely chopped <span style="color: blue;">coriander</span>(dhniya)
 *   <span style="color: blue;">oil</span>
 
-** For Marinade :**
+## For Marinade :
 
 *   1 cup fresh <span style="color: blue;">curd</span>(dahi)
 *   2 tbsp <span style="color: blue;">garlic paste</span>
