@@ -13,7 +13,7 @@ tags:
   - Chickpea
 ---
 
-![chana chaat recipe](http://cookingteach.com/wp-content/uploads/2016/05/chana-chaat-recipe-300x200.jpg)
+![chana chaat recipe]({{site.url}}/wp-content/uploads/2016/05/chana-chaat-recipe-300x200.jpg)
 
 ## <span style="text-decoration: underline; color: #993366;">Homemade Easy Chana Chaat Recipe:</span>
 
