@@ -13,7 +13,7 @@ tags:
   - sweet dish
 ---
 
-## ![Aate Ka Halwa](http://cookingteach.com/wp-content/uploads/2015/08/halwa-1-300x225.jpg)
+![Aate Ka Halwa]({{site.url}}/wp-content/uploads/2015/08/halwa-1-300x225.jpg)
 
 ## <span style="text-decoration: underline;">Homemade Aate Ka [Halwa](http://en.wikipedia.org/wiki/Halva "Halva") [Recipe](http://en.wikipedia.org/wiki/Chocolate_cake "Chocolate cake")</span>
 
@@ -35,9 +35,9 @@ Homemade Aate ka Halwa recipe is famous [sweet dish](http://en.wikipedia.org/wik
 *   When it get roasted put it into a **tissue paper** or some plate.
 *   Now, add **aata** in this ghee and **cook** it till **light brown**. Stir continuously.
 
-![Homemade Aate Ka Halwa Recipe](http://cookingteach.com/wp-content/uploads/2015/08/2015-08-08-13.46.44-300x225.jpg)
+![Homemade Aate Ka Halwa Recipe]({{site.url}}/wp-content/uploads/2015/08/2015-08-08-13.46.44-300x225.jpg)
 
- ![Homemade Aate Ka Halwa Recipe](http://cookingteach.com/wp-content/uploads/2015/08/2015-08-08-13.53.49-300x225.jpg)
+ ![Homemade Aate Ka Halwa Recipe]({{site.url}}/wp-content/uploads/2015/08/2015-08-08-13.53.49-300x225.jpg)
 
 *   When wheat or aata became light brown then **add** a **sugar** in it.
 *   **Mix** well and cook it.
