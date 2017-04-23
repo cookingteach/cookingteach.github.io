@@ -9,7 +9,7 @@ categories:
   - Indian dish
 ---
 
-![Gatte ki Sabzi](http://cookingteach.com/wp-content/uploads/2015/10/Gatte-ki-Sabzi-300x212.jpg)
+![Gatte ki Sabzi]({{site.url}}/wp-content/uploads/2015/10/Gatte-ki-Sabzi-300x212.jpg)
 
 ## <span style="color: #660000; text-decoration: underline;">Homemade Easy Gatte Ki Sabzi Recipe:</span>
 
