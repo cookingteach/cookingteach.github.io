@@ -9,7 +9,7 @@ categories:
   - HEALTHY FOOD
 ---
 
-## ![Bread Toast](http://cookingteach.com/wp-content/uploads/2015/07/2015-04-11-16.44.28-300x225.jpg)
+![Bread Toast]({{site.url}}/wp-content/uploads/2015/07/2015-04-11-16.44.28-300x225.jpg)
 
 ## <span style="text-decoration: underline;">Homemade Yummy [Bread](http://en.wikipedia.org/wiki/Bread "Bread") [Toast](http://en.wikipedia.org/wiki/Toast "Toast")</span>
 
@@ -34,7 +34,7 @@ categories:
 *   After this **spread tomato** sauce on all bread.
 *   Now ,put mixed **vegetables** on two bread slice.
 
- ![Homemade Yummy Bread Toast Recipe](http://cookingteach.com/wp-content/uploads/2015/07/2015-04-11-16.40.49-300x225.jpg)
+ ![Homemade Yummy Bread Toast Recipe]({{site.url}}/wp-content/uploads/2015/07/2015-04-11-16.40.49-300x225.jpg)
 
 *   Now, finally **sprinkle** black pepper (kali mirch) and oregano or chilli fkakes on the bread to which we spread vegetables.
 *   Now put another **bread slice (**on which we spread only garlic cheese spread and tomato sauce) **over** this **bread** (to which we spread vegetables also).
