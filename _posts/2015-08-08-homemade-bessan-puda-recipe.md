@@ -13,7 +13,7 @@ tags:
   - mushrooms
 ---
 
-![Easy-Bessan-ka-puda](http://cookingteach.com/wp-content/uploads/2015/08/2015-08-05-17.08.58-1-300x225.jpg)
+![Easy-Bessan-ka-puda]({{site.url}}/wp-content/uploads/2015/08/2015-08-05-17.08.58-1-300x225.jpg)
 
 ## <span style="text-decoration: underline;">Homemade Bessan Puda Recipe</span>
 
@@ -47,12 +47,12 @@ tags:
 *   **Mix** it well.
 *   **Batter** is **ready**.
 
-![Easy-Bessan-ka-puda](http://cookingteach.com/wp-content/uploads/2015/08/2015-08-05-15.14.29-300x225.jpg)
+![Easy-Bessan-ka-puda]({{site.url}}/wp-content/uploads/2015/08/2015-08-05-15.14.29-300x225.jpg)
 
 *   Now take a **non stick tawa**, add some **oil** and heat it.
 *   Now **put** some **batter** on center of a **tawa**, spread this batter and **cook** it.
 
-![Easy-Bessan-ka-puda](http://cookingteach.com/wp-content/uploads/2015/08/2015-08-05-15.43.16-300x225.jpg)
+![Easy-Bessan-ka-puda]({{site.url}}/wp-content/uploads/2015/08/2015-08-05-15.43.16-300x225.jpg)
 
 *   When it cook at one side then **move** into **another side**. and cook it.
 *   When it cooked to both side means **bessan ka pudda** is ready.
