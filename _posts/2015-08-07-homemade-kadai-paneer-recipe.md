@@ -11,7 +11,7 @@ tags:
   - cheese
 ---
 
-![Homemade Kadai Paneer Recipe](http://cookingteach.com/wp-content/uploads/2015/08/2015-08-01-21.06.51-300x225.jpg)
+![Homemade Kadai Paneer Recipe]({{site.url}}/wp-content/uploads/2015/08/2015-08-01-21.06.51-300x225.jpg)
 
 ## <span style="text-decoration: underline;">Homemade [Kadai](http://en.wikipedia.org/wiki/Karahi "Karahi") [Paneer](http://en.wikipedia.org/wiki/Paneer "Paneer") Recipe</span>
 
@@ -61,7 +61,7 @@ Homemade **easy spicy kadai paneer** recipe is [Indian dish](http://en.wikipedia
 *   Now, **add onion** and fry it for 2-3 minutes and add **garlic ginger paste**. Cook it .
 *   **Add** finely chopped tomato, degi mirch, hari mirch and salt. **Cook** it for 2-3 minutes.
 
-![Homemade Kadai Paneer Recipe](http://cookingteach.com/wp-content/uploads/2015/08/2015-08-01-16.43.04-300x225.jpg)
+![Homemade Kadai Paneer Recipe]({{site.url}}/wp-content/uploads/2015/08/2015-08-01-16.43.04-300x225.jpg)
 
 *   Now, add **tomato puree** or ready-made tomato sauce and cook for 2 minutes.
 *   Add **1/2 cup water** and **cook** for 5-6 minutes to make a **gravy**.
@@ -69,7 +69,7 @@ Homemade **easy spicy kadai paneer** recipe is [Indian dish](http://en.wikipedia
 *   **Cook** it for 3-4 minutes.
 *   Now add **chopped tomato** and **kasoori methi**. Cook it for 2-3 minutes.
 
-![kadai paneer](http://cookingteach.com/wp-content/uploads/2015/08/2015-08-01-16.59.48-300x225.jpg)
+![kadai paneer]({{site.url}}/wp-content/uploads/2015/08/2015-08-01-16.59.48-300x225.jpg)
 
 *   **Garnish** it with grated paneer (cheese) or finely chopped **coriander leaves**.
 *   **Serve hot** with rice or roti.
