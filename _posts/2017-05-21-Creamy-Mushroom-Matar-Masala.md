@@ -11,6 +11,8 @@ tags:
   - Chickpea
 ---
 
+![Creamy Mushroom Matar Masala]({{site.url}}/wp-content/uploads/2017/05/Mushroom.jpg)
+
 <h1><strong><span style="color: #ff0000;">Creamy Mushroom Matar Masala</span></strong></h1>
 This mouthwatering creamy mushroom matar masala is great combination of Mushrooms (khumb) and <a class="zem_slink" title="Pea" href="http://en.wikipedia.org/wiki/Pea" target="_blank" rel="wikipedia noopener noreferrer">Peas</a> (matar) which are Cook together. Try this creamy Mushroom Matar recipe at home with our simple steps.
 <h2><span style="color: #339966;"><strong>Ingredients</strong></span></h2>
