@@ -34,6 +34,18 @@ This mouthwatering creamy mushroom matar masala is great combination of Mushroom
      <li>½ tbsp All Spices powder (<a class="zem_slink" title="Garam masala" href="http://en.wikipedia.org/wiki/Garam_masala" target="_blank" rel="wikipedia noopener noreferrer">Garam Masala</a>)</li>
      <li>½ tbsp <a class="zem_slink" title="Mustard seed" href="http://en.wikipedia.org/wiki/Mustard_seed" target="_blank" rel="wikipedia noopener noreferrer">Mustard seeds</a></li>
 </ul>
+
+<script async src="//pagead2.googlesyndication.com/pagead/js/adsbygoogle.js"></script>
+<!-- post -->
+<ins class="adsbygoogle"
+     style="display:block"
+     data-ad-client="ca-pub-8391089480493038"
+     data-ad-slot="4079886109"
+     data-ad-format="auto"></ins>
+<script>
+(adsbygoogle = window.adsbygoogle || []).push({});
+</script>
+
 <h3><span style="color: #339966;"><strong>For <a class="zem_slink" title="Garnish (food)" href="http://en.wikipedia.org/wiki/Garnish_%28food%29" target="_blank" rel="wikipedia noopener noreferrer">Garnish</a></strong></span></h3>
 <ul>
      <li>2 tbsp fresh coriander (dhniya) leaves-finely chopped</li>
