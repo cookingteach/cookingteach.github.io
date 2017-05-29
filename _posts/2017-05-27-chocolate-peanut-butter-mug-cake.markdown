@@ -37,6 +37,16 @@ Total time: 5 minutes
  	<li> 2 tbsp chocolate chips</li>
  	<li>2 tbsp chocolate sauce (optional)</li>
 </ul>
+<script async src="//pagead2.googlesyndication.com/pagead/js/adsbygoogle.js"></script>
+<!-- post -->
+<ins class="adsbygoogle"
+     style="display:block"
+     data-ad-client="ca-pub-8391089480493038"
+     data-ad-slot="4079886109"
+     data-ad-format="auto"></ins>
+<script>
+(adsbygoogle = window.adsbygoogle || []).push({});
+</script>
 <span style="font-size: 1rem; color: #339966;"><strong>Method:</strong></span>
 <ul>
  	<li>Firstly take a bowl, add whole wheat flour, all purpose flour, sugar, baking powder, cocoa powder.</li>
