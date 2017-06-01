@@ -4,7 +4,7 @@ title: "Chocolate Peanut Butter Mug Cake"
 date: "2017-05-27 11:20"
 author: admin
 categories:
-  - Desserts and cake
+  - Desserts and cakes
 tags:
   - cupcake
   - cake
