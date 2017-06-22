@@ -21,7 +21,7 @@ wp_review_bgcolor2:
 wp_review_bordercolor:
   - '#151515'
 categories:
-  - HEALTHY FOOD
+  - Sandwich
 tags:
   - bell pepper
   - capsicum
