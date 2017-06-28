@@ -18,6 +18,9 @@ description: Balushahi recipe is Indian sweet usually prepared on various festiv
 ---
 
 <h1><span style="color: #ff0000;"><strong>Homemade Traditional <a class="zem_slink" title="Balushahi" href="http://en.wikipedia.org/wiki/Balushahi" target="_blank" rel="wikipedia noopener noreferrer">Balushahi</a> Recipe</strong></span></h1>
+
+![Homemade Traditional Balushahi Recipe]({{site.img_url}}/2017/06/Balushahi-Recipe.jpg)
+
 Balushahi recipe is <a class="zem_slink" title="South Asian sweets" href="http://en.wikipedia.org/wiki/South_Asian_sweets" target="_blank" rel="wikipedia noopener noreferrer">Indian sweet</a> usually prepared on various festivals. This balushahi sweet dish is also popular in Nepal, Pakistan and Bangladesh. In South India there is another version of this called “Badushah”. Balushahi is simple and easy to prepare at home. Try this Balushahi recipe at home by following oursimple recipe steps.
 <h2><strong><span style="color: #339966;">Ingredients</span></strong></h2>
 <ul>
