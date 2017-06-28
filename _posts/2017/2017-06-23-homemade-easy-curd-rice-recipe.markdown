@@ -20,6 +20,8 @@ Curd rice recipe is one of the best and easiest recipes. You can eat this <a cla
 Preparation Time: 15 minutes
 
 Cooking Time: 2 minutes
+![Homemade Easy Curd Rice Recipe]({{site.img_url}}/2017/05/Curd-Rice-Recipe.png)
+
 <h2><span style="color: #339966;"><strong>Ingredients</strong></span></h2>
 <ul>
      <li>1 cup <a class="zem_slink" title="Rice" href="http://en.wikipedia.org/wiki/Rice" target="_blank" rel="wikipedia noopener noreferrer">boiled rice</a> (chawal)</li>
