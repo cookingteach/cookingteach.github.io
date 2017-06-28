@@ -7,11 +7,11 @@ layout: post
 categories:
   - Sweet dish
 tags: 
-	- Baking powder 
-	- Sugar
-	- sweet dish 
-	- all purpose flour 
-	- sugar syrup 
+  - Baking powder 
+  - Sugar
+  - sweet dish 
+  - all purpose flour 
+  - sugar syrup 
 description: Balushahi recipe is Indian sweet usually prepared on various festivals. Try this Balushai recipe at home with our simple recipe steps.
 
 
