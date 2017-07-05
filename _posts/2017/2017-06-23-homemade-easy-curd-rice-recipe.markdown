@@ -9,6 +9,7 @@ tags:
   - Rice
   - Green chilli
   - Chana daal
+image: https://cookingteach.com/wp-content/uploads//2017/05/Curd-Rice-Recipe.png
 
 description: Curd rice recipe is a good combination of curd and rice.You can eat this curd rice as a meal when you have fever or stomach infection.
 keywords: Homemade Easy Curd Rice Recipe
