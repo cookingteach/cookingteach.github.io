@@ -16,6 +16,7 @@ keywords: Homemade Spicy Corn Chaat Recipe
 ---
 <h1><span style="color: #ff0000;"><strong>Homemade Spicy Corn Chaat Recipe</strong></span></h1>
 <strong>Corn chaat</strong> recipe is one of the most delicious and instant to make recipe. Try this spicy corn chaat recipe at home with our simple step by step method.
+![Homemade Spicy Corn Chaat Recipe]({{site.img_url}}/2017/07/spicy-corn-chaat-recipe.jpg)
 <h2><span style="color: #339966;"><strong>Ingredients</strong></span></h2>
 <ul>
  	<li><span style="font-weight: 400;">160z frozen <a class="zem_slink" title="Corn kernel" href="http://en.wikipedia.org/wiki/Corn_kernel" target="_blank" rel="wikipedia noopener">corn kernels</a> (about 3 ½ cups)</span></li>
