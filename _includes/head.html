@@ -37,7 +37,7 @@
     {% if page.image %}
         <meta property="image" content="{{page.image }}">
     {% else %}
-
+        <meta property="image" content="{{ "/assets/img/blog-image.png" | prepend: site.baseurl | prepend: site.url }}">
     <!-- Favicon -->
     <link rel="shortcut icon" href="{{site.baseurl}}/assets/img/icons/favicon.ico" type="image/x-icon" />
     <!-- Apple Touch Icons -->
