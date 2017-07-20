@@ -20,6 +20,7 @@ keywords:
 ---
 <h1><span style="color: #ff0000;"><strong>Yummy Homemade <a class="zem_slink" title="Steaming" href="http://en.wikipedia.org/wiki/Steaming" target="_blank" rel="wikipedia noopener">Steamed</a> <a class="zem_slink" title="Dhokla" href="http://en.wikipedia.org/wiki/Dhokla" target="_blank" rel="wikipedia noopener">Dhokla</a> Recipe</strong></span></h1>
 Dhokla is most famous vegetarian recipe in <a class="zem_slink" title="Gujarat" href="http://en.wikipedia.org/wiki/Gujarat" target="_blank" rel="wikipedia noopener">Gujarat</a>. This steamed dhokla can be eaten for breakfast, as a snack or as a main course. Chickpea flour or <a class="zem_slink" title="Gram flour" href="http://en.wikipedia.org/wiki/Gram_flour" target="_blank" rel="wikipedia noopener">gram flour</a> or bessan is a main ingredient in this recipe. Learn how to make this yummy steamed dhokla recipe at home with our simple recipe steps.
+![Yummy Homemade Steamed Dhokla Recipe]({{site.img_url}}/2017/07/yummy-homemade-streamed-dhokla-recipe.jpg)
 <h2><span style="color: #339966;"><strong>Ingredients</strong></span></h2>
 <ul>
  	<li><span style="font-weight: 400;">1 cup gram flour (bessan or chickpea flour)</span></li>
