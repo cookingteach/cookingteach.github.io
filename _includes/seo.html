@@ -92,8 +92,7 @@
     "description": "{{ seo_description }}",
     "mainEntityOfPage": {
         "@context": "http://schema.org",
-        "@type": "WebPage",
-        "@id": {{ page.url | prepend: seo_url | replace:'/index.html','/' | jsonify }}
+        "@type": "WebPage"
     },
     "headline": "{{ page.title }}",
     "datepublished": "{{ page.date }}",
