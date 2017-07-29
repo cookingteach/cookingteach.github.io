@@ -1,13 +1,13 @@
 ---
-id: 65
 title: Home made Veggie Pizza
-date: 2015-02-25T17:39:00+00:00
+date: 2015-02-25 17:39:00 Z
+permalink: "/home-made-veggie-pizza/"
+categories:
+- snacks
+id: 65
 author: admin
 layout: post
 guid: http://cookingteach.com/home-made-veggie-pizza/
-permalink: /home-made-veggie-pizza/
-categories:
-  - snacks
 ---
 
 [![](http://1.bp.blogspot.com/-4lBfOA1KCdY/VO35PDl_EGI/AAAAAAAAAG8/krZ6cpysTaM/s1600/1.jpg)](http://1.bp.blogspot.com/-4lBfOA1KCdY/VO35PDl_EGI/AAAAAAAAAG8/krZ6cpysTaM/s1600/1.jpg)

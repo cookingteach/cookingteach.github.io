@@ -1,13 +1,13 @@
 ---
+title: Homemade Yummy  Keema Pulao Recipe
+date: 2015-05-03 17:39:00 Z
+permalink: "/homemade-yummy-keema-pulao-recipe/"
+categories:
+- Rice
 id: 33
-title: 'Homemade Yummy  Keema Pulao Recipe'
-date: 2015-05-03T17:39:00+00:00
 author: admin
 layout: post
 guid: http://cookingteach.com/homemade-yummy-keema-pulao-recipe/
-permalink: /homemade-yummy-keema-pulao-recipe/
-categories:
-  - Rice
 ---
 
 [![Homemade Yummy  Keema Pulao Recipe](http://1.bp.blogspot.com/-YMESq8PIGho/VUZUT0kVWwI/AAAAAAAAAUE/wy47rJl7ioM/s1600/dsc02484.jpg "Homemade Yummy  Keema Pulao Recipe")](http://1.bp.blogspot.com/-YMESq8PIGho/VUZUT0kVWwI/AAAAAAAAAUE/wy47rJl7ioM/s1600/dsc02484.jpg)

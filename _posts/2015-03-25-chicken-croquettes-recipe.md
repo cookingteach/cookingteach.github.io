@@ -1,13 +1,13 @@
 ---
-id: 52
 title: Easy Homemade Chicken Croquettes Recipe
-date: 2015-03-25T16:54:00+00:00
+date: 2015-03-25 16:54:00 Z
+permalink: "/chicken-croquettes-recipe/"
+categories:
+- Non Vegetarian
+id: 52
 author: admin
 layout: post
 guid: http://cookingteach.com/chicken-croquettes-recipe/
-permalink: /chicken-croquettes-recipe/
-categories:
-  - Non Vegetarian
 ---
 
 [![](http://4.bp.blogspot.com/-jeuHrx0Xxww/VRKlQTFBl5I/AAAAAAAAALU/GRVvmNw738I/s1600/croq2.jpg)](http://4.bp.blogspot.com/-jeuHrx0Xxww/VRKlQTFBl5I/AAAAAAAAALU/GRVvmNw738I/s1600/croq2.jpg)

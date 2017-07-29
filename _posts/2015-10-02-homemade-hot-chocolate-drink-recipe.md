@@ -1,16 +1,16 @@
 ---
-id: 16
 title: Homemade Hot Chocolate Drink Recipe
-date: 2015-10-02T11:22:00+00:00
+date: 2015-10-02 11:22:00 Z
+permalink: "/homemade-hot-chocolate-drink-recipe/"
+categories:
+- Soups and Drinks
+tags:
+- Chocolate
+- cocoa
+- cream
+id: 16
 author: admin
 layout: post
-permalink: /homemade-hot-chocolate-drink-recipe/
-categories:
-  - Soups and Drinks
-tags:
-  - Chocolate
-  - cocoa
-  - cream
 ---
 
 ## <span style="text-decoration: underline;"><span style="color: #cc0000; text-decoration: underline;">Homemade easy hot [chocolate](http://en.wikipedia.org/wiki/Chocolate "Chocolate") [drink](http://en.wikipedia.org/wiki/Drink "Drink") [recipe](http://en.wikipedia.org/wiki/Chocolate_cake "Chocolate cake")</span></span>

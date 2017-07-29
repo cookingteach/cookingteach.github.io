@@ -1,13 +1,13 @@
 ---
-id: 57
 title: Homemade Tomato Rasam Soup
-date: 2015-03-19T17:04:00+00:00
+date: 2015-03-19 17:04:00 Z
+permalink: "/tomato-rasam-soup/"
+categories:
+- Soups and Drinks
+id: 57
 author: admin
 layout: post
 guid: http://cookingteach.com/tomato-rasam-soup/
-permalink: /tomato-rasam-soup/
-categories:
-  - Soups and Drinks
 ---
 
 [![](http://3.bp.blogspot.com/-ZwOgeb5ZYqA/VQr1Ca1nRtI/AAAAAAAAAJs/qsRbdhH7Kck/s1600/IMG_7267.JPG)](http://3.bp.blogspot.com/-ZwOgeb5ZYqA/VQr1Ca1nRtI/AAAAAAAAAJs/qsRbdhH7Kck/s1600/IMG_7267.JPG)

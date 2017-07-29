@@ -1,13 +1,13 @@
 ---
-id: 26
 title: Homemade yummy Pav Bhaji Recipe
-date: 2015-07-17T11:42:00+00:00
+date: 2015-07-17 11:42:00 Z
+permalink: "/homemade-yummy-pav-bhaji-recipe/"
+categories:
+- Indian dish
+id: 26
 author: admin
 layout: post
 guid: http://cookingteach.com/homemade-yummy-pav-bhaji-recipe/
-permalink: /homemade-yummy-pav-bhaji-recipe/
-categories:
-  - Indian dish
 ---
 
 [![Homemade yummy Pav Bhaji Recipe](http://4.bp.blogspot.com/-7I-4WqaotTY/VajfkHHUPiI/AAAAAAAAAX8/gj-YO6zRTZU/s320/2.jpg "Homemade yummy Pav Bhaji Recipe")](http://4.bp.blogspot.com/-7I-4WqaotTY/VajfkHHUPiI/AAAAAAAAAX8/gj-YO6zRTZU/s1600/2.jpg)

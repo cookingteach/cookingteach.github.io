@@ -1,16 +1,16 @@
 ---
-id: 381
 title: Homemade Easy Chana Chaat Recipe
-date: 2016-05-02T20:47:26+00:00
+date: 2016-05-02 20:47:26 Z
+permalink: "/homemade-easy-chana-chaat-recipe/"
+categories:
+- HEALTHY FOOD
+tags:
+- Black pepper
+- Chickpea
+id: 381
 author: admin
 layout: post
 guid: http://cookingteach.com/?p=381
-permalink: /homemade-easy-chana-chaat-recipe/
-categories:
-  - HEALTHY FOOD
-tags:
-  - Black pepper
-  - Chickpea
 ---
 
 ![chana chaat recipe]({{site.url}}/wp-content/uploads/2016/05/chana-chaat-recipe-300x200.jpg)

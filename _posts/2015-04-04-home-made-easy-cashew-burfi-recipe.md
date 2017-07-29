@@ -1,13 +1,13 @@
 ---
-id: 46
 title: Homemade Easy Cashew Burfi Recipe
-date: 2015-04-04T17:52:00+00:00
+date: 2015-04-04 17:52:00 Z
+permalink: "/home-made-easy-cashew-burfi-recipe/"
+categories:
+- Sweet Dish
+id: 46
 author: admin
 layout: post
 guid: http://cookingteach.com/home-made-easy-cashew-burfi-recipe/
-permalink: /home-made-easy-cashew-burfi-recipe/
-categories:
-  - Sweet Dish
 ---
 
 [![](http://2.bp.blogspot.com/-XKt2aLzCRno/VSAZk5fZAnI/AAAAAAAAANE/VXW5CDPww-Q/s1600/5d4aa9c8-8e9d-4988-8a62-2ec9a1e3663c.jpg)](http://2.bp.blogspot.com/-XKt2aLzCRno/VSAZk5fZAnI/AAAAAAAAANE/VXW5CDPww-Q/s1600/5d4aa9c8-8e9d-4988-8a62-2ec9a1e3663c.jpg)

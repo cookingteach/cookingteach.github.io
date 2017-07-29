@@ -1,19 +1,20 @@
 ---
-layout: "post"
-title: "Homemade Spicy Corn Chaat Recipe"
-date: "2017-07-05 10:046"
-author: admin
+title: Homemade Spicy Corn Chaat Recipe
+date: 2017-07-05 10:46:00 Z
 categories:
-  - Snacks
+- Snacks
 tags:
-  - Bell pepper
-  - Black pepper
-  - Corn
-  - lemon juice
-
-description: Corn chaat recipe is easy to make in less time. Try this spicy corn chaat recipe at home with our simple step by step method.
+- Bell pepper
+- Black pepper
+- Corn
+- lemon juice
+layout: post
+author: admin
+description: Corn chaat recipe is easy to make in less time. Try this spicy corn chaat
+  recipe at home with our simple step by step method.
 keywords: Homemade Spicy Corn Chaat Recipe
 ---
+
 <h1><span style="color: #ff0000;"><strong>Homemade Spicy Corn Chaat Recipe</strong></span></h1>
 <strong>Corn chaat</strong> recipe is one of the most delicious and instant to make recipe. Try this spicy corn chaat recipe at home with our simple step by step method.
 ![Homemade Spicy Corn Chaat Recipe]({{site.img_url}}/2017/07/spicy-corn-chaat-recipe.jpg)

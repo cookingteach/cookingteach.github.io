@@ -1,13 +1,13 @@
 ---
-id: 41
 title: Homemade Lemon Rice Food Recipes
-date: 2015-04-11T18:43:00+00:00
+date: 2015-04-11 18:43:00 Z
+permalink: "/homemade-lemon-rice-food-recipes/"
+categories:
+- Rice
+id: 41
 author: admin
 layout: post
 guid: http://cookingteach.com/homemade-lemon-rice-food-recipes/
-permalink: /homemade-lemon-rice-food-recipes/
-categories:
-  - Rice
 ---
 
 [![lemon rice food recipes](http://1.bp.blogspot.com/-cpIp-6dNL1U/VSljJVwNN5I/AAAAAAAAAPA/k08MiURwegQ/s1600/lemon-rice-1024x905.jpg "lemon rice food recipes")](http://1.bp.blogspot.com/-cpIp-6dNL1U/VSljJVwNN5I/AAAAAAAAAPA/k08MiURwegQ/s1600/lemon-rice-1024x905.jpg)

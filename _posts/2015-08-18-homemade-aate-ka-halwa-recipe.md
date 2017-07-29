@@ -1,16 +1,16 @@
 ---
-id: 20
 title: Homemade Aate Ka Halwa Recipe
-date: 2015-08-18T15:00:00+00:00
+date: 2015-08-18 15:00:00 Z
+permalink: "/homemade-aate-ka-halwa-recipe/"
+categories:
+- Sweet Dish
+tags:
+- Aate
+- halwa
+- sweet dish
+id: 20
 author: admin
 layout: post
-permalink: /homemade-aate-ka-halwa-recipe/
-categories:
-  - Sweet Dish
-tags:
-  - Aate
-  - halwa
-  - sweet dish
 ---
 
 ![Aate Ka Halwa]({{site.url}}/wp-content/uploads/2015/08/halwa-1-300x225.jpg)

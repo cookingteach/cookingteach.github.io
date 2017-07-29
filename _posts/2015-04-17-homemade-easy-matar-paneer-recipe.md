@@ -1,13 +1,13 @@
 ---
-id: 38
 title: Homemade Easy Matar Paneer Recipe
-date: 2015-04-17T18:17:00+00:00
+date: 2015-04-17 18:17:00 Z
+permalink: "/homemade-easy-matar-paneer-recipe/"
+categories:
+- dry and semi dry
+id: 38
 author: admin
 layout: post
 guid: http://cookingteach.com/homemade-easy-matar-paneer-recipe/
-permalink: /homemade-easy-matar-paneer-recipe/
-categories:
-  - dry and semi dry
 ---
 
 [![Homemade Easy Matar Paneer Recipe](http://3.bp.blogspot.com/-m0-P-vYWbVs/Vh_emRGCIPI/AAAAAAAAAfM/WdfhZBbv4XM/s320/MP-2-e1304472875240.png "Homemade Easy Matar Paneer Recipe")](http://3.bp.blogspot.com/-m0-P-vYWbVs/Vh_emRGCIPI/AAAAAAAAAfM/WdfhZBbv4XM/s1600/MP-2-e1304472875240.png)

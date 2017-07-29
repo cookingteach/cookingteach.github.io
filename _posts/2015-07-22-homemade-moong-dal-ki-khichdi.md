@@ -1,14 +1,14 @@
 ---
-id: 25
 title: Homemade Moong Dal ki Khichdi
-date: 2015-07-22T11:39:00+00:00
+date: 2015-07-22 11:39:00 Z
+permalink: "/homemade-moong-dal-ki-khichdi/"
+categories:
+- HEALTHY FOOD
+tags:
+- curd
+id: 25
 author: admin
 layout: post
-permalink: /homemade-moong-dal-ki-khichdi/
-categories:
-  - HEALTHY FOOD
-tags:
-  - curd
 ---
 
 ## <span style="text-decoration: underline;">Homemade Moong Dal ki [Khichdi](http://en.wikipedia.org/wiki/Khichdi "Khichdi")</span>

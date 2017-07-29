@@ -1,13 +1,13 @@
 ---
-id: 36
 title: Homemade Tasty Spicy Subz Pullao
-date: 2015-04-28T18:02:00+00:00
+date: 2015-04-28 18:02:00 Z
+permalink: "/homemade-tasty-spicy-subz-pullao/"
+categories:
+- Rice
+id: 36
 author: admin
 layout: post
 guid: http://cookingteach.com/homemade-tasty-spicy-subz-pullao/
-permalink: /homemade-tasty-spicy-subz-pullao/
-categories:
-  - Rice
 ---
 
 [![Tasty Subz Pullao](http://2.bp.blogspot.com/-Z6uHI1eJ4-M/VT-8fRjUZJI/AAAAAAAAASs/XbB0_pqfCSM/s1600/fKkA0YBc8hgcMd-640m.jpg "Tasty Subz Pullao")](http://2.bp.blogspot.com/-Z6uHI1eJ4-M/VT-8fRjUZJI/AAAAAAAAASs/XbB0_pqfCSM/s1600/fKkA0YBc8hgcMd-640m.jpg)

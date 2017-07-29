@@ -1,13 +1,13 @@
 ---
-id: 58
 title: Homemade easy Pumpkin Rasmalai
-date: 2015-03-15T16:54:00+00:00
+date: 2015-03-15 16:54:00 Z
+permalink: "/homemade-easy-pumpkin-rasmalai/"
+categories:
+- Sweet Dish
+id: 58
 author: admin
 layout: post
 guid: http://cookingteach.com/homemade-easy-pumpkin-rasmalai/
-permalink: /homemade-easy-pumpkin-rasmalai/
-categories:
-  - Sweet Dish
 ---
 
 [![](http://4.bp.blogspot.com/-aZSEuKpBQEQ/VQWvhKTwDjI/AAAAAAAAAJY/tGZ15OSzE50/s1600/download.jpg)](http://4.bp.blogspot.com/-aZSEuKpBQEQ/VQWvhKTwDjI/AAAAAAAAAJY/tGZ15OSzE50/s1600/download.jpg)

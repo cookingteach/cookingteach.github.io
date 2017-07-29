@@ -1,13 +1,13 @@
 ---
-id: 35
 title: Homemade Spicy Aloo Methi Recipe
-date: 2015-04-29T17:52:00+00:00
+date: 2015-04-29 17:52:00 Z
+permalink: "/homemade-spicy-aloo-methi-recipe/"
+categories:
+- Indian dish
+id: 35
 author: admin
 layout: post
 guid: http://cookingteach.com/homemade-spicy-aloo-methi-recipe/
-permalink: /homemade-spicy-aloo-methi-recipe/
-categories:
-  - Indian dish
 ---
 
 [![Spicy Aloo Methi Recipe](http://3.bp.blogspot.com/-MtaLv_aVOKo/VUESnvidYDI/AAAAAAAAATI/sxZasU7i2gQ/s1600/aloo-methi.jpg "Spicy Aloo Methi Recipe")](http://3.bp.blogspot.com/-MtaLv_aVOKo/VUESnvidYDI/AAAAAAAAATI/sxZasU7i2gQ/s1600/aloo-methi.jpg)

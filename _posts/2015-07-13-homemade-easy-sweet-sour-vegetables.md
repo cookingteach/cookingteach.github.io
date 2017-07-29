@@ -1,13 +1,13 @@
 ---
+title: Homemade easy Sweet &#038; Sour Vegetables
+date: 2015-07-13 12:45:00 Z
+permalink: "/homemade-easy-sweet-sour-vegetables/"
+categories:
+- Chinese Thai and Continenetal
 id: 28
-title: 'Homemade easy Sweet &#038; Sour Vegetables'
-date: 2015-07-13T12:45:00+00:00
 author: admin
 layout: post
 guid: http://cookingteach.com/homemade-easy-sweet-sour-vegetables/
-permalink: /homemade-easy-sweet-sour-vegetables/
-categories:
-  - Chinese Thai and Continenetal
 ---
 
 [![Homemade easy Sweet & Sour Vegetables](http://2.bp.blogspot.com/-9Iu95x7CsK0/VaOrdHiP0kI/AAAAAAAAAXQ/70ludRiZ_6U/s320/4.jpg "Homemade easy Sweet & Sour Vegetables")](http://2.bp.blogspot.com/-9Iu95x7CsK0/VaOrdHiP0kI/AAAAAAAAAXQ/70ludRiZ_6U/s1600/4.jpg)

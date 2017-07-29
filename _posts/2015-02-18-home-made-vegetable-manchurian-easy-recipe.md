@@ -1,21 +1,21 @@
 ---
-id: 73
 title: Homemade Vegetable Manchurian Recipe
-date: 2015-02-18T15:41:00+00:00
+date: 2015-02-18 15:41:00 Z
+permalink: "/home-made-vegetable-manchurian-easy-recipe/"
+categories:
+- FAST FOOD
+id: 73
 author: admin
 layout: post
 guid: http://cookingteach.com/home-made-vegetable-manchurian-easy-recipe/
-permalink: /home-made-vegetable-manchurian-easy-recipe/
 mythemes-post-layout:
-  -
+- 
 mythemes-post-sidebar:
-  -
+- 
 blogger_blog:
-  - cookingteach1.blogspot.com
+- cookingteach1.blogspot.com
 blogger_author:
-  - Rup Saini
-categories:
-  - FAST FOOD
+- Rup Saini
 ---
 
 [![](http://3.bp.blogspot.com/-HMdpTUXBoaQ/VOa4ZKUvScI/AAAAAAAAAE0/1brpkW6MLHM/s1600/gobi-manchurian10CniM8J567b.jpg)](http://3.bp.blogspot.com/-HMdpTUXBoaQ/VOa4ZKUvScI/AAAAAAAAAE0/1brpkW6MLHM/s1600/gobi-manchurian10CniM8J567b.jpg)

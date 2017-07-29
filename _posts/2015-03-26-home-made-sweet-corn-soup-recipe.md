@@ -1,13 +1,13 @@
 ---
-id: 50
 title: Homemade Sweet Corn Soup Recipe
-date: 2015-03-26T16:37:00+00:00
+date: 2015-03-26 16:37:00 Z
+permalink: "/home-made-sweet-corn-soup-recipe/"
+categories:
+- Soups and Drinks
+id: 50
 author: admin
 layout: post
 guid: http://cookingteach.com/home-made-sweet-corn-soup-recipe/
-permalink: /home-made-sweet-corn-soup-recipe/
-categories:
-  - Soups and Drinks
 ---
 
 [![](http://1.bp.blogspot.com/-Q2xilIl9ZMM/VRQmdHoSO4I/AAAAAAAAAL8/PjKARjeMEGg/s1600/chickensoup.jpg)](http://1.bp.blogspot.com/-Q2xilIl9ZMM/VRQmdHoSO4I/AAAAAAAAAL8/PjKARjeMEGg/s1600/chickensoup.jpg)

@@ -1,23 +1,24 @@
 ---
-layout: "post"
-title: "Yummy Homemade Steamed Dhokla Recipe"
-date: "2017-07-20 10:046"
-author: admin
+title: Yummy Homemade Steamed Dhokla Recipe
+date: 2017-07-20 10:46:00 Z
 categories:
-  - Snacks
+- Snacks
 tags:
-  - dhokla
-  - gram flour
-  - baking powder
-  - mustard seeds
-
-description: Chickpea flour or gram flour is a main ingredient in steamed dhokla recipe recipe. How to make streamed dhokla recipe. Streamed Dhokla recipe in cooker.
-keywords: 
-  - Homemade streamed dhokla recipe
-  - streamed dhokla recipe 
-  - Streamed dhokla in cooker
-  - Dhokla recipe
+- dhokla
+- gram flour
+- baking powder
+- mustard seeds
+layout: post
+author: admin
+description: Chickpea flour or gram flour is a main ingredient in steamed dhokla recipe
+  recipe. How to make streamed dhokla recipe. Streamed Dhokla recipe in cooker.
+keywords:
+- Homemade streamed dhokla recipe
+- streamed dhokla recipe
+- Streamed dhokla in cooker
+- Dhokla recipe
 ---
+
 <h1><span style="color: #ff0000;"><strong>Yummy Homemade <a class="zem_slink" title="Steaming" href="http://en.wikipedia.org/wiki/Steaming" target="_blank" rel="wikipedia noopener">Steamed</a> <a class="zem_slink" title="Dhokla" href="http://en.wikipedia.org/wiki/Dhokla" target="_blank" rel="wikipedia noopener">Dhokla</a> Recipe</strong></span></h1>
 Dhokla is most famous vegetarian recipe in <a class="zem_slink" title="Gujarat" href="http://en.wikipedia.org/wiki/Gujarat" target="_blank" rel="wikipedia noopener">Gujarat</a>. This steamed dhokla can be eaten for breakfast, as a snack or as a main course. Chickpea flour or <a class="zem_slink" title="Gram flour" href="http://en.wikipedia.org/wiki/Gram_flour" target="_blank" rel="wikipedia noopener">gram flour</a> or bessan is a main ingredient in this recipe. Learn how to make this yummy steamed dhokla recipe at home with our simple recipe steps.
 ![Yummy Homemade Steamed Dhokla Recipe]({{site.img_url}}/2017/07/yummy-homemade-streamed-dhokla-recipe.jpg)

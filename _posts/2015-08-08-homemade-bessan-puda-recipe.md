@@ -1,16 +1,16 @@
 ---
-id: 21
 title: Homemade Bessan Puda Recipe
-date: 2015-08-08T12:05:00+00:00
+date: 2015-08-08 12:05:00 Z
+permalink: "/homemade-bessan-puda-recipe/"
+categories:
+- snacks
+tags:
+- bessan
+- capsicum
+- mushrooms
+id: 21
 author: admin
 layout: post
-permalink: /homemade-bessan-puda-recipe/
-categories:
-  - snacks
-tags:
-  - bessan
-  - capsicum
-  - mushrooms
 ---
 
 ![Easy-Bessan-ka-puda]({{site.url}}/wp-content/uploads/2015/08/2015-08-05-17.08.58-1-300x225.jpg)

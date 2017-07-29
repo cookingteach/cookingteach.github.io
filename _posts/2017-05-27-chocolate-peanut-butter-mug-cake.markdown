@@ -1,16 +1,17 @@
 ---
-layout: "post"
-title: "Chocolate Peanut Butter Mug Cake"
-date: "2017-05-27 11:20"
-author: admin
+title: Chocolate Peanut Butter Mug Cake
+date: 2017-05-27 11:20:00 Z
 categories:
-  - Desserts and cakes
+- Desserts and cakes
 tags:
-  - cupcake
-  - cake
-  - chocolate
-  - cocoa
-description: In chocolate peanut butter mug cake recipe you do not need a baking tray, Just one simple microwave safe coffee mug and some basic ingredients are enough
+- cupcake
+- cake
+- chocolate
+- cocoa
+layout: post
+author: admin
+description: In chocolate peanut butter mug cake recipe you do not need a baking tray,
+  Just one simple microwave safe coffee mug and some basic ingredients are enough
 keywords: Chocolate Peanut Butter Mug Cake
 ---
 

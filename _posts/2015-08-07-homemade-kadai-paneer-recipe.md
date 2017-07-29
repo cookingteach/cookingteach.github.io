@@ -1,14 +1,14 @@
 ---
-id: 22
 title: Homemade Kadai Paneer Recipe
-date: 2015-08-07T12:59:00+00:00
+date: 2015-08-07 12:59:00 Z
+permalink: "/homemade-kadai-paneer-recipe/"
+categories:
+- Paneer
+tags:
+- cheese
+id: 22
 author: admin
 layout: post
-permalink: /homemade-kadai-paneer-recipe/
-categories:
-  - Paneer
-tags:
-  - cheese
 ---
 
 ![Homemade Kadai Paneer Recipe]({{site.url}}/wp-content/uploads/2015/08/2015-08-01-21.06.51-300x225.jpg)

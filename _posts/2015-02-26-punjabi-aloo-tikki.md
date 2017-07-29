@@ -1,13 +1,13 @@
 ---
-id: 64
 title: Spicy Punjabi aloo tikki
-date: 2015-02-26T18:26:00+00:00
+date: 2015-02-26 18:26:00 Z
+permalink: "/punjabi-aloo-tikki/"
+categories:
+- Indian dish
+id: 64
 author: admin
 layout: post
 guid: http://cookingteach.com/punjabi-aloo-tikki/
-permalink: /punjabi-aloo-tikki/
-categories:
-  - Indian dish
 ---
 
 [![](http://2.bp.blogspot.com/-Yc_PLaShD6M/VO9WJ6pFOdI/AAAAAAAAAHQ/qjJhi13LB2U/s1600/2.jpg)](http://2.bp.blogspot.com/-Yc_PLaShD6M/VO9WJ6pFOdI/AAAAAAAAAHQ/qjJhi13LB2U/s1600/2.jpg)

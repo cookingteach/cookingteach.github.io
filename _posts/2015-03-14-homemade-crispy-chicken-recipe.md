@@ -1,13 +1,13 @@
 ---
-id: 60
 title: Homemade Crispy Chicken recipe
-date: 2015-03-14T12:40:00+00:00
+date: 2015-03-14 12:40:00 Z
+permalink: "/homemade-crispy-chicken-recipe/"
+categories:
+- Non Vegetarian
+id: 60
 author: admin
 layout: post
 guid: http://cookingteach.com/homemade-crispy-chicken-recipe/
-permalink: /homemade-crispy-chicken-recipe/
-categories:
-  - Non Vegetarian
 ---
 
 [![](http://4.bp.blogspot.com/-31KiDtj4SDc/VQQc2L7jejI/AAAAAAAAAI0/rttIY_vTHEM/s1600/1.jpg)](http://4.bp.blogspot.com/-31KiDtj4SDc/VQQc2L7jejI/AAAAAAAAAI0/rttIY_vTHEM/s1600/1.jpg)

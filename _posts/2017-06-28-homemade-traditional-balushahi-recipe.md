@@ -1,20 +1,18 @@
 ---
-
 title: Homemade Traditional Balushahi Recipe
-date: 2017-06-28T15:41:00+00:00
+date: 2017-06-28 15:41:00 Z
+categories:
+- Sweet dish
+tags:
+- Baking powder
+- Sugar
+- sweet dish
+- all purpose flour
+- sugar syrup
 author: admin
 layout: post
-categories:
-  - Sweet dish
-tags: 
-  - Baking powder 
-  - Sugar
-  - sweet dish 
-  - all purpose flour 
-  - sugar syrup 
-description: Balushahi recipe is Indian sweet usually prepared on various festivals. Try this Balushai recipe at home with our simple recipe steps.
-
-
+description: Balushahi recipe is Indian sweet usually prepared on various festivals.
+  Try this Balushai recipe at home with our simple recipe steps.
 ---
 
 <h1><span style="color: #ff0000;"><strong>Homemade Traditional <a class="zem_slink" title="Balushahi" href="http://en.wikipedia.org/wiki/Balushahi" target="_blank" rel="wikipedia noopener noreferrer">Balushahi</a> Recipe</strong></span></h1>

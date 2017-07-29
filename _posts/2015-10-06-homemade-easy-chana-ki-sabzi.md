@@ -1,15 +1,15 @@
 ---
-id: 9
 title: Homemade Easy Chana ki Sabzi
-date: 2015-10-06T10:47:00+00:00
+date: 2015-10-06 10:47:00 Z
+permalink: "/homemade-easy-chana-ki-sabzi/"
+categories:
+- dry and semi dry
+tags:
+- Chickpea
+- Coriander
+id: 9
 author: admin
 layout: post
-permalink: /homemade-easy-chana-ki-sabzi/
-categories:
-  - dry and semi dry
-tags:
-  - Chickpea
-  - Coriander
 ---
 
 ## <span style="color: #990000; text-decoration: underline;">**Homemade Easy Chane (chickpeas) Ki Sabzi**</span>

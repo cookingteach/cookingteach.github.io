@@ -1,15 +1,15 @@
 ---
-id: 13
 title: Homemade Easy Beans Tortillas
-date: 2015-10-03T09:56:00+00:00
+date: 2015-10-03 09:56:00 Z
+permalink: "/homemade-easy-beans-tortillas/"
+categories:
+- HEALTHY FOOD
+tags:
+- Bean
+- maize flour
+id: 13
 author: admin
 layout: post
-permalink: /homemade-easy-beans-tortillas/
-categories:
-  - HEALTHY FOOD
-tags:
-  - Bean
-  - maize flour
 ---
 
 ## <span style="color: #cc0000; text-decoration: underline;">**Homemade Easy Beans [Tortillas](http://en.wikipedia.org/wiki/Tortilla "Tortilla") recipe**</span>

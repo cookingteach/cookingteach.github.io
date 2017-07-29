@@ -1,13 +1,13 @@
 ---
-id: 56
 title: Homemade Instant Khaman Dhokla
-date: 2015-03-20T17:22:00+00:00
+date: 2015-03-20 17:22:00 Z
+permalink: "/home-made-instant-khaman-dhokla/"
+categories:
+- snacks
+id: 56
 author: admin
 layout: post
 guid: http://cookingteach.com/home-made-instant-khaman-dhokla/
-permalink: /home-made-instant-khaman-dhokla/
-categories:
-  - snacks
 ---
 
 [![](http://1.bp.blogspot.com/-J5QC7ydQkf4/VQxMcA0Pe8I/AAAAAAAAAKA/XzDep3Uhae8/s1600/download.jpg)](http://1.bp.blogspot.com/-J5QC7ydQkf4/VQxMcA0Pe8I/AAAAAAAAAKA/XzDep3Uhae8/s1600/download.jpg)

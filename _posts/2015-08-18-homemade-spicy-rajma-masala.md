@@ -1,14 +1,14 @@
 ---
-id: 19
 title: Homemade Spicy Rajma Masala
-date: 2015-08-18T15:03:00+00:00
+date: 2015-08-18 15:03:00 Z
+permalink: "/homemade-spicy-rajma-masala/"
+categories:
+- dry and semi dry
+tags:
+- Coriander
+id: 19
 author: admin
 layout: post
-permalink: /homemade-spicy-rajma-masala/
-categories:
-  - dry and semi dry
-tags:
-  - Coriander
 ---
 
 ## <span style="text-decoration: underline;">Homemade Spicy [Rajma](http://en.wikipedia.org/wiki/Rajma "Rajma") Masala:</span>

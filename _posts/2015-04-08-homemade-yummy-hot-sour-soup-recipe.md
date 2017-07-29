@@ -1,13 +1,13 @@
 ---
+title: Homemade Yummy Hot &#038; Sour Soup Recipe
+date: 2015-04-08 17:57:00 Z
+permalink: "/homemade-yummy-hot-sour-soup-recipe/"
+categories:
+- Soups and Drinks
 id: 43
-title: 'Homemade Yummy Hot &#038; Sour Soup Recipe'
-date: 2015-04-08T17:57:00+00:00
 author: admin
 layout: post
 guid: http://cookingteach.com/homemade-yummy-hot-sour-soup-recipe/
-permalink: /homemade-yummy-hot-sour-soup-recipe/
-categories:
-  - Soups and Drinks
 ---
 
 [![](http://2.bp.blogspot.com/-pL-st9cKtNE/VSVWppYTfqI/AAAAAAAAAOA/tiAtfRbeQvc/s1600/recipe338-400w.jpg)](http://2.bp.blogspot.com/-pL-st9cKtNE/VSVWppYTfqI/AAAAAAAAAOA/tiAtfRbeQvc/s1600/recipe338-400w.jpg)

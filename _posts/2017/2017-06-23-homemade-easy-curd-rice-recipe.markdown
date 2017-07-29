@@ -1,17 +1,17 @@
 ---
-layout: "post"
-title: "Homemade Easy Curd Rice Recipe"
-date: "2017-06-23 00:04"
-author: admin
+title: Homemade Easy Curd Rice Recipe
+date: 2017-06-23 00:04:00 Z
 categories:
-  - Rice
+- Rice
 tags:
-  - Rice
-  - Green chilli
-  - Chana daal
+- Rice
+- Green chilli
+- Chana daal
+layout: post
+author: admin
 image: https://cookingteach.com/wp-content/uploads/2017/05/Curd-Rice-Recipe.png
-
-description: Curd rice recipe is a good combination of curd and rice.You can eat this curd rice as a meal when you have fever or stomach infection.
+description: Curd rice recipe is a good combination of curd and rice.You can eat this
+  curd rice as a meal when you have fever or stomach infection.
 keywords: Homemade Easy Curd Rice Recipe
 ---
 

@@ -1,21 +1,21 @@
 ---
-id: 69
 title: Homemade easy Chilli Potato recipe
-date: 2015-02-22T17:43:00+00:00
+date: 2015-02-22 17:43:00 Z
+permalink: "/home-made-easy-chilli-potato-recipe/"
+categories:
+- snacks
+id: 69
 author: admin
 layout: post
 guid: http://cookingteach.com/home-made-easy-chilli-potato-recipe/
-permalink: /home-made-easy-chilli-potato-recipe/
 mythemes-post-layout:
-  -
+- 
 mythemes-post-sidebar:
-  -
+- 
 blogger_blog:
-  - cookingteach1.blogspot.com
+- cookingteach1.blogspot.com
 blogger_author:
-  - Rup Saini
-categories:
-  - snacks
+- Rup Saini
 ---
 
 [![](http://1.bp.blogspot.com/-oIrUlNT5W9A/VOoJ96pKIpI/AAAAAAAAAF0/n2etN58OGDY/s1600/2.jpg)](http://1.bp.blogspot.com/-oIrUlNT5W9A/VOoJ96pKIpI/AAAAAAAAAF0/n2etN58OGDY/s1600/2.jpg)

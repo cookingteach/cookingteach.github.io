@@ -1,13 +1,13 @@
 ---
-id: 53
 title: Easy Eggless Chocolate Cake
-date: 2015-03-22T18:13:00+00:00
+date: 2015-03-22 18:13:00 Z
+permalink: "/eggless-chocolate-cake/"
+categories:
+- Desserts and Cakes
+id: 53
 author: admin
 layout: post
 guid: http://cookingteach.com/eggless-chocolate-cake/
-permalink: /eggless-chocolate-cake/
-categories:
-  - Desserts and Cakes
 ---
 
 [![](http://3.bp.blogspot.com/-tXTTDx4Dw9Y/VQ77Zmc-3XI/AAAAAAAAAK4/imTT6o-KINw/s1600/13f80_Chocolate%2BWalnut%2BCake%2Bwith%2BTruffle%2BIcing%2B2.jpg)](http://3.bp.blogspot.com/-tXTTDx4Dw9Y/VQ77Zmc-3XI/AAAAAAAAAK4/imTT6o-KINw/s1600/13f80_Chocolate%2BWalnut%2BCake%2Bwith%2BTruffle%2BIcing%2B2.jpg)

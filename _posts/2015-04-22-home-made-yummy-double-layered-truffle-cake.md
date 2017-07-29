@@ -1,13 +1,13 @@
 ---
-id: 37
 title: Yummy Double-layered truffle Cake
-date: 2015-04-22T16:47:00+00:00
+date: 2015-04-22 16:47:00 Z
+permalink: "/home-made-yummy-double-layered-truffle-cake/"
+categories:
+- Desserts and Cakes
+id: 37
 author: admin
 layout: post
 guid: http://cookingteach.com/home-made-yummy-double-layered-truffle-cake/
-permalink: /home-made-yummy-double-layered-truffle-cake/
-categories:
-  - Desserts and Cakes
 ---
 
 [![Double-layered truffle Cake](http://1.bp.blogspot.com/-Lo0WW6S54AQ/VTfEhhzOiZI/AAAAAAAAARk/j5jL9UiZyCs/s1600/1264350501-0.jpg "Double-layered truffle Cake")](http://1.bp.blogspot.com/-Lo0WW6S54AQ/VTfEhhzOiZI/AAAAAAAAARk/j5jL9UiZyCs/s1600/1264350501-0.jpg)

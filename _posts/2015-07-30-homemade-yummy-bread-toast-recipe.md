@@ -1,12 +1,12 @@
 ---
-id: 23
 title: Homemade Yummy Bread Toast Recipe
-date: 2015-07-30T13:08:00+00:00
+date: 2015-07-30 13:08:00 Z
+permalink: "/homemade-yummy-bread-toast-recipe/"
+categories:
+- HEALTHY FOOD
+id: 23
 author: admin
 layout: post
-permalink: /homemade-yummy-bread-toast-recipe/
-categories:
-  - HEALTHY FOOD
 ---
 
 ![Bread Toast]({{site.url}}/wp-content/uploads/2015/07/2015-04-11-16.44.28-300x225.jpg)

@@ -1,13 +1,13 @@
 ---
-id: 29
 title: Homemade Yummy Penne Al Norma
-date: 2015-05-31T17:26:00+00:00
+date: 2015-05-31 17:26:00 Z
+permalink: "/homemade-yummy-penne-al-norma/"
+categories:
+- Chinese Thai and Continenetal
+id: 29
 author: admin
 layout: post
 guid: http://cookingteach.com/homemade-yummy-penne-al-norma/
-permalink: /homemade-yummy-penne-al-norma/
-categories:
-  - Chinese Thai and Continenetal
 ---
 
 [![Homemade Yummy Penne Al Norma](http://4.bp.blogspot.com/-0TQRcHV9uII/VWsGKcH8BDI/AAAAAAAAAWM/QPJh_djU2wM/s320/DSC_3461_Penne_alla_Norma-7.jpg "Homemade Yummy Penne Al Norma")](http://4.bp.blogspot.com/-0TQRcHV9uII/VWsGKcH8BDI/AAAAAAAAAWM/QPJh_djU2wM/s1600/DSC_3461_Penne_alla_Norma-7.jpg)

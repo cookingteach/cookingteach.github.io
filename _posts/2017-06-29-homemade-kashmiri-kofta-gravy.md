@@ -1,21 +1,20 @@
 ---
-
 title: Homemade Kashmiri kofta Gravy
-date: 2017-06-29T15:41:00+00:00
+date: 2017-06-29 15:41:00 Z
+categories:
+- Non vegetarian
+tags:
+- Chicken
+- Egg
+- Bread
+- Black pepper
+- Yogurt
 author: admin
 layout: post
-categories:
-  - Non vegetarian
-tags: 
-  - Chicken
-  - Egg
-  - Bread 
-  - Black pepper 
-  - Yogurt 
-description: Kashmiri Kofta Gravy recipe is rich in taste, made by making a meat balls of minced chicken. Try this kashmiri kofta gravy recipe at home.
-
-
+description: Kashmiri Kofta Gravy recipe is rich in taste, made by making a meat balls
+  of minced chicken. Try this kashmiri kofta gravy recipe at home.
 ---
+
 <h1><span style="color: #ff0000;"><strong>Homemade Kashmiri <a class="zem_slink" title="Kofta" href="http://en.wikipedia.org/wiki/Kofta" target="_blank" rel="wikipedia noopener">kofta</a> Gravy</strong></span></h1>
 Kashmiri Kofta Gravy recipe is rich in taste, made by making a <a class="zem_slink" title="Meatball" href="http://en.wikipedia.org/wiki/Meatball" target="_blank" rel="wikipedia noopener">meat balls</a> of minced chicken. Try this kashmiri kofta gravy recipe at home. Hope you all will love it.
 ![Homemade Kashmiri kofta Gravy]({{site.img_url}}/2017/06/kashmiri-kofta-gravy.jpg)

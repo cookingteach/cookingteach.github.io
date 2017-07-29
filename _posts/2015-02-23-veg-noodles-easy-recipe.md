@@ -1,13 +1,13 @@
 ---
-id: 67
 title: Homemade Veg Noodles easy recipe
-date: 2015-02-23T16:42:00+00:00
+date: 2015-02-23 16:42:00 Z
+permalink: "/veg-noodles-easy-recipe/"
+categories:
+- FAST FOOD
+id: 67
 author: admin
 layout: post
 guid: http://cookingteach.com/veg-noodles-easy-recipe/
-permalink: /veg-noodles-easy-recipe/
-categories:
-  - FAST FOOD
 ---
 
 [![](http://2.bp.blogspot.com/-3Ztyj2GqIjs/VOtNzIc3SGI/AAAAAAAAAGU/8cdK1pitn4c/s1600/2.jpg)](http://2.bp.blogspot.com/-3Ztyj2GqIjs/VOtNzIc3SGI/AAAAAAAAAGU/8cdK1pitn4c/s1600/2.jpg)

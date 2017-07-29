@@ -1,13 +1,13 @@
 ---
-id: 30
 title: Homemade Pasta in Quick Tomato Sauce
-date: 2015-05-31T13:10:00+00:00
+date: 2015-05-31 13:10:00 Z
+permalink: "/homemade-pasta-in-quick-tomato-sauce/"
+categories:
+- Chinese Thai and Continenetal
+id: 30
 author: admin
 layout: post
 guid: http://cookingteach.com/homemade-pasta-in-quick-tomato-sauce/
-permalink: /homemade-pasta-in-quick-tomato-sauce/
-categories:
-  - Chinese Thai and Continenetal
 ---
 
 [![Homemade Pasta in Quick Tomato Sauce](http://3.bp.blogspot.com/-pCzP4XSQDMQ/VWq-Fnyx4WI/AAAAAAAAAV8/RpkpJHR0y9Q/s320/20140223-vegan-pasta-dried-tomato-olive-bread-crumb-recipe-12-thumb-625xauto-385519.jpg "Homemade Pasta in Quick Tomato Sauce")](http://3.bp.blogspot.com/-pCzP4XSQDMQ/VWq-Fnyx4WI/AAAAAAAAAV8/RpkpJHR0y9Q/s1600/20140223-vegan-pasta-dried-tomato-olive-bread-crumb-recipe-12-thumb-625xauto-385519.jpg)

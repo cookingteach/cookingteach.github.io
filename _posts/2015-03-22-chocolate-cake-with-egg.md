@@ -1,13 +1,13 @@
 ---
-id: 54
 title: Easy Chocolate Cake with Egg
-date: 2015-03-22T17:25:00+00:00
+date: 2015-03-22 17:25:00 Z
+permalink: "/chocolate-cake-with-egg/"
+categories:
+- Non Vegetarian
+id: 54
 author: admin
 layout: post
 guid: http://cookingteach.com/chocolate-cake-with-egg/
-permalink: /chocolate-cake-with-egg/
-categories:
-  - Non Vegetarian
 ---
 
 [![](http://4.bp.blogspot.com/-aN6Tb_DOkkQ/VQ7sJXJqJ3I/AAAAAAAAAKo/k1Gy3LDOaY0/s1600/EGG_CAKES_EGG_CAKES_choco_walnut_cake.jpg)](http://4.bp.blogspot.com/-aN6Tb_DOkkQ/VQ7sJXJqJ3I/AAAAAAAAAKo/k1Gy3LDOaY0/s1600/EGG_CAKES_EGG_CAKES_choco_walnut_cake.jpg)

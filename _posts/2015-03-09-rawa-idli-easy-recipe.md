@@ -1,13 +1,13 @@
 ---
-id: 62
 title: Homemade easy rawa Idli recipe
-date: 2015-03-09T17:41:00+00:00
+date: 2015-03-09 17:41:00 Z
+permalink: "/rawa-idli-easy-recipe/"
+categories:
+- HEALTHY FOOD
+id: 62
 author: admin
 layout: post
 guid: http://cookingteach.com/rawa-idli-easy-recipe/
-permalink: /rawa-idli-easy-recipe/
-categories:
-  - HEALTHY FOOD
 ---
 
 [![](http://1.bp.blogspot.com/-tw-a49AbYyU/VP3Qh7abxUI/AAAAAAAAAIM/vzFctrxt7tQ/s1600/Rawa%2BIdli%2BRecipe.jpg)](http://1.bp.blogspot.com/-tw-a49AbYyU/VP3Qh7abxUI/AAAAAAAAAIM/vzFctrxt7tQ/s1600/Rawa%2BIdli%2BRecipe.jpg)

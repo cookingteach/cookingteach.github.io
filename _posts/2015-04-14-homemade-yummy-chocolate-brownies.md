@@ -1,13 +1,13 @@
 ---
-id: 40
 title: homemade Yummy Chocolate Brownies
-date: 2015-04-14T18:13:00+00:00
+date: 2015-04-14 18:13:00 Z
+permalink: "/homemade-yummy-chocolate-brownies/"
+categories:
+- Desserts and Cakes
+id: 40
 author: admin
 layout: post
 guid: http://cookingteach.com/homemade-yummy-chocolate-brownies/
-permalink: /homemade-yummy-chocolate-brownies/
-categories:
-  - Desserts and Cakes
 ---
 
 [![yummy chocolate brownies](http://3.bp.blogspot.com/-4C6m-0gqsOY/VS1Ovl_DPmI/AAAAAAAAAPU/guT1deRcghA/s1600/1383807047.jpg "yummy chocolate brownies")](http://3.bp.blogspot.com/-4C6m-0gqsOY/VS1Ovl_DPmI/AAAAAAAAAPU/guT1deRcghA/s1600/1383807047.jpg)

@@ -1,13 +1,13 @@
 ---
-id: 31
 title: Homemade Easy vermicelli Kheer
-date: 2015-05-11T17:15:00+00:00
+date: 2015-05-11 17:15:00 Z
+permalink: "/homemade-easy-vermicelli-kheer/"
+categories:
+- Sweet Dish
+id: 31
 author: admin
 layout: post
 guid: http://cookingteach.com/homemade-easy-vermicelli-kheer/
-permalink: /homemade-easy-vermicelli-kheer/
-categories:
-  - Sweet Dish
 ---
 
 [![Homemade Easy vermicelli Kheer](http://4.bp.blogspot.com/-BkA7SLkWwQc/VVDbmq87AxI/AAAAAAAAAVM/1I2dLThd2No/s320/hqdefault.jpg "Homemade Easy vermicelli Kheer")](http://4.bp.blogspot.com/-BkA7SLkWwQc/VVDbmq87AxI/AAAAAAAAAVM/1I2dLThd2No/s1600/hqdefault.jpg)

@@ -1,15 +1,15 @@
 ---
-id: 8
 title: Easy Stuffed potato Bread Roll
-date: 2015-10-10T07:50:00+00:00
+date: 2015-10-10 07:50:00 Z
+permalink: "/easy-stuffed-potato-bread-roll/"
+categories:
+- snacks
+tags:
+- bread
+- Potato
+id: 8
 author: admin
 layout: post
-permalink: /easy-stuffed-potato-bread-roll/
-categories:
-  - snacks
-tags:
-  - bread
-  - Potato
 ---
 
 Easy Stuffed Potato [Bread roll](http://en.wikipedia.org/wiki/Bread_roll "Bread roll")

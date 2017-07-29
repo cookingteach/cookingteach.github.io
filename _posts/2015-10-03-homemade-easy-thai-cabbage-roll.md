@@ -1,16 +1,16 @@
 ---
-id: 12
 title: Homemade Easy Thai Cabbage Roll
-date: 2015-10-03T15:45:00+00:00
+date: 2015-10-03 15:45:00 Z
+permalink: "/homemade-easy-thai-cabbage-roll/"
+categories:
+- Chinese Thai and Continenetal
+tags:
+- cabbage
+- Carrot
+- Tomato sauce
+id: 12
 author: admin
 layout: post
-permalink: /homemade-easy-thai-cabbage-roll/
-categories:
-  - Chinese Thai and Continenetal
-tags:
-  - cabbage
-  - Carrot
-  - Tomato sauce
 ---
 
 ## <span style="color: #990000; text-decoration: underline;">Homemade Thai Cabbage Roll</span>

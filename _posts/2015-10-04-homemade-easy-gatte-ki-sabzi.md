@@ -1,12 +1,12 @@
 ---
-id: 11
 title: Homemade Easy Gatte Ki Sabzi
-date: 2015-10-04T16:21:00+00:00
+date: 2015-10-04 16:21:00 Z
+permalink: "/homemade-easy-gatte-ki-sabzi/"
+categories:
+- Indian dish
+id: 11
 author: admin
 layout: post
-permalink: /homemade-easy-gatte-ki-sabzi/
-categories:
-  - Indian dish
 ---
 
 ![Gatte ki Sabzi]({{site.url}}/wp-content/uploads/2015/10/Gatte-ki-Sabzi-300x212.jpg)

@@ -1,32 +1,32 @@
 ---
-id: 368
 title: Homemade Easy Rajma Sandwich Recipe
-date: 2016-03-08T15:41:51+00:00
+date: 2016-03-08 15:41:51 Z
+permalink: "/homemade-easy-rajma-sandwich-recipe/"
+categories:
+- Healthy food
+tags:
+- bell pepper
+- capsicum
+- mushrooms
+- rajma
+id: 368
 author: admin
 layout: post
 guid: http://cookingteach.com/?p=368
-permalink: /homemade-easy-rajma-sandwich-recipe/
 wp_review_location:
-  - top
+- top
 wp_review_desc_title:
-  - Summary
+- Summary
 wp_review_color:
-  - '#FFCA00'
+- "#FFCA00"
 wp_review_fontcolor:
-  - '#fff'
+- "#fff"
 wp_review_bgcolor1:
-  - '#151515'
+- "#151515"
 wp_review_bgcolor2:
-  - '#151515'
+- "#151515"
 wp_review_bordercolor:
-  - '#151515'
-categories:
-  - Healthy food
-tags:
-  - bell pepper
-  - capsicum
-  - mushrooms
-  - rajma
+- "#151515"
 ---
 
 [![homemade rajma sandwich recipe]({{site.url}}/wp-content/uploads/2016/03/rajma-sandwich-300x200.jpg)](http://cookingteach.com/homemade-easy-rajma-sandwich-recipe/)

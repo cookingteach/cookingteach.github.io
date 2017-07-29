@@ -1,13 +1,13 @@
 ---
-id: 49
 title: Homemade Badaami Tangri Recipe
-date: 2015-03-26T17:29:00+00:00
+date: 2015-03-26 17:29:00 Z
+permalink: "/home-made-badaami-tangri-recipe/"
+categories:
+- Non Vegetarian
+id: 49
 author: admin
 layout: post
 guid: http://cookingteach.com/home-made-badaami-tangri-recipe/
-permalink: /home-made-badaami-tangri-recipe/
-categories:
-  - Non Vegetarian
 ---
 
 [![](http://2.bp.blogspot.com/-7p5XmcGMSIg/VRQ2QDRdlcI/AAAAAAAAAMM/qTlfrvdljVg/s1600/oetoGfdijghec_bigger.jpg)](http://2.bp.blogspot.com/-7p5XmcGMSIg/VRQ2QDRdlcI/AAAAAAAAAMM/qTlfrvdljVg/s1600/oetoGfdijghec_bigger.jpg)

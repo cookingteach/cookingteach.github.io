@@ -1,13 +1,13 @@
 ---
-id: 59
 title: Homemade Chilly Chicken Pizza
-date: 2015-03-14T17:49:00+00:00
+date: 2015-03-14 17:49:00 Z
+permalink: "/homemade-chilly-chicken-pizza/"
+categories:
+- Non Vegetarian
+id: 59
 author: admin
 layout: post
 guid: http://cookingteach.com/homemade-chilly-chicken-pizza/
-permalink: /homemade-chilly-chicken-pizza/
-categories:
-  - Non Vegetarian
 ---
 
 [![](http://2.bp.blogspot.com/-qHrH_q1GaT0/VQRmpUQJvQI/AAAAAAAAAJE/k510oclAc-U/s1600/2.jpg)](http://2.bp.blogspot.com/-qHrH_q1GaT0/VQRmpUQJvQI/AAAAAAAAAJE/k510oclAc-U/s1600/2.jpg)

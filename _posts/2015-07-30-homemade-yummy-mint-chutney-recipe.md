@@ -1,15 +1,15 @@
 ---
-id: 24
 title: Homemade Yummy Mint Chutney Recipe
-date: 2015-07-30T12:24:00+00:00
+date: 2015-07-30 12:24:00 Z
+permalink: "/homemade-yummy-mint-chutney-recipe/"
+categories:
+- sauce and chutney
+tags:
+- coriander leaves
+- mint
+id: 24
 author: admin
 layout: post
-permalink: /homemade-yummy-mint-chutney-recipe/
-categories:
-  - sauce and chutney
-tags:
-  - coriander leaves
-  - mint
 ---
 
 ## <span style="text-decoration: underline;">Homemade Yummy Mint Chutney Recipe</span>

@@ -1,13 +1,13 @@
 ---
-id: 27
 title: Homemade Veggie Thai red curry
-date: 2015-07-17T06:00:00+00:00
+date: 2015-07-17 06:00:00 Z
+permalink: "/homemade-veggie-thai-red-curry/"
+categories:
+- Chinese Thai and Continenetal
+id: 27
 author: admin
 layout: post
 guid: http://cookingteach.com/homemade-veggie-thai-red-curry/
-permalink: /homemade-veggie-thai-red-curry/
-categories:
-  - Chinese Thai and Continenetal
 ---
 
 [![Homemade Veggie Thai red curry](http://3.bp.blogspot.com/-ZAUCdKGfso8/VaiSYAfZF8I/AAAAAAAAAXk/3YLc3YODyLY/s320/ThaiRedFishCurry_2.jpg "Homemade Veggie Thai red curry")](http://3.bp.blogspot.com/-ZAUCdKGfso8/VaiSYAfZF8I/AAAAAAAAAXk/3YLc3YODyLY/s1600/ThaiRedFishCurry_2.jpg)

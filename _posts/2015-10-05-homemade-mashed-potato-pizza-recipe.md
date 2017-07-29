@@ -1,17 +1,17 @@
 ---
-id: 10
 title: Homemade Mashed Potato Pizza Recipe
-date: 2015-10-05T11:09:00+00:00
+date: 2015-10-05 11:09:00 Z
+permalink: "/homemade-mashed-potato-pizza-recipe/"
+categories:
+- FAST FOOD
+tags:
+- Black pepper
+- Mashed potato
+- mozzerella cheese
+- Olive oil
+id: 10
 author: admin
 layout: post
-permalink: /homemade-mashed-potato-pizza-recipe/
-categories:
-  - FAST FOOD
-tags:
-  - Black pepper
-  - Mashed potato
-  - mozzerella cheese
-  - Olive oil
 ---
 
 ## <span style="color: #cc0000; text-decoration: underline;">**Homemade Mashed Potato [Pizza](http://en.wikipedia.org/wiki/Pizza "Pizza") Recipe:**</span>

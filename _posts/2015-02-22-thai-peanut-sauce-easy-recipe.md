@@ -1,21 +1,21 @@
 ---
-id: 70
 title: Thai Peanut sauce easy recipe
-date: 2015-02-22T11:16:00+00:00
+date: 2015-02-22 11:16:00 Z
+permalink: "/thai-peanut-sauce-easy-recipe/"
+categories:
+- sauce and chutney
+id: 70
 author: admin
 layout: post
 guid: http://cookingteach.com/thai-peanut-sauce-easy-recipe/
-permalink: /thai-peanut-sauce-easy-recipe/
 mythemes-post-layout:
-  -
+- 
 mythemes-post-sidebar:
-  -
+- 
 blogger_blog:
-  - cookingteach1.blogspot.com
+- cookingteach1.blogspot.com
 blogger_author:
-  - Rup Saini
-categories:
-  - sauce and chutney
+- Rup Saini
 ---
 
 [![](http://1.bp.blogspot.com/-v5GfozTbfkI/VOmw8cazYRI/AAAAAAAAAFc/lIP7SmZ1lBU/s1600/1.jpg)](http://1.bp.blogspot.com/-v5GfozTbfkI/VOmw8cazYRI/AAAAAAAAAFc/lIP7SmZ1lBU/s1600/1.jpg)

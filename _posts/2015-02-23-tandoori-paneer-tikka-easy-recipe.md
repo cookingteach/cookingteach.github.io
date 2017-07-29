@@ -1,14 +1,13 @@
 ---
-id: 68
 title: Tandoori Paneer Tikka Easy Recipe
-date: 2015-02-23T08:21:00+00:00
+date: 2015-02-23 08:21:00 Z
+permalink: "/tandoori-paneer-tikka-easy-recipe/"
+categories:
+- Paneer
+id: 68
 author: admin
 layout: post
 guid: http://cookingteach.com/tandoori-paneer-tikka-easy-recipe/
-permalink: /tandoori-paneer-tikka-easy-recipe/
-categories:
-  - Paneer
-
 ---
 
 [![](http://3.bp.blogspot.com/-E8XtwTNlEAE/VOrUs4GJtxI/AAAAAAAAAGE/3I11SDCVeok/s1600/4.JPG)](http://3.bp.blogspot.com/-E8XtwTNlEAE/VOrUs4GJtxI/AAAAAAAAAGE/3I11SDCVeok/s1600/4.JPG)

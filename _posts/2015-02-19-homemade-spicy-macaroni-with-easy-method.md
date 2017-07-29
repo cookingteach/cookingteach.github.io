@@ -1,21 +1,21 @@
 ---
-id: 72
 title: Homemade Spicy Macaroni with easy method
-date: 2015-02-19T17:18:00+00:00
+date: 2015-02-19 17:18:00 Z
+permalink: "/homemade-spicy-macaroni-with-easy-method/"
+categories:
+- FAST FOOD
+id: 72
 author: admin
 layout: post
 guid: http://cookingteach.com/homemade-spicy-macaroni-with-easy-method/
-permalink: /homemade-spicy-macaroni-with-easy-method/
 mythemes-post-layout:
-  -
+- 
 mythemes-post-sidebar:
-  -
+- 
 blogger_blog:
-  - cookingteach1.blogspot.com
+- cookingteach1.blogspot.com
 blogger_author:
-  - Rup Saini
-categories:
-  - FAST FOOD
+- Rup Saini
 ---
 
 [![](http://3.bp.blogspot.com/-9yadvnmckFE/VOa4WGasg0I/AAAAAAAAAEs/CAc6jn53ios/s1600/macaroni-fromage-410.jpg)](http://3.bp.blogspot.com/-9yadvnmckFE/VOa4WGasg0I/AAAAAAAAAEs/CAc6jn53ios/s1600/macaroni-fromage-410.jpg)

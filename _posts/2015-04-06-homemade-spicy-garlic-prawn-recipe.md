@@ -1,13 +1,13 @@
 ---
-id: 44
 title: Homemade Spicy Garlic Prawn Recipe
-date: 2015-04-06T17:32:00+00:00
+date: 2015-04-06 17:32:00 Z
+permalink: "/homemade-spicy-garlic-prawn-recipe/"
+categories:
+- Non Vegetarian
+id: 44
 author: admin
 layout: post
 guid: http://cookingteach.com/homemade-spicy-garlic-prawn-recipe/
-permalink: /homemade-spicy-garlic-prawn-recipe/
-categories:
-  - Non Vegetarian
 ---
 
 [![](http://4.bp.blogspot.com/-4I7cRX-2_7k/VSK5RvOa3eI/AAAAAAAAANs/lP0mNHyf078/s1600/CrispyGarlicParsleyPrawns-540.jpg)](http://4.bp.blogspot.com/-4I7cRX-2_7k/VSK5RvOa3eI/AAAAAAAAANs/lP0mNHyf078/s1600/CrispyGarlicParsleyPrawns-540.jpg)

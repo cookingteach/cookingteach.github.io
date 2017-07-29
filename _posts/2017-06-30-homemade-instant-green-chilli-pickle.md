@@ -1,19 +1,18 @@
 ---
-
 title: Homemade Instant Green Chilli Pickle
-date: 2017-06-30T17:41:00+00:00
+date: 2017-06-30 17:41:00 Z
+categories:
+- Achaar and jam
+tags:
+- Green chilli
+- Achhar
+- Pickle
 author: admin
 layout: post
-categories:
-  - Achaar and jam
-tags: 
-  - Green chilli
-  - Achhar
-  - Pickle
-description: This Instant Green Chilli pickle is very simple and easy to make. Learn how to make this green chilli pickle recipe at home. Hope you will love this recipe.
-
-
+description: This Instant Green Chilli pickle is very simple and easy to make. Learn
+  how to make this green chilli pickle recipe at home. Hope you will love this recipe.
 ---
+
 <h1><span style="font-weight: 400;"><strong><span style="color: #ff0000;">Homemade Instant </span></strong><a class="zem_slink" title="List of Indian pickles" href="http://en.wikipedia.org/wiki/List_of_Indian_pickles" target="_blank" rel="wikipedia noopener noreferrer"><strong><span style="color: #ff0000;">Green Chilli Pickle</span></strong></a></span></h1>
 <b>Instant Green Chilli pickle</b> (Hari Mirch ka achaar) is very simple and easy to make. Learn how to make this green chilli pickle recipe at home with simple recipe steps. This recipes is made with roasted spices and can be enjoyed with parathas or meal. Hope you will love this recipe.
 

@@ -1,13 +1,13 @@
 ---
-id: 47
 title: Home-made Tamarind Rice With Raita
-date: 2015-04-04T17:03:00+00:00
+date: 2015-04-04 17:03:00 Z
+permalink: "/home-made-tamarind-rice-with-raita/"
+categories:
+- Rice
+id: 47
 author: admin
 layout: post
 guid: http://cookingteach.com/home-made-tamarind-rice-with-raita/
-permalink: /home-made-tamarind-rice-with-raita/
-categories:
-  - Rice
 ---
 
 [![](http://2.bp.blogspot.com/-O_h7cG0B18Q/VSAODH9llaI/AAAAAAAAAM0/LSQl3L1CIb8/s1600/IMG_1416.JPG)](http://2.bp.blogspot.com/-O_h7cG0B18Q/VSAODH9llaI/AAAAAAAAAM0/LSQl3L1CIb8/s1600/IMG_1416.JPG)

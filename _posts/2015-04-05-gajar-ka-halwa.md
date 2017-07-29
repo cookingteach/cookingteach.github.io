@@ -1,13 +1,13 @@
 ---
-id: 45
 title: Homemade Easy Gajar Ka Halwa
-date: 2015-04-05T17:10:00+00:00
+date: 2015-04-05 17:10:00 Z
+permalink: "/gajar-ka-halwa/"
+categories:
+- Desserts and Cakes
+id: 45
 author: admin
 layout: post
 guid: http://cookingteach.com/gajar-ka-halwa/
-permalink: /gajar-ka-halwa/
-categories:
-  - Desserts and Cakes
 ---
 
 [![](http://1.bp.blogspot.com/-3oWrcuJ5qi0/VSFZJiBKvvI/AAAAAAAAANY/2T7fEv0IWlw/s1600/maxresdefault.jpg)](http://1.bp.blogspot.com/-3oWrcuJ5qi0/VSFZJiBKvvI/AAAAAAAAANY/2T7fEv0IWlw/s1600/maxresdefault.jpg)

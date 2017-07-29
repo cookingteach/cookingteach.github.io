@@ -1,15 +1,15 @@
 ---
-id: 15
 title: Homemade Tasty Masala Tea Recipe
-date: 2015-10-02T14:43:00+00:00
+date: 2015-10-02 14:43:00 Z
+permalink: "/homemade-tasty-masala-tea-recipe/"
+categories:
+- Soups and Drinks
+tags:
+- cardamom
+- cinnamon stick
+id: 15
 author: admin
 layout: post
-permalink: /homemade-tasty-masala-tea-recipe/
-categories:
-  - Soups and Drinks
-tags:
-  - cardamom
-  - cinnamon stick
 ---
 
 ## <span style="color: #cc0000; text-decoration: underline;">Homemade Tasty [Masala Tea](http://en.wikipedia.org/wiki/Masala_chai "Masala chai") [Recipe](http://en.wikipedia.org/wiki/Chocolate_cake "Chocolate cake")</span>

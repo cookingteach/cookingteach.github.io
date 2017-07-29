@@ -1,51 +1,51 @@
-# Site settings
+---
 title: Cooking Teach | Homemade Easy Recipes
-description: All Indian,South Indian and World wide HomeMade Recipes. Learn how to make delicious recipes at home.
-baseurl: ""
-url: "https://cookingteach.com"
-img_url: "https://cookingteach.com/wp-content/uploads"
-logo: '/assets/logo.png'
-# User settings
+timezone: UTC
+collections:
+  posts:
+    title: Posts
+    output: true
+  uploads:
+    title: Uploads
+    output: true
+description: All Indian,South Indian and World wide HomeMade Recipes. Learn how to
+  make delicious recipes at home.
+baseurl: ''
+url: https://cookingteach.com
+img_url: https://cookingteach.com/wp-content/uploads
+logo: "/assets/logo.png"
 username: Cooking Teach
-user_description: All Indian,South Indian and World wide HomeMade Recipes.Learn how to make delicious recipes at home.
+user_description: All Indian,South Indian and World wide HomeMade Recipes.Learn how
+  to make delicious recipes at home.
 user_title: Cooking Teach
 email: support@cookingteach.com
 twitter_username: cookingteach
-github_username:  cookingteach
-gplus_username:  cookingteach
+github_username: cookingteach
+gplus_username: cookingteach
 disqus_username: cookingteach
-
 paginate: 6
-paginate_path: /page/:num/
+paginate_path: "/page/:num/"
 infinite_scroll: false
-#gems: ["jekyll-paginate","jekyll-redirect-from"]
-
-# Build settings
 markdown: kramdown
 kramdown:
   input: GFM
   syntax_highlighter: rouge
-permalink: /:title
-
-
-# html minify
+permalink: "/:title"
 compress_html:
   clippings: all
   comments: all
   endings: []
   profile: false
-
-# Links to include in menu navigation
-# For external links add external: true
 links:
-  - title: Home
-    url: /
-  - title: Series
-    url: /series
-  - title: Tags
-    url: /tags
-  - title: About Me
-    url: /about
-
-# exclude my node related stuff
-exclude: ['package.json', 'src', 'node_modules']
+- title: Home
+  url: "/"
+- title: Series
+  url: "/series"
+- title: Tags
+  url: "/tags"
+- title: About Me
+  url: "/about"
+exclude:
+- package.json
+- src
+- node_modules

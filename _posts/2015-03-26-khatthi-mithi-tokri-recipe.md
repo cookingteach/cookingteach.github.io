@@ -1,13 +1,13 @@
 ---
-id: 51
 title: Homemade Khatthi Mithi Tokri Recipe
-date: 2015-03-26T08:17:00+00:00
+date: 2015-03-26 08:17:00 Z
+permalink: "/khatthi-mithi-tokri-recipe/"
+categories:
+- snacks
+id: 51
 author: admin
 layout: post
 guid: http://cookingteach.com/khatthi-mithi-tokri-recipe/
-permalink: /khatthi-mithi-tokri-recipe/
-categories:
-  - snacks
 ---
 
 [![](http://3.bp.blogspot.com/-zGxtQQfyr9k/VROygDHcTjI/AAAAAAAAALo/OqV8HUfbTyY/s1600/download.jpg)](http://3.bp.blogspot.com/-zGxtQQfyr9k/VROygDHcTjI/AAAAAAAAALo/OqV8HUfbTyY/s1600/download.jpg)

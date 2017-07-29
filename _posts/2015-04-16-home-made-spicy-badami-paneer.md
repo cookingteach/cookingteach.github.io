@@ -1,13 +1,13 @@
 ---
-id: 39
 title: Homemade Spicy Badami Paneer
-date: 2015-04-16T08:05:00+00:00
+date: 2015-04-16 08:05:00 Z
+permalink: "/home-made-spicy-badami-paneer/"
+categories:
+- Indian dish
+id: 39
 author: admin
 layout: post
 guid: http://cookingteach.com/home-made-spicy-badami-paneer/
-permalink: /home-made-spicy-badami-paneer/
-categories:
-  - Indian dish
 ---
 
 [![Spicy Badami Paneer](http://4.bp.blogspot.com/-brNfo8VSkUY/VS9jo7Dz4WI/AAAAAAAAAQk/neYht8KZGJI/s1600/badami.jpg "Spicy Badami Paneer")](http://4.bp.blogspot.com/-brNfo8VSkUY/VS9jo7Dz4WI/AAAAAAAAAQk/neYht8KZGJI/s1600/badami.jpg)

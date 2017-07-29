@@ -1,13 +1,13 @@
 ---
-id: 63
 title: Easy Corn upma snack
-date: 2015-02-27T17:40:00+00:00
+date: 2015-02-27 17:40:00 Z
+permalink: "/corn-upma-snack/"
+categories:
+- snacks
+id: 63
 author: admin
 layout: post
 guid: http://cookingteach.com/corn-upma-snack/
-permalink: /corn-upma-snack/
-categories:
-  - snacks
 ---
 
 ## <span style="color: #38761d;"></span>

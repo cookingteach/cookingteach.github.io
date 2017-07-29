@@ -1,21 +1,21 @@
 ---
-id: 71
 title: Papadum Cone With Stuffed Cheese Recipe
-date: 2015-02-20T07:58:00+00:00
+date: 2015-02-20 07:58:00 Z
+permalink: "/papadumpapad-cone-with-stuffed-cheese-easy-tastydish/"
+categories:
+- HEALTHY FOOD
+id: 71
 author: admin
 layout: post
 guid: http://cookingteach.com/papadumpapad-cone-with-stuffed-cheese-easy-tastydish/
-permalink: /papadumpapad-cone-with-stuffed-cheese-easy-tastydish/
 mythemes-post-layout:
-  -
+- 
 mythemes-post-sidebar:
-  -
+- 
 blogger_blog:
-  - cookingteach1.blogspot.com
+- cookingteach1.blogspot.com
 blogger_author:
-  - Rup Saini
-categories:
-  - HEALTHY FOOD
+- Rup Saini
 ---
 
 [![](http://1.bp.blogspot.com/-Nbb5ZxZ-9k8/VObfL7BZOpI/AAAAAAAAAFM/EzLB0HwToh8/s1600/3.jpg)](http://1.bp.blogspot.com/-Nbb5ZxZ-9k8/VObfL7BZOpI/AAAAAAAAAFM/EzLB0HwToh8/s1600/3.jpg)

@@ -1,15 +1,15 @@
 ---
-id: 6
 title: Homemade Corn with Basil Tikki
-date: 2015-10-19T16:44:00+00:00
+date: 2015-10-19 16:44:00 Z
+permalink: "/homemade-corn-with-basil-tikki/"
+categories:
+- HEALTHY FOOD
+tags:
+- Black pepper
+- Tomato sauce
+id: 6
 author: admin
 layout: post
-permalink: /homemade-corn-with-basil-tikki/
-categories:
-  - HEALTHY FOOD
-tags:
-  - Black pepper
-  - Tomato sauce
 ---
 
 ## <span style="color: #990000; text-decoration: underline;">Homemade [Corn](http://en.wikipedia.org/wiki/Corned_beef "Corned beef") with Basil Tikki</span>

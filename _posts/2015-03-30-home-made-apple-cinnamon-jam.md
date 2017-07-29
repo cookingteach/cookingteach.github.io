@@ -1,13 +1,13 @@
 ---
-id: 48
 title: Homemade Apple Cinnamon Jam
-date: 2015-03-30T07:54:00+00:00
+date: 2015-03-30 07:54:00 Z
+permalink: "/home-made-apple-cinnamon-jam/"
+categories:
+- Achaar and Jam
+id: 48
 author: admin
 layout: post
 guid: http://cookingteach.com/home-made-apple-cinnamon-jam/
-permalink: /home-made-apple-cinnamon-jam/
-categories:
-  - Achaar and Jam
 ---
 
 [![](http://1.bp.blogspot.com/-kP_WXwQonj8/VRV-eDlL0qI/AAAAAAAAAMg/5_Ha2riGdyw/s1600/Apple-Cinnamon-Jam_big.jpg)](http://1.bp.blogspot.com/-kP_WXwQonj8/VRV-eDlL0qI/AAAAAAAAAMg/5_Ha2riGdyw/s1600/Apple-Cinnamon-Jam_big.jpg)

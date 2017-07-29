@@ -1,18 +1,18 @@
 ---
-id: 17
 title: Homemade Easy Rice Kheer Recipe
-date: 2015-09-23T08:05:00+00:00
+date: 2015-09-23 08:05:00 Z
+permalink: "/homemade-easy-rice-kheer-recipe/"
+categories:
+- Sweet Dish
+tags:
+- Almond
+- Cashew
+- kheer
+- milk
+- rice
+id: 17
 author: admin
 layout: post
-permalink: /homemade-easy-rice-kheer-recipe/
-categories:
-  - Sweet Dish
-tags:
-  - Almond
-  - Cashew
-  - kheer
-  - milk
-  - rice
 ---
 
 ## <span style="text-decoration: underline;">Homemade Easy Rice [Kheer](http://en.wikipedia.org/wiki/Kheer "Kheer") [Recipe](http://en.wikipedia.org/wiki/Chocolate_cake "Chocolate cake")</span>

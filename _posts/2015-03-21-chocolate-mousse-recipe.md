@@ -1,13 +1,13 @@
 ---
-id: 55
 title: Homemade Chocolate Mousse Recipe
-date: 2015-03-21T16:47:00+00:00
+date: 2015-03-21 16:47:00 Z
+permalink: "/chocolate-mousse-recipe/"
+categories:
+- Desserts and Cakes
+id: 55
 author: admin
 layout: post
 guid: http://cookingteach.com/chocolate-mousse-recipe/
-permalink: /chocolate-mousse-recipe/
-categories:
-  - Desserts and Cakes
 ---
 
 [![](http://2.bp.blogspot.com/-KnrRWF0CNfY/VQ2P3rQg6wI/AAAAAAAAAKU/JCCDZhy8Hgc/s1600/Irish_Cream_Chocolate_Mousse.jpg)](http://2.bp.blogspot.com/-KnrRWF0CNfY/VQ2P3rQg6wI/AAAAAAAAAKU/JCCDZhy8Hgc/s1600/Irish_Cream_Chocolate_Mousse.jpg)

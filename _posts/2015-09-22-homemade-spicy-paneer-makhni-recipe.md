@@ -1,20 +1,20 @@
 ---
-id: 18
 title: Homemade Spicy Paneer Makhni Recipe
-date: 2015-09-22T11:46:00+00:00
+date: 2015-09-22 11:46:00 Z
+permalink: "/homemade-spicy-paneer-makhni-recipe/"
+categories:
+- Paneer
+tags:
+- bay leaf
+- kashmiri red chilli
+- kasoori methi
+- makhni
+- paneer
+id: 18
 author: admin
 layout: post
-permalink: /homemade-spicy-paneer-makhni-recipe/
 redirect_from:
-- /2015/09/homemade-spicy-paneer-makhni-recipe.html
-categories:
-  - Paneer
-tags:
-  - bay leaf
-  - kashmiri red chilli
-  - kasoori methi
-  - makhni
-  - paneer
+- "/2015/09/homemade-spicy-paneer-makhni-recipe.html"
 ---
 
 ## <u>Homemade Spicy Paneer Makhni Recipe</u>

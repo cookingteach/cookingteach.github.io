@@ -1,16 +1,16 @@
 ---
-id: 14
 title: Homemade Easy Bread Idli Recipe
-date: 2015-10-02T17:12:00+00:00
+date: 2015-10-02 17:12:00 Z
+permalink: "/homemade-easy-bread-idli-recipe/"
+categories:
+- HEALTHY FOOD
+tags:
+- green chutney
+- idli
+- yogurt
+id: 14
 author: admin
 layout: post
-permalink: /homemade-easy-bread-idli-recipe/
-categories:
-  - HEALTHY FOOD
-tags:
-  - green chutney
-  - idli
-  - yogurt
 ---
 
 ## <span style="color: #cc0000; text-decoration: underline;">Homemade Easy [Bread](http://en.wikipedia.org/wiki/Bread "Bread") Idli Recipe</span>

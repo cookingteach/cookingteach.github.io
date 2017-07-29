@@ -1,13 +1,13 @@
 ---
-id: 32
 title: Homemade Easy Cheese Omelette
-date: 2015-05-09T09:43:00+00:00
+date: 2015-05-09 09:43:00 Z
+permalink: "/homemade-easy-cheese-omelette/"
+categories:
+- Non Vegetarian
+id: 32
 author: admin
 layout: post
 guid: http://cookingteach.com/homemade-easy-cheese-omelette/
-permalink: /homemade-easy-cheese-omelette/
-categories:
-  - Non Vegetarian
 ---
 
 [![Homemade Easy Cheese Omelette ](http://2.bp.blogspot.com/-7XsRZe9B2qo/VUziHzjvcQI/AAAAAAAAAUk/sV8NMdmY1G0/s320/148_omelette_with_tomato_basil_mergez_sausage_goat_cheese_cumin_caramelized_onion_13.50.jpg "Homemade Easy Cheese Omelette ")](http://2.bp.blogspot.com/-7XsRZe9B2qo/VUziHzjvcQI/AAAAAAAAAUk/sV8NMdmY1G0/s1600/148_omelette_with_tomato_basil_mergez_sausage_goat_cheese_cumin_caramelized_onion_13.50.jpg)

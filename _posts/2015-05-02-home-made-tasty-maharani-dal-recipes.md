@@ -1,13 +1,13 @@
 ---
-id: 34
 title: Homemade Tasty Maharani Dal Recipes
-date: 2015-05-02T17:47:00+00:00
+date: 2015-05-02 17:47:00 Z
+permalink: "/home-made-tasty-maharani-dal-recipes/"
+categories:
+- Indian dish
+id: 34
 author: admin
 layout: post
 guid: http://cookingteach.com/home-made-tasty-maharani-dal-recipes/
-permalink: /home-made-tasty-maharani-dal-recipes/
-categories:
-  - Indian dish
 ---
 
 [![Home-Made Tasty Maharani Dal Recipes](http://2.bp.blogspot.com/-pAFGjGbsCVs/VUUFok0ap_I/AAAAAAAAATo/NO_7ZftrSHw/s1600/maxresdefault.jpg "Home-Made Tasty Maharani Dal Recipes")](http://2.bp.blogspot.com/-pAFGjGbsCVs/VUUFok0ap_I/AAAAAAAAATo/NO_7ZftrSHw/s1600/maxresdefault.jpg)

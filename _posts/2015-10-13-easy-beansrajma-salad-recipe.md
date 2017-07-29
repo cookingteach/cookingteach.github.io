@@ -1,15 +1,15 @@
 ---
-id: 7
 title: Easy beans(rajma) Salad Recipe
-date: 2015-10-13T06:05:00+00:00
+date: 2015-10-13 06:05:00 Z
+permalink: "/easy-beansrajma-salad-recipe/"
+categories:
+- salad
+tags:
+- Bean
+- bell pepper
+id: 7
 author: admin
 layout: post
-permalink: /easy-beansrajma-salad-recipe/
-categories:
-  - salad
-tags:
-  - Bean
-  - bell pepper
 ---
 
 ## <span style="color: #990000; text-decoration: underline;">Easy Beans ([rajma](http://en.wikipedia.org/wiki/Rajma "Rajma")) Salad Recipe</span>

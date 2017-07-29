@@ -1,13 +1,13 @@
 ---
-id: 66
 title: Homemade Easy Maize flour idli
-date: 2015-02-24T17:26:00+00:00
+date: 2015-02-24 17:26:00 Z
+permalink: "/maize-flour-idli/"
+categories:
+- HEALTHY FOOD
+id: 66
 author: admin
 layout: post
 guid: http://cookingteach.com/maize-flour-idli/
-permalink: /maize-flour-idli/
-categories:
-  - HEALTHY FOOD
 ---
 
 [![](http://4.bp.blogspot.com/-TwaQAZtM5HM/VOyqnYGkphI/AAAAAAAAAGs/PQeEZb_TnJQ/s1600/11.jpg)](http://4.bp.blogspot.com/-TwaQAZtM5HM/VOyqnYGkphI/AAAAAAAAAGs/PQeEZb_TnJQ/s1600/11.jpg)

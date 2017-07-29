@@ -1,14 +1,14 @@
 ---
-id: 381
 title: Creamy Mushroom Matar Masala
-date: 2017-05-21T20:47:26+00:00
+date: 2017-05-21 20:47:26 Z
+categories:
+- HEALTHY FOOD
+tags:
+- Black pepper
+- Chickpea
+id: 381
 author: admin
 layout: post
-categories:
-  - HEALTHY FOOD
-tags:
-  - Black pepper
-  - Chickpea
 ---
 
 ![Creamy Mushroom Matar Masala]({{site.url}}/wp-content/uploads/2017/05/Mushroom-227x300.jpg)

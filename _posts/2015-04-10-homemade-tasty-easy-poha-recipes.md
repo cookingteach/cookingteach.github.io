@@ -1,13 +1,13 @@
 ---
-id: 42
 title: Homemade Tasty Easy Poha Recipes
-date: 2015-04-10T17:29:00+00:00
+date: 2015-04-10 17:29:00 Z
+permalink: "/homemade-tasty-easy-poha-recipes/"
+categories:
+- snacks
+id: 42
 author: admin
 layout: post
 guid: http://cookingteach.com/homemade-tasty-easy-poha-recipes/
-permalink: /homemade-tasty-easy-poha-recipes/
-categories:
-  - snacks
 ---
 
 [![Tasty Easy Poha Recipes](http://1.bp.blogspot.com/-8V-iv_9av9o/VSgAcoQhbtI/AAAAAAAAAOc/9jdQWUEBpQ4/s1600/poha.gif "Tasty Easy Poha Recipes")](http://1.bp.blogspot.com/-8V-iv_9av9o/VSgAcoQhbtI/AAAAAAAAAOc/9jdQWUEBpQ4/s1600/poha.gif)
