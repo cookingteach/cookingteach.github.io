@@ -1,19 +1,25 @@
 ---
-layout: "post"
-title: "Homemade Fresh Fruit Dessert Recipe"
-date: "2017-08-11 10:046"
-author: admin
+title: Homemade Fresh Fruit Dessert Recipe
+date: 2017-08-11 10:46:00 Z
 categories:
-  - Desserts and cakes
+- Desserts and cakes
 tags:
-  - fruits
-  - yogurt
-  - honey
-  - almonds
-
-description: Quick and easy, full of flavor and healthy homemade fresh fruit dessert recipe. Learn how to make fresh fruit dessert recipe with easy steps.
-keywords: ["Homemade Fresh Fruit Dessert Recipe", "quick fruit dessert recipes", "fruit dessert recipe", "easy fruit dessert recipe", "fresh fruit recipe"]
+- fruits
+- yogurt
+- honey
+- almonds
+layout: post
+author: admin
+description: Quick and easy, full of flavor and healthy homemade fresh fruit dessert
+  recipe. Learn how to make fresh fruit dessert recipe with easy steps.
+keywords:
+- Homemade Fresh Fruit Dessert Recipe
+- quick fruit dessert recipes
+- fruit dessert recipe
+- easy fruit dessert recipe
+- fresh fruit recipe
 ---
+
 <h2><strong><span style="color: #ff0000;">Homemade <a class="zem_slink" title="Fruit" href="http://en.wikipedia.org/wiki/Fruit" target="_blank" rel="wikipedia noopener">Fresh Fruit</a> <a class="zem_slink" title="Dessert" href="http://en.wikipedia.org/wiki/Dessert" target="_blank" rel="wikipedia noopener">Dessert Recipe</a></span></strong></h2>
 Fresh fruit dessert recipe is the perfect way to include fruits in your meal. Try these simple recipe steps to make this dessert recipe at home within few minutes.
 <h3><span style="color: #339966;"><strong>Ingredients</strong></span></h3>
