@@ -26,6 +26,7 @@ keywords:
 
 <h2><span style="color: #ff0000;"><strong>Homemade Vegetable Hakka Noodles Recipe</strong></span></h2>
 <strong>Hakka noodles</strong> is famous Chinese recipe commonly known as veg chow mein. This recipe is mainly prepared by tossing noodles &amp; fried vegetable in sauce. Try this recipe at home, hope you all will love it.
+![Homemade Yummy Hakka Noodles Recipe]({{site.img_url}}/2017/08/homemade-yummy-hakka-noodles-recipe.jpg)
 <h3><span style="color: #339966;"><strong>Ingredients</strong></span></h3>
 <ul>
  	<li>2 cup plain noodles (150 g pack)</li>
