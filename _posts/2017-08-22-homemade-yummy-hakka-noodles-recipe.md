@@ -1,28 +1,29 @@
 ---
-layout: "post"
-title: "Homemade Yummy Hakka Noodles Recipe"
-date: "2017-08-22 10:046"
-author: admin
+title: Homemade Yummy Hakka Noodles Recipe
+date: 2017-08-22 10:46:00 Z
 categories:
-  - Fast food
+- Fast food
 tags:
-  - Manchurian
-  - Black pepper
-  - Capsicum
-  - Cabbage
-  - Chilli sauce
-  - Soya sauce
-  - Tomato ketchup
-
-description: Hakka noodles recipe, how to make hakka noodles, vegetable hakka noodles,Traditional veg hakka noodles, hakka noodle, vegetable hakka noodles.
-keywords: 
-  - Homemade Yummy Hakka Noodles Recipe
-  - Hakka noodles recipe
-  - how to make hakka noodles
-  - vegetable hakka noodles
-  - Traditional veg hakka noodles
-  - vegetable hakka noodles
+- Manchurian
+- Black pepper
+- Capsicum
+- Cabbage
+- Chilli sauce
+- Soya sauce
+- Tomato ketchup
+layout: post
+author: admin
+description: Hakka noodles recipe, how to make hakka noodles, vegetable hakka noodles,Traditional
+  veg hakka noodles, hakka noodle, vegetable hakka noodles.
+keywords:
+- Homemade Yummy Hakka Noodles Recipe
+- Hakka noodles recipe
+- how to make hakka noodles
+- vegetable hakka noodles
+- Traditional veg hakka noodles
+- vegetable hakka noodles
 ---
+
 <h2><span style="color: #ff0000;"><strong>Homemade Vegetable Hakka Noodles Recipe</strong></span></h2>
 <strong>Hakka noodles</strong> is famous Chinese recipe commonly known as veg chow mein. This recipe is mainly prepared by tossing noodles &amp; fried vegetable in sauce. Try this recipe at home, hope you all will love it.
 <h3><span style="color: #339966;"><strong>Ingredients</strong></span></h3>
