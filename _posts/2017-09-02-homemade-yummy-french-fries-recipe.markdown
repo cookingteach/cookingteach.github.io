@@ -8,8 +8,7 @@ tags:
 - chaat masala
 layout: post
 author: admin
-description: Corn chaat recipe is easy to make in less time. Try this spicy corn chaat
-  recipe at home with our simple step by step method.
+description: How to make french fries, french fries recipe, easiest french fries, how to make perfect french fries, french fries recipe at home, crispy french fries.
 keywords: How to Make Homemade French Fries
 ---
 
