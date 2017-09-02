@@ -1,13 +1,13 @@
 ---
 title: How to Make Homemade French Fries
 date: 2017-09-02 10:46:00 Z
-layout: post
-author: admin
 categories:
 - Snacks
 tags:
 - potatoes
 - chaat masala
+layout: post
+author: admin
 description: Corn chaat recipe is easy to make in less time. Try this spicy corn chaat
   recipe at home with our simple step by step method.
 keywords: How to Make Homemade French Fries
