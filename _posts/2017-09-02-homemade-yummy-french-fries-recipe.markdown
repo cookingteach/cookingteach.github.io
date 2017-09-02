@@ -15,6 +15,7 @@ keywords: How to Make Homemade French Fries
 
 <h2><span style="color: #ff0000;"><strong>How to Make Homemade French Fries</strong></span></h2>
 French fries are one of the most delicious famous snack that everyone loves to eat. Learn how to make french fries at home.
+![How to Make Homemade French Fries]({{site.img_url}}/2017/09/homemade-yummy-french-fries-recipe.jpg)
 <h3><span style="color: #339966;"><strong>Ingredients</strong></span></h3>
 <ul>
  	<li>Potatoes- 500 gm</li>
