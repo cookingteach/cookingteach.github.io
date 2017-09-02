@@ -8,7 +8,8 @@ tags:
 - chaat masala
 layout: post
 author: admin
-description: How to make french fries, french fries recipe, easiest french fries, how to make perfect french fries, french fries recipe at home, crispy french fries.
+description: How to make french fries, french fries recipe, easiest french fries,
+  how to make perfect french fries, french fries recipe at home, crispy french fries.
 keywords: How to Make Homemade French Fries
 ---
 
