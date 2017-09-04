@@ -47,5 +47,6 @@ Follow below easy steps to make yummy homemade Fries:
  	<li>Take the fries out form pan and let them cool for 2 minutes..</li>
  	<li>Again, put these lightly fried potatoes in hot oil and fry them till becomes light brown.</li>
  	<li>French fires is ready.</li>
- 	<li>Sprinkle chaat masala over it and serve with sauce...</li>
+  <li>Sprinkle chaat masala over it and garnish with fresh chopped coriander leaves.</li>
+  <li>Serve it with sauce...</li>
 </ul>
