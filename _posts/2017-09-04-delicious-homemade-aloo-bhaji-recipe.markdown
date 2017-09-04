@@ -25,6 +25,7 @@ keywords:
   - potato bhaji for chapati
 <h2><span style="color: #ff0000;"><strong>Delicious Homemade Aloo (Potato) <a class="zem_slink" title="Bhaji" href="http://en.wikipedia.org/wiki/Bhaji" target="_blank" rel="wikipedia noopener">Bhaji</a> Recipe</strong></span></h2>
 Dry potato bhaji or aloo bhaji recipe is quick and easy to make. You can serve it with <a class="zem_slink" title="Chapati" href="http://en.wikipedia.org/wiki/Chapati" target="_blank" rel="wikipedia noopener">chapati</a> or poori. Learn how to make this recipe at home with our step by step procedure.
+![Delicious Homemade Aloo Bhaji Recipe]({{site.img_url}}/2017/09/delicious-homemade-aloo-bhaji-recipe.jpg)
 <h3><span style="color: #339966;"><strong>Ingredients</strong></span></h3>
 <ul>
  	<li>1 kg raw <a class="zem_slink" title="Potato" href="http://en.wikipedia.org/wiki/Potato" target="_blank" rel="wikipedia noopener">potato</a> (aloo) peeled and cut into pieces</li>
