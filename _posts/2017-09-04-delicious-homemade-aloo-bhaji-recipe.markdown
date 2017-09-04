@@ -1,9 +1,4 @@
 ---
-title: Delicious Homemade Aloo Bhaji Recipe
-date: 2017-09-04 00:00:00 Z
----
-
----
 layout: "post"
 title: "Delicious Homemade Aloo Bhaji Recipe"
 date: "2017-09-04 10:046"
