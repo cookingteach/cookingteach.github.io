@@ -1,26 +1,24 @@
 ---
-
-layout: "post"
-title: "Delicious Homemade Aloo Bhaji Recipe"
-date: "2017-09-04 10:046"
-author: admin
+title: Delicious Homemade Aloo Bhaji Recipe
+date: 2017-09-04 10:46:00 Z
 categories:
-  - Dry and semi dry
+- Dry and semi dry
 tags:
-  - cumin
-  - potato
-  - Fennel
-  - Coriander
-  
-
-description: Dry potato bhaji recipe, learn how to make aloo bhaji, aloo bhaji recipe, how to make aloo bhaji recipe, poori bhaji, potato bhaji for chapati, aloo bhaji.
-keywords: 
-  - Dry potato bhaji recipe
-  - learn how to make aloo bhaji
-  - aloo bhaji recipe
-  - how to make aloo bhaji recipe
-  - poori bhaji
-  - potato bhaji for chapati
+- cumin
+- potato
+- Fennel
+- Coriander
+layout: post
+author: admin
+description: Dry potato bhaji recipe, learn how to make aloo bhaji, aloo bhaji recipe,
+  how to make aloo bhaji recipe, poori bhaji, potato bhaji for chapati, aloo bhaji.
+keywords:
+- Dry potato bhaji recipe
+- learn how to make aloo bhaji
+- aloo bhaji recipe
+- how to make aloo bhaji recipe
+- poori bhaji
+- potato bhaji for chapati
 ---
 
 <h2><span style="color: #ff0000;"><strong>Delicious Homemade Aloo (Potato) <a class="zem_slink" title="Bhaji" href="http://en.wikipedia.org/wiki/Bhaji" target="_blank" rel="wikipedia noopener">Bhaji</a> Recipe</strong></span></h2>
