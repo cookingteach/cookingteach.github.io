@@ -1,28 +1,29 @@
 ---
-layout: "post"
-title: "Homemade Yummy Mixed Vegetable Cutlet"
-date: "2017-09-12 10:046"
-author: admin
+title: Homemade Yummy Mixed Vegetable Cutlet
+date: 2017-09-12 10:46:00 Z
 categories:
-  - Snacks
+- Snacks
 tags:
-  - cutlets
-  - potato
-  - beans
-  - beetroot
-  - lemon juice
-  - coriander
-  - mixed vegetable
-
-description: vegetable cutlet recipe, how to make vegetable cutlets recipe, veg cutlets recipe, make vegetable cutlets, mixed vegetable cutlets, how to make cutlets..
-keywords: 
-  - Homemade Yummy mixed vegetable cutlet
-  - veg cutlet recipe
-  - how to make vegetable cutlets
-  - mixed vegetable cutlets
-  - vegetable cutlet recipe
-  - make vegetable cutlets
+- cutlets
+- potato
+- beans
+- beetroot
+- lemon juice
+- coriander
+- mixed vegetable
+layout: post
+author: admin
+description: vegetable cutlet recipe, how to make vegetable cutlets recipe, veg cutlets
+  recipe, make vegetable cutlets, mixed vegetable cutlets, how to make cutlets..
+keywords:
+- Homemade Yummy mixed vegetable cutlet
+- veg cutlet recipe
+- how to make vegetable cutlets
+- mixed vegetable cutlets
+- vegetable cutlet recipe
+- make vegetable cutlets
 ---
+
 <h2><span style="color: #ff0000;"><strong>Yummy Mixed vegetable cutlet</strong></span></h2>
 Vegetable cutlet is great combination of green vegetables. There are multiple type of cutlet recipe. Today i am going to share with you vegetable cutlet recipe. Learn how to make vegetable cutlet recipe with simple and easy steps. Hope you will love it.
 
