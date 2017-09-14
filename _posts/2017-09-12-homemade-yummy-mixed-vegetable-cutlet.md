@@ -30,6 +30,7 @@ Vegetable cutlet is great combination of green vegetables. There are multiple ty
 <strong>Total time : 35 minutes</strong>
 
 <strong>Serving people: 4</strong>
+![Homemade Yummy Mixed Vegetable Cutlet]({{site.img_url}}/2017/09/homemade-yummy-mixed-vegetable-cutlets.jpg)
 <h3><strong><span style="color: #339966;">Ingredients</span></strong></h3>
 <ul>
  	<li>5-6 boiled and mashed potatoes (aloo)</li>
@@ -75,6 +76,7 @@ Vegetable cutlet is great combination of green vegetables. There are multiple ty
  	<li>Take a pan and add oil for shallow fry and heat it up.</li>
  	<li>Take a portion of mixture and make a ball and roll it in breadcrumbs.</li>
  	<li>Press them lightly from center.</li>
+  ![Homemade Yummy Mixed Vegetable Cutlet]({{site.img_url}}/2017/09/homemade-yummy-mioxed-vegetable-cutlet.jpg)
  	<li>Make more balls like that.</li>
  	<li>Now, shallow fry these cutlets (balls) from both sides until become golden brown.</li>
  	<li>Place these shallow fried cutlets on tissue paper or absorbent paper.</li>
