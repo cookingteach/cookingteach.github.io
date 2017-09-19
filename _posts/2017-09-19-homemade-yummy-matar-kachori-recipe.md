@@ -1,30 +1,27 @@
 ---
 title: Homemade Yummy Matar Kachori Recipe
 date: 2017-09-19 00:00:00 Z
-
-
 categories:
-  - Snacks
+- Snacks
 tags:
-  - green peas
-  - chaat masala
-  - cumin 
-  - all purpose flour
-  - baking powder
-  - coriander leaves
-  - fennel powder
-
-description: making matar kachori stuffing,matar kachori, khasta matar kachori recipe,matar kachori recipe,how to make matar kachori,how to make matar ki kachori,kachori
-
-
-keywords: 
-  - Homemade Yummy matar kachori recipe
-  - making matar kachori stuffing
-  - how to make matar ki kachori
-  - matar kachori
-  - khasta matar kachori
-  - matar kachori recipe
+- green peas
+- chaat masala
+- cumin
+- all purpose flour
+- baking powder
+- coriander leaves
+- fennel powder
+description: making matar kachori stuffing,matar kachori, khasta matar kachori recipe,matar
+  kachori recipe,how to make matar kachori,how to make matar ki kachori,kachori
+keywords:
+- Homemade Yummy matar kachori recipe
+- making matar kachori stuffing
+- how to make matar ki kachori
+- matar kachori
+- khasta matar kachori
+- matar kachori recipe
 ---
+
 <h2><span style="color: #ff0000;"><strong>Homemade Matar <a class="zem_slink" title="Kachori" href="http://en.wikipedia.org/wiki/Kachori" target="_blank" rel="wikipedia noopener">Kachori</a> </strong></span><span style="color: #ff0000;"><b>Recipe</b></span></h2>
 Matar kachori is perfect <a class="zem_slink" title="North India" href="http://en.wikipedia.org/wiki/North_India" target="_blank" rel="wikipedia noopener">North Indian</a> snack having inside very tasty, flavored green peas stuffing. Here are some easy steps to make this tasty snack at home.
 ![Homemade Yummy Matar Kachori Recipe]({{site.img_url}}/2017/09/homemade-yummy-matar-kachori-recipe.jpg)
