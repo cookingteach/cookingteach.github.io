@@ -1,6 +1,6 @@
 ---
 layout: "post"
-title: "Homemade Yummy Aplle Kheer recipe"
+title: "Homemade Yummy Apple Kheer recipe"
 date: "2017-09-12 10:046"
 author: admin
 categories:
@@ -24,6 +24,7 @@ keywords:
   
   <h2><span style="color: #ff0000;"><strong>Homemade Yummy Apple <a class="zem_slink" title="Kheer" href="http://en.wikipedia.org/wiki/Kheer" target="_blank" rel="wikipedia noopener">Kheer</a> Recipe</strong></span></h2>
 Apple kheer is easy <a class="zem_slink" title="Dessert" href="http://en.wikipedia.org/wiki/Dessert" target="_blank" rel="wikipedia noopener">dessert recipe</a> generally made during fasts. This recipe is a great combination of grated apples and milk. Learn how to make this delicious recipe at home with our simple recipe steps.
+![Homemade Yummy Aplle Kheer recipe]({{site.img_url}}/2017/09/homemade-yummy-apple-kheer-recipe.jpg)
 <h3><span style="color: #339966;"><strong>Ingredients</strong></span></h3>
 <ul>
  	<li>500 gm apple</li>
