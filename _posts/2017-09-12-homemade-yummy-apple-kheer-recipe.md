@@ -1,27 +1,27 @@
 ---
-layout: "post"
-title: "Homemade Yummy Aplle Kheer recipe"
-date: "2017-09-12 10:046"
-author: admin
+title: Homemade Yummy Aplle Kheer recipe
+date: 2017-09-12 10:46:00 Z
 categories:
-  - Sweet dish
+- Sweet dish
 tags:
-  - baking powder
-  - cashew nuts
-  - cardamom powder
-  - raisins
-  
-description: how to make apple kheer recipe, learn about apple kheer recipe, apple kheer recipe, seb ki kheer, apple kheer, how to make seb kheer recipe, apple kheer.
+- baking powder
+- cashew nuts
+- cardamom powder
+- raisins
+layout: post
+author: admin
+description: how to make apple kheer recipe, learn about apple kheer recipe, apple
+  kheer recipe, seb ki kheer, apple kheer, how to make seb kheer recipe, apple kheer.
 keywords:
-  - how to make apple kheer recipe
-  - learn about apple kheer recipe
-  - apple kheer recipe
-  - seb ki kheer
-  - apple kheer
-  - how to make seb kheer recipe
-  - apple kheer recipe
----  
-  
+- how to make apple kheer recipe
+- learn about apple kheer recipe
+- apple kheer recipe
+- seb ki kheer
+- apple kheer
+- how to make seb kheer recipe
+- apple kheer recipe
+---
+
   <h2><span style="color: #ff0000;"><strong>Homemade Yummy Apple <a class="zem_slink" title="Kheer" href="http://en.wikipedia.org/wiki/Kheer" target="_blank" rel="wikipedia noopener">Kheer</a> Recipe</strong></span></h2>
 Apple kheer is easy <a class="zem_slink" title="Dessert" href="http://en.wikipedia.org/wiki/Dessert" target="_blank" rel="wikipedia noopener">dessert recipe</a> generally made during fasts. This recipe is a great combination of grated apples and milk. Learn how to make this delicious recipe at home with our simple recipe steps.
 <h3><span style="color: #339966;"><strong>Ingredients</strong></span></h3>
