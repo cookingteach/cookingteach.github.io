@@ -46,7 +46,7 @@ Matar kachori is perfect <a class="zem_slink" title="North India" href="http://e
  	<li>1-2 finely chopped <a class="zem_slink" title="Chili pepper" href="http://en.wikipedia.org/wiki/Chili_pepper" target="_blank" rel="wikipedia noopener">green chillies</a></li>
  	<li>1 tbsp  ginger paste</li>
  	<li>salt to taste</li>
- 	<li><a href="http://nutritionadvance.com/best-oil-for-deep-frying">oil</a> for frying</li>
+ 	<li>oil for frying</li>
 </ul>
 <h4><strong>For Garnish</strong></h4>
 <ul>
