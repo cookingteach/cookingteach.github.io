@@ -1,28 +1,29 @@
 ---
-layout: "post"
-title: "Homemade Paneer Frankie Recipe"
-date: "2017-10-17 10:046"
-author: admin
+title: Homemade Paneer Frankie Recipe
+date: 2017-10-17 10:46:00 Z
 categories:
-  - Snacks
+- Snacks
 tags:
-  - paneer
-  - capsicum
-  - tomato sauce 
-  - soya sauce
-  - cabbage
-  - carrot
-  - chilli sauce
-
-description: paneer frankie recipe, veg paneer frankie recipe,paneer frankie vegetarian recipe,kathi rolls, paneer kathi roll recipe,paneer frankie wrap,paneer wrap.
-keywords: 
-  - Homemade Paneer Frankie Recipe
-  - paneer frankie recipe
-  - veg paneer frankie recipe
-  - paneer frankie vegetarian recipe
-  - kathi rolls
-  - paneer kathi roll recipe
+- paneer
+- capsicum
+- tomato sauce
+- soya sauce
+- cabbage
+- carrot
+- chilli sauce
+layout: post
+author: admin
+description: paneer frankie recipe, veg paneer frankie recipe,paneer frankie vegetarian
+  recipe,kathi rolls, paneer kathi roll recipe,paneer frankie wrap,paneer wrap.
+keywords:
+- Homemade Paneer Frankie Recipe
+- paneer frankie recipe
+- veg paneer frankie recipe
+- paneer frankie vegetarian recipe
+- kathi rolls
+- paneer kathi roll recipe
 ---
+
 <h2><span style="color: #ff0000;"><strong>Homemade Paneer Frankie Recipe</strong></span></h2>
 Paneer frankie is awesome recipe for paneer lovers also known ad kathi rolls. This delicious recipe is fully stuffed with paneer stuffing. Try this delicious recipe at home with our easy recipe steps.
 <h3><span style="color: #339966;"><strong>Ingredients</strong></span></h3>
