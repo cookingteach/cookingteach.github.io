@@ -26,6 +26,7 @@ keywords:
 
 <h2><span style="color: #ff0000;"><strong>Homemade Paneer Frankie Recipe</strong></span></h2>
 Paneer frankie is awesome recipe for paneer lovers also known ad kathi rolls. This delicious recipe is fully stuffed with paneer stuffing. Try this delicious recipe at home with our easy recipe steps.
+![Homemade Paneer Frankie Recipe]({{site.img_url}}/2017/10/homemade-yummy-paneer-frankie-recipe.jpg)
 <h3><span style="color: #339966;"><strong>Ingredients</strong></span></h3>
 <h4><strong>For Stuffing</strong></h4>
 <ul>
