@@ -1,27 +1,29 @@
 ---
-layout: "post"
-title: "Homemade Doda Barfi recipe"
-date: "2017-11-22 10:046"
-author: admin
+title: Homemade Doda Barfi recipe
+date: 2017-11-22 10:46:00 Z
 categories:
-  - Desserts and cakes
+- Desserts and cakes
 tags:
-  - barfi
-  - cocoa powder
-  - almonds 
-  - pistachios
-  - dalia
-  - cashew nuts
-  
-description: how to make doda barfi, doda barfi, dodha barfi recipe, homemade doda barfi recipe, dodha burfi recipe,dodha barfi recipe , dodha barfi, dodha recipe, dodha
-keywords: 
-  - how to make doda barfi
-  - doda barfi
-  - dodha barfi recipe
-  - homemade doda barfi recipe
-  - dodha burfi recipe
-  - dodha recipe
+- barfi
+- cocoa powder
+- almonds
+- pistachios
+- dalia
+- cashew nuts
+layout: post
+author: admin
+description: how to make doda barfi, doda barfi, dodha barfi recipe, homemade doda
+  barfi recipe, dodha burfi recipe,dodha barfi recipe , dodha barfi, dodha recipe,
+  dodha
+keywords:
+- how to make doda barfi
+- doda barfi
+- dodha barfi recipe
+- homemade doda barfi recipe
+- dodha burfi recipe
+- dodha recipe
 ---
+
 <h2><span style="color: #ff0000;"><strong>Homemade Doda <a class="zem_slink" title="Barfi" href="http://en.wikipedia.org/wiki/Barfi" target="_blank" rel="wikipedia noopener">Barfi</a> Recipe</strong></span></h2>
 Doda barfi is really yummy dessert. It is made from milk, cream, dalia and some dry nuts. Try this doda barfi at home with our step by step recipe method.
 <h3 style="text-align: left;"><span style="color: #339966;"><strong>Ingredients</strong></span></h3>
