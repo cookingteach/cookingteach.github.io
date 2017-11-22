@@ -26,6 +26,7 @@ keywords:
 
 <h2><span style="color: #ff0000;"><strong>Homemade Doda <a class="zem_slink" title="Barfi" href="http://en.wikipedia.org/wiki/Barfi" target="_blank" rel="wikipedia noopener">Barfi</a> Recipe</strong></span></h2>
 Doda barfi is really yummy dessert. It is made from milk, cream, dalia and some dry nuts. Try this doda barfi at home with our step by step recipe method.
+![Homemade Doda Barfi recipe]({{site.img_url}}/2017/11/homemade-doda-barfi-recipe.jpg)
 <h3 style="text-align: left;"><span style="color: #339966;"><strong>Ingredients</strong></span></h3>
 <ul>
  	<li style="text-align: left;">4 cup <a class="zem_slink" title="Milk" href="http://en.wikipedia.org/wiki/Milk" target="_blank" rel="wikipedia noopener">milk</a></li>
