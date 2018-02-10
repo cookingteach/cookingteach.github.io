@@ -2,7 +2,7 @@
 title: How to Make Homemade French Fries
 date: 2017-09-02 10:46:00 Z
 categories:
-- Snacks
+- snacks
 tags:
 - potatoes
 - chaat masala
