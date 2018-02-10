@@ -3,7 +3,7 @@ title: Homemade Apple Cinnamon Jam
 date: 2015-03-30 07:54:00 Z
 permalink: "/home-made-apple-cinnamon-jam/"
 categories:
-- Achaar and Jam
+- Achaar and jam
 id: 48
 author: admin
 layout: post
