@@ -2,7 +2,7 @@
 title: Homemade Traditional Balushahi Recipe
 date: 2017-06-28 15:41:00 Z
 categories:
-- Sweet dish
+- Sweet Dish
 tags:
 - Baking powder
 - Sugar
