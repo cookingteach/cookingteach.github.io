@@ -3,7 +3,7 @@ title: Homemade Easy Rajma Sandwich Recipe
 date: 2016-03-08 15:41:51 Z
 permalink: "/homemade-easy-rajma-sandwich-recipe/"
 categories:
-- Healthy food
+- HEALTHY FOOD
 tags:
 - bell pepper
 - capsicum
