@@ -2,7 +2,7 @@
 title: Homemade Kashmiri kofta Gravy
 date: 2017-06-29 15:41:00 Z
 categories:
-- Non vegetarian
+- Non Vegetarian
 tags:
 - Chicken
 - Egg
