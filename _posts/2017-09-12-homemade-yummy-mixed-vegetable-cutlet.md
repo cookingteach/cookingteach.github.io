@@ -2,7 +2,7 @@
 title: Homemade Yummy Mixed Vegetable Cutlet
 date: 2017-09-12 10:46:00 Z
 categories:
-- Snacks
+- snacks
 tags:
 - cutlets
 - potato
