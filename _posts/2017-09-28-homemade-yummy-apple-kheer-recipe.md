@@ -2,7 +2,7 @@
 title: Homemade Yummy Apple Kheer recipe
 date: 2017-09-28 10:46:00 Z
 categories:
-- Sweet dish
+- Sweet Dish
 tags:
 - baking powder
 - cashew nuts
