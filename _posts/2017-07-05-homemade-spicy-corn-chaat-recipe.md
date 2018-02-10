@@ -2,7 +2,7 @@
 title: Homemade Spicy Corn Chaat Recipe
 date: 2017-07-05 10:46:00 Z
 categories:
-- Snacks
+- snacks
 tags:
 - Bell pepper
 - Black pepper
