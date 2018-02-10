@@ -3,7 +3,7 @@ title: Homemade Mashed Potato Pizza Recipe
 date: 2015-10-05 11:09:00 Z
 permalink: "/homemade-mashed-potato-pizza-recipe/"
 categories:
-- FAST FOOD
+- Fast food
 tags:
 - Black pepper
 - Mashed potato
