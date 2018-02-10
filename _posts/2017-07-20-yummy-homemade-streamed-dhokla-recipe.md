@@ -2,7 +2,7 @@
 title: Yummy Homemade Steamed Dhokla Recipe
 date: 2017-07-20 10:46:00 Z
 categories:
-- Snacks
+- snacks
 tags:
 - dhokla
 - gram flour
