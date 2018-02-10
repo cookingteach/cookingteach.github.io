@@ -2,7 +2,7 @@
 title: Homemade Doda Barfi recipe
 date: 2017-11-22 10:46:00 Z
 categories:
-- Desserts and cakes
+- Desserts and Cakes
 tags:
 - barfi
 - cocoa powder
