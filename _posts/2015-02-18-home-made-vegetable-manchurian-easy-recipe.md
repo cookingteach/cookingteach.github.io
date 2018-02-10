@@ -3,7 +3,7 @@ title: Homemade Vegetable Manchurian Recipe
 date: 2015-02-18 15:41:00 Z
 permalink: "/home-made-vegetable-manchurian-easy-recipe/"
 categories:
-- FAST FOOD
+- Fast food
 id: 73
 author: admin
 layout: post
