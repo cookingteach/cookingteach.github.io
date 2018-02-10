@@ -3,7 +3,7 @@ title: Homemade Veg Noodles easy recipe
 date: 2015-02-23 16:42:00 Z
 permalink: "/veg-noodles-easy-recipe/"
 categories:
-- FAST FOOD
+- Fast food
 id: 67
 author: admin
 layout: post
