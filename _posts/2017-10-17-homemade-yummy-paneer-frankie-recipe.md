@@ -2,7 +2,7 @@
 title: Homemade Paneer Frankie Recipe
 date: 2017-10-17 10:46:00 Z
 categories:
-- Snacks
+- snacks
 tags:
 - paneer
 - capsicum
