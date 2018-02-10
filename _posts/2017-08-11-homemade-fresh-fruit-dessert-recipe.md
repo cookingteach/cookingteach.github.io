@@ -2,7 +2,7 @@
 title: Homemade Fresh Fruit Dessert Recipe
 date: 2017-08-11 10:46:00 Z
 categories:
-- Desserts and cakes
+- Desserts and Cakes
 tags:
 - fruits
 - yogurt
