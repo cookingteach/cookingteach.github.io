@@ -3,7 +3,7 @@ title: Homemade Spicy Macaroni with easy method
 date: 2015-02-19 17:18:00 Z
 permalink: "/homemade-spicy-macaroni-with-easy-method/"
 categories:
-- FAST FOOD
+- Fast food
 id: 72
 author: admin
 layout: post
