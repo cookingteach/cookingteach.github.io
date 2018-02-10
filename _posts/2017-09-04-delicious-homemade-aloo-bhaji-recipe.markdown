@@ -2,7 +2,7 @@
 title: Delicious Homemade Aloo Bhaji Recipe
 date: 2017-09-04 10:46:00 Z
 categories:
-- Dry and semi dry
+- dry and semi dry
 tags:
 - cumin
 - potato
