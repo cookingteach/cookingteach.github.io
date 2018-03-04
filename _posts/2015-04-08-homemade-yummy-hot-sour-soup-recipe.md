@@ -1,5 +1,5 @@
 ---
-title: Homemade Yummy Hot &#038; Sour Soup Recipe
+title: Homemade Yummy Hot & Sour Soup Recipe
 date: 2015-04-08 17:57:00 Z
 permalink: "/homemade-yummy-hot-sour-soup-recipe/"
 categories:
