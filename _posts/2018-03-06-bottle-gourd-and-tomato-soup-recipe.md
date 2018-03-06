@@ -9,11 +9,11 @@ tags:
 - olive oil
 - coriander leaves
 - cumin
-
 layout: post
 author: admin
-description: Bottle Gourd and Tomato Soup recipe, bottle gourd soup recipe, lauki soup recipe, dudhi soup recipe, lauki soup recipe, bottle gourd and tomato soup, lauki
-  
+description: Bottle Gourd and Tomato Soup recipe, bottle gourd soup recipe, lauki
+  soup recipe, dudhi soup recipe, lauki soup recipe, bottle gourd and tomato soup,
+  lauki
 keywords:
 - Bottle Gourd and Tomato Soup recipe
 - bottle gourd soup recipe
@@ -22,6 +22,7 @@ keywords:
 - dudhi soup recipe
 - bottle gourd and tomato soup
 ---
+
 <h2><span style="color: #ff0000;"><strong>Low Calorie Bottle Gourd &amp; Tomato Soup</strong></span></h2>
 Bottle Gourd Soup is full with nutrition. It is low in calories and wonderful recipe to start your day. It helps you to maintaining your digestive system healthy. Enjoy this recipe!
 
