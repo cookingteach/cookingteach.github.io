@@ -25,6 +25,7 @@ keywords:
 
 <h2><span style="color: #ff0000;"><strong>Low Calorie Bottle Gourd &amp; Tomato Soup</strong></span></h2>
 Bottle Gourd Soup is full with nutrition. It is low in calories and wonderful recipe to start your day. It helps you to maintaining your digestive system healthy. Enjoy this recipe!
+![Bottle Gourd and Tomato Soup Recipe]({{site.img_url}}/2018/03/bottle-gourd-soup.jpg)
 
 <strong>Main ingredient:</strong> Bottle gourd and tomato
 Cuisine: Indian
